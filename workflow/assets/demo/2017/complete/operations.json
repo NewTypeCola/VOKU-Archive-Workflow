@@ -1,0 +1,5960 @@
+{
+  "version": "run-v4-webp-q90-cancelled-token-fix-1",
+  "font_sha256": "f2fe69e39644d04a9484802044836ba9d4a950aed2e32b006a3e16d5df5f49f1",
+  "pages": [
+    {
+      "filename": "p01.webp",
+      "safe_input_sha256": "03fbc4b6bee6ad52dce70e3d01770e1d82368ba79cff9740b9cd751e9e4d7614",
+      "final_sha256": "c8ced35ca4230a348cdf1a981c0c67a70b54572a7576c5845bf205d37ba51179",
+      "names": [
+        {
+          "region_id": "R042",
+          "class": "staff",
+          "synthetic_name": "정하람",
+          "observed_form": "정하람",
+          "token": "하늘연못",
+          "erase_box": [
+            376,
+            900,
+            507,
+            945
+          ],
+          "token_role": "crew",
+          "token_layout": "4",
+          "font_base_px": 16,
+          "font_raster_px": 33,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            381,
+            905,
+            501,
+            939
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R043",
+          "class": "staff",
+          "synthetic_name": "차민재",
+          "observed_form": "차민재",
+          "token": "은빛물결",
+          "erase_box": [
+            978,
+            899,
+            1105,
+            949
+          ],
+          "token_role": "crew",
+          "token_layout": "4",
+          "font_base_px": 16,
+          "font_raster_px": 33,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            984,
+            907,
+            1104,
+            941
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R044",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고나린",
+          "token": "봄날햇살",
+          "erase_box": [
+            1724,
+            900,
+            1853,
+            951
+          ],
+          "token_role": "crew",
+          "token_layout": "4",
+          "font_base_px": 16,
+          "font_raster_px": 33,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1730,
+            908,
+            1850,
+            942
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R045",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배서우",
+          "token": "산들구름",
+          "erase_box": [
+            1880,
+            901,
+            2024,
+            950
+          ],
+          "token_role": "crew",
+          "token_layout": "4",
+          "font_base_px": 16,
+          "font_raster_px": 33,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1891,
+            908,
+            2011,
+            942
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        }
+      ],
+      "erase_sequence": [
+        "R042",
+        "R043",
+        "R044",
+        "R045"
+      ],
+      "contact_boxes": [],
+      "approval_cells": [
+        {
+          "cell": 3,
+          "box": [
+            1354,
+            608,
+            1675,
+            758
+          ]
+        },
+        {
+          "cell": 5,
+          "box": [
+            1744,
+            608,
+            1912,
+            758
+          ]
+        },
+        {
+          "cell": 7,
+          "box": [
+            1984,
+            608,
+            2160,
+            758
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "f2ba3d0100dade4c4187f361955a16c1d73e020923385d4e0bedeb653b801e78",
+          "mask_sha256": "7b84ec092bab532f02a2bf22a4440f96c7202ff3b9cee20dde5cceb3c77f16ab",
+          "mask_pixels": 25880
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "3c930848c6b90172dcd49bef21cf7c822036b9bff6cb6ebf088a36049994b615",
+          "mask_sha256": "35373e9ec9f1d6c9187862414bdf45e982c3f2657f21a8d9fadf4e8357194d5d",
+          "mask_pixels": 99750
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "0bcd603f3e314676051988c287e485dbee5ea7ed99c7b06f11ec011a76c7aae3",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "a537bfb2ae044f76fa4ff2867762e5a8374a1b43149f4147727ccf6cd0f2c2e1",
+      "final_pixel_sha256": "375ffc5d2c9610b30870b9a1097bc861ca30ff7e58b151625a047378f642f413",
+      "final_decoded_pixel_sha256": "a715e99e449dd73cf1ffabd195adcbe5ec27e34154006f66e9146199b1fe87a7",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    },
+    {
+      "filename": "p02a.webp",
+      "safe_input_sha256": "0063c4a01a281b4401e917c0a060dd552bcf95d336fa63f7aac8942cd5662aff",
+      "final_sha256": "7fd8740033930abac2211935b9a7994d3e0864b02e5bdb97d6d06e4000dd0838",
+      "names": [
+        {
+          "region_id": "R046",
+          "class": "staff",
+          "synthetic_name": "정하람",
+          "observed_form": "정하람",
+          "token": "하늘연못",
+          "erase_box": [
+            1359,
+            452,
+            1459,
+            491
+          ],
+          "token_role": "crew",
+          "token_layout": "4",
+          "font_base_px": 16,
+          "font_raster_px": 23,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1367,
+            459,
+            1451,
+            484
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R047",
+          "class": "staff",
+          "synthetic_name": "차민재",
+          "observed_form": "차민재",
+          "token": "은빛물결",
+          "erase_box": [
+            1361,
+            504,
+            1459,
+            539
+          ],
+          "token_role": "crew",
+          "token_layout": "4",
+          "font_base_px": 16,
+          "font_raster_px": 23,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1370,
+            508,
+            1454,
+            533
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R048",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고나린",
+          "token": "봄날햇살",
+          "erase_box": [
+            1357,
+            553,
+            1461,
+            594
+          ],
+          "token_role": "crew",
+          "token_layout": "4",
+          "font_base_px": 16,
+          "font_raster_px": 23,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1367,
+            560,
+            1451,
+            585
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R049",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배서우",
+          "token": "산들구름",
+          "erase_box": [
+            1466,
+            553,
+            1563,
+            591
+          ],
+          "token_role": "crew",
+          "token_layout": "4",
+          "font_base_px": 16,
+          "font_raster_px": 23,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1472,
+            560,
+            1556,
+            585
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R050",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고나린",
+          "token": "봄날햇살",
+          "erase_box": [
+            1296,
+            1191,
+            1411,
+            1227
+          ],
+          "token_role": "body",
+          "token_layout": "4",
+          "font_base_px": 22,
+          "font_raster_px": 32,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1296,
+            1192,
+            1412,
+            1225
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R051",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            455,
+            1192,
+            489,
+            1224
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            442,
+            1182,
+            490,
+            1235
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R052",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배서우",
+          "token": "산들구름",
+          "erase_box": [
+            1349,
+            1314,
+            1475,
+            1348
+          ],
+          "token_role": "body",
+          "token_layout": "4",
+          "font_base_px": 22,
+          "font_raster_px": 32,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1353,
+            1314,
+            1469,
+            1347
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R053",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            456,
+            1316,
+            485,
+            1347
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            442,
+            1305,
+            490,
+            1357
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R054",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            455,
+            1437,
+            489,
+            1469
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            442,
+            1427,
+            490,
+            1480
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R055",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "나린",
+          "token": "봄날햇살",
+          "erase_box": [
+            551,
+            1621,
+            631,
+            1657
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 14,
+          "font_raster_px": 20,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            573,
+            1618,
+            611,
+            1660
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R056",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            456,
+            1624,
+            485,
+            1655
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            442,
+            1613,
+            490,
+            1665
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R057",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            455,
+            1808,
+            489,
+            1840
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            442,
+            1798,
+            490,
+            1851
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        }
+      ],
+      "erase_sequence": [
+        "R046",
+        "R047",
+        "R048",
+        "R049",
+        "R050",
+        "R051",
+        "R052",
+        "R053",
+        "R054",
+        "R055",
+        "R056",
+        "R057"
+      ],
+      "contact_boxes": [],
+      "approval_cells": [
+        {
+          "cell": 3,
+          "box": [
+            1050,
+            294,
+            1292,
+            394
+          ]
+        },
+        {
+          "cell": 5,
+          "box": [
+            1354,
+            294,
+            1466,
+            394
+          ]
+        },
+        {
+          "cell": 7,
+          "box": [
+            1522,
+            294,
+            1634,
+            394
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "be53500fc705718dc873509903638902be0206386711559b6c2a3df66c6a6525",
+          "mask_sha256": "26ed44bed7c33a20542faf8ac93a785d108586c7e1fabdaed479c784822dbaf8",
+          "mask_pixels": 39469
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "fe43a359a92d50a506c06b1aa215accc08eeadc54e88b5ec7a450872675623fc",
+          "mask_sha256": "61beeea86cfb0a8e2006d4888cdebb74908e0bb84af93d25cd275721e91964b3",
+          "mask_pixels": 46600
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "f650b48c3b75f622da7c1aeffbff26ac0530e1e974142833f3e4f215543fba51",
+          "mask_sha256": "6272d7eb917b1b0c051b2826029cd3d0686cd69f36887dff3cd2a9c8c1d31e95",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "bee525d928a630212ebb7dfb5637194fb26e59c32b67b39ea6b9285680992960",
+      "final_pixel_sha256": "507f7fd6a4948e2094dc9caf493d1945eb3fecdad4521bb7c9b77c61b2742811",
+      "final_decoded_pixel_sha256": "b4917699b919b26e1381e9bbef0c9434df4c7b075eb5896a748ef5b4907cc218",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    },
+    {
+      "filename": "p02b.webp",
+      "safe_input_sha256": "ada76eafaef4967566c90a96eab819f1a4b39bdb7ac15fea375a6462e625419f",
+      "final_sha256": "45b5c2377df00aa35edc2867cb0df6c9b31394f64144b52cd24a732406bddcf3",
+      "names": [
+        {
+          "region_id": "R058",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            594,
+            300,
+            623,
+            331
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            580,
+            290,
+            628,
+            342
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R059",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            594,
+            420,
+            627,
+            452
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            580,
+            410,
+            628,
+            463
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R061",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            593,
+            917,
+            622,
+            948
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            579,
+            906,
+            627,
+            958
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R062",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            593,
+            1161,
+            626,
+            1193
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            579,
+            1151,
+            627,
+            1204
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        }
+      ],
+      "erase_sequence": [
+        "R058",
+        "R059",
+        "R061",
+        "R062"
+      ],
+      "contact_boxes": [
+        [
+          799,
+          672,
+          1080,
+          707
+        ]
+      ],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "423455611cc4f22aa648e8a0307a3652318d79e9e7dd4461a39826e660bdd35b",
+          "mask_sha256": "d6e02fe2142cbf80f55b54d66e060259f464ed01c24f7ac11776b7bca5d08826",
+          "mask_pixels": 10080
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "9f75705e642148cadc7b4ec7792e2bf3c5ef21fa9b10b3585c371470b68db462",
+          "mask_sha256": "fcb0d873fc40331ac4c508575c4ab0f2dd68fcded67b2e82f0d284f5de82a02a",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "ae99d440ecd78d619980b4163606bc14408c73e158e23c6ca0183761d74d38aa",
+          "mask_sha256": "7df6cef3b78ce5309215f96954268f016fa50170bbab4babef31a5f0cf435e3f",
+          "mask_pixels": 9835
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "bcbfbb93de2d6d4e2247e3d724ffe19219112111973794eef1bbec5ebc6874b6",
+      "final_pixel_sha256": "a9d7b7c9664b4e02516c48e8f61bea469ff9c69e2a0e9749a4db509760a737c6",
+      "final_decoded_pixel_sha256": "92f2a65fa401743a70bd9f5932e068323351c49158dd4b2289313edd082ff4cb",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    },
+    {
+      "filename": "p03a.webp",
+      "safe_input_sha256": "56de4d91c5ce2f856017ed513cf4f7264c54e3db9373257f58591351e006b01f",
+      "final_sha256": "2b8598b0b85136151d2f367723b167065d4426f18a813f172b058b430aa962a8",
+      "names": [
+        {
+          "region_id": "R063",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            558,
+            541,
+            593,
+            572
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            546,
+            530,
+            594,
+            583
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R064",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            558,
+            790,
+            588,
+            821
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            546,
+            779,
+            594,
+            831
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R065",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "서우",
+          "token": "산들구름",
+          "erase_box": [
+            652,
+            912,
+            735,
+            945
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 14,
+          "font_raster_px": 20,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            674,
+            907,
+            712,
+            949
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R066",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            558,
+            913,
+            593,
+            944
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            546,
+            902,
+            594,
+            955
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R067",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            559,
+            1099,
+            589,
+            1130
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            546,
+            1088,
+            594,
+            1140
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R068",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "서우",
+          "token": "산들구름",
+          "erase_box": [
+            653,
+            1219,
+            739,
+            1253
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 14,
+          "font_raster_px": 20,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            677,
+            1215,
+            715,
+            1257
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R069",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            558,
+            1220,
+            593,
+            1251
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            546,
+            1209,
+            594,
+            1262
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R070",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            559,
+            1344,
+            589,
+            1375
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            546,
+            1333,
+            594,
+            1385
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R071",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "나린",
+          "token": "봄날햇살",
+          "erase_box": [
+            658,
+            1404,
+            736,
+            1438
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 14,
+          "font_raster_px": 20,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            679,
+            1399,
+            717,
+            1441
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R072",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            558,
+            1589,
+            593,
+            1621
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            546,
+            1579,
+            594,
+            1632
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R073",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            559,
+            1776,
+            589,
+            1807
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            546,
+            1765,
+            594,
+            1817
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R074",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            558,
+            1898,
+            593,
+            1929
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            546,
+            1887,
+            594,
+            1940
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R075",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "서우",
+          "token": "산들구름",
+          "erase_box": [
+            800,
+            2019,
+            882,
+            2053
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 14,
+          "font_raster_px": 20,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            822,
+            2015,
+            860,
+            2057
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        }
+      ],
+      "erase_sequence": [
+        "R063",
+        "R064",
+        "R065",
+        "R066",
+        "R067",
+        "R068",
+        "R069",
+        "R070",
+        "R071",
+        "R072",
+        "R073",
+        "R074",
+        "R075"
+      ],
+      "contact_boxes": [],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "92c317085f1e9829084f8737c20034e5d9e6a55ee3038641756cf9e726fb7055",
+          "mask_sha256": "d8763cbf90c4ff64093f920b760d49f80851218241fccaa3093c32e8784623a5",
+          "mask_pixels": 35061
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "1e5ff12e8ed5bcf9db026fca767cc13298fcfc464c8c92c9e8f1fc2e7a731505",
+          "mask_sha256": "6272d7eb917b1b0c051b2826029cd3d0686cd69f36887dff3cd2a9c8c1d31e95",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "1e5ff12e8ed5bcf9db026fca767cc13298fcfc464c8c92c9e8f1fc2e7a731505",
+          "mask_sha256": "6272d7eb917b1b0c051b2826029cd3d0686cd69f36887dff3cd2a9c8c1d31e95",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "8ce9f5b72c5f133f244c0ad06a96a15e69c14bc6d959032c948e6e531ecf4f4a",
+      "final_pixel_sha256": "1eb4616bd324aa2814ce6ad2d97c9c49b2bd1798a61453fac8ff6ad1db2160e5",
+      "final_decoded_pixel_sha256": "6a3d5610252711da7878f0f21359ce91f1061383004d6b56f03f3699086f1b79",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    },
+    {
+      "filename": "p03b.webp",
+      "safe_input_sha256": "80f88b8079078e4e0254d6ce792df824ab5f33dec5c064e6b6d4d7168db3175f",
+      "final_sha256": "ffb1737eb870dafcc856ccfb1b8378272794790bf512148f132355b5f2306506",
+      "names": [
+        {
+          "region_id": "R076",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            586,
+            294,
+            615,
+            325
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            572,
+            284,
+            620,
+            336
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R077",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            585,
+            537,
+            619,
+            569
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            572,
+            527,
+            620,
+            580
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R078",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            586,
+            723,
+            615,
+            756
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            572,
+            714,
+            620,
+            766
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R079",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "서우",
+          "token": "산들구름",
+          "erase_box": [
+            679,
+            847,
+            763,
+            880
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 14,
+          "font_raster_px": 20,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            702,
+            842,
+            740,
+            884
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R080",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            586,
+            847,
+            619,
+            880
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            572,
+            837,
+            620,
+            890
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R081",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            586,
+            1034,
+            615,
+            1065
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            572,
+            1023,
+            620,
+            1075
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R082",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "나린",
+          "token": "봄날햇살",
+          "erase_box": [
+            684,
+            1155,
+            762,
+            1189
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 14,
+          "font_raster_px": 20,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            705,
+            1150,
+            743,
+            1192
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R083",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            585,
+            1339,
+            619,
+            1371
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            572,
+            1329,
+            620,
+            1382
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R084",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            585,
+            1462,
+            619,
+            1494
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            572,
+            1452,
+            620,
+            1505
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R085",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "서우",
+          "token": "산들구름",
+          "erase_box": [
+            678,
+            1771,
+            763,
+            1804
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 14,
+          "font_raster_px": 20,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            701,
+            1766,
+            739,
+            1808
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R086",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            585,
+            1772,
+            619,
+            1803
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            572,
+            1761,
+            620,
+            1814
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        }
+      ],
+      "erase_sequence": [
+        "R076",
+        "R077",
+        "R078",
+        "R079",
+        "R080",
+        "R081",
+        "R082",
+        "R083",
+        "R084",
+        "R085",
+        "R086"
+      ],
+      "contact_boxes": [],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "8ab8696b69b19b0ad39477bda818b29ceecc0837322a739871a379956d0452b0",
+          "mask_sha256": "f0966e543e453e8678ab6c81a07380797b5f06660ef68bd590b6403bac04e617",
+          "mask_pixels": 29425
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "edeef8b5c4092bc0260a6704425b579e8d03c8907fbec2feebc3dd0866083145",
+          "mask_sha256": "fcb0d873fc40331ac4c508575c4ab0f2dd68fcded67b2e82f0d284f5de82a02a",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "edeef8b5c4092bc0260a6704425b579e8d03c8907fbec2feebc3dd0866083145",
+          "mask_sha256": "fcb0d873fc40331ac4c508575c4ab0f2dd68fcded67b2e82f0d284f5de82a02a",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "3ef51ee342225e34c5ab5078d0185e7a553e937b4adf644e5666805d8dd490ef",
+      "final_pixel_sha256": "e0ded3b0dfa58880f48cdf595c324d74e8cad59037a927eb32e4564a15c4edb9",
+      "final_decoded_pixel_sha256": "0b1b73e98cacfbf3d793d3ed3efebccde51027c5e29fcdc1bdad1168951284a9",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    },
+    {
+      "filename": "p04a.webp",
+      "safe_input_sha256": "09344f99ab148812f3349a4e09a22e3cfb8aad754becfa3d4e957cc07593c3af",
+      "final_sha256": "6b16bcb874a238acc466f862b2d7e267eb3e62d2ff834bea3ee7b44f96007615",
+      "names": [
+        {
+          "region_id": "R087",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            501,
+            295,
+            531,
+            328
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            488,
+            286,
+            536,
+            338
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R088",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "나린",
+          "token": "봄날햇살",
+          "erase_box": [
+            601,
+            355,
+            679,
+            389
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 14,
+          "font_raster_px": 20,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            622,
+            351,
+            660,
+            393
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R089",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            500,
+            539,
+            535,
+            571
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            488,
+            529,
+            536,
+            582
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R090",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            495,
+            1710,
+            529,
+            1742
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            482,
+            1700,
+            530,
+            1753
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R091",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            496,
+            1959,
+            525,
+            1990
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            482,
+            1948,
+            530,
+            2000
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R092",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            495,
+            2079,
+            529,
+            2110
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            482,
+            2068,
+            530,
+            2121
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        }
+      ],
+      "erase_sequence": [
+        "R087",
+        "R088",
+        "R089",
+        "R090",
+        "R091",
+        "R092"
+      ],
+      "contact_boxes": [],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "f12d3757a1b40a94ad7f12d06f47b39cad94fc38f0698a573eae6c6ea7cd61ae",
+          "mask_sha256": "7c2c96341f85fc3107d9a010f8a55524ad5bc1228487690edeefb42ac570cb6a",
+          "mask_pixels": 15580
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "f3ed404e18fc9d7b5b768c871c600674a10b20406f488f6bf0a95dce86dd4b13",
+          "mask_sha256": "6272d7eb917b1b0c051b2826029cd3d0686cd69f36887dff3cd2a9c8c1d31e95",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "f3ed404e18fc9d7b5b768c871c600674a10b20406f488f6bf0a95dce86dd4b13",
+          "mask_sha256": "6272d7eb917b1b0c051b2826029cd3d0686cd69f36887dff3cd2a9c8c1d31e95",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "9b78ea369d3e38f8ba0fd8193e07f97328577e903b9bd056cd471c40c55e725a",
+      "final_pixel_sha256": "e95cc4f4c30681e3c084631c1ebd3b7bde3c4cf63e4aa55b6e121c4ddc050306",
+      "final_decoded_pixel_sha256": "5bdb5ab093c0d49c2374c27b018f16d3fd8798352f10be7c7a4e5739ce724cbc",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    },
+    {
+      "filename": "p04b.webp",
+      "safe_input_sha256": "559ec4914f0bf321b213f596e968dca293a762570ac0fa4663c479867329471a",
+      "final_sha256": "f3e6a31c01a9084c0e47a770ffc8be2ae03f312c7874575e9792d73c523452c8",
+      "names": [
+        {
+          "region_id": "R093",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "서우",
+          "token": "산들구름",
+          "erase_box": [
+            621,
+            414,
+            701,
+            447
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 14,
+          "font_raster_px": 20,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            642,
+            409,
+            680,
+            451
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R094",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            528,
+            415,
+            562,
+            446
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            515,
+            404,
+            563,
+            457
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R095",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            529,
+            600,
+            558,
+            631
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            515,
+            589,
+            563,
+            641
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R096",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "나린",
+          "token": "봄날햇살",
+          "erase_box": [
+            627,
+            847,
+            705,
+            881
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 14,
+          "font_raster_px": 20,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            648,
+            842,
+            686,
+            884
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R097",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "서우",
+          "token": "산들구름",
+          "erase_box": [
+            721,
+            970,
+            803,
+            1004
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 14,
+          "font_raster_px": 20,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            743,
+            966,
+            781,
+            1008
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R098",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            528,
+            971,
+            562,
+            1002
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            515,
+            960,
+            563,
+            1013
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R099",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            528,
+            1463,
+            557,
+            1494
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            514,
+            1452,
+            562,
+            1504
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R100",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            527,
+            1647,
+            561,
+            1679
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            514,
+            1637,
+            562,
+            1690
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R101",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            527,
+            1955,
+            561,
+            1987
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            514,
+            1945,
+            562,
+            1998
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        }
+      ],
+      "erase_sequence": [
+        "R093",
+        "R094",
+        "R095",
+        "R096",
+        "R097",
+        "R098",
+        "R099",
+        "R100",
+        "R101"
+      ],
+      "contact_boxes": [],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "64b9eb4034e49bdd46441acd638e91271c274ed95ff666b06f8576c5d1489098",
+          "mask_sha256": "26d0988c218abc9e5a262ed457cfc14f8d7a0bd324375f0b08144d8994f2e555",
+          "mask_pixels": 24198
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "aaa7740230b80a43d51cb2c7ac6873b009cea4d9ddf637da4e3c106980bc9660",
+          "mask_sha256": "fcb0d873fc40331ac4c508575c4ab0f2dd68fcded67b2e82f0d284f5de82a02a",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "aaa7740230b80a43d51cb2c7ac6873b009cea4d9ddf637da4e3c106980bc9660",
+          "mask_sha256": "fcb0d873fc40331ac4c508575c4ab0f2dd68fcded67b2e82f0d284f5de82a02a",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "4ea7eee85d44f6ac645715a12c22e494c1ee9f59dd9b13b06d96d2369b7eeff8",
+      "final_pixel_sha256": "cb9dae3ffa23b656350999aed7d2ac162b5f6bf7c889ff2636bf5901eab1bc46",
+      "final_decoded_pixel_sha256": "2d20302297ab139d9d733525ecf610fd55418e01e9850422123dc0355217742b",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    },
+    {
+      "filename": "p05a.webp",
+      "safe_input_sha256": "41c168f838ee416bd70e27a606f7e031e09b3047715885b7de8d795d80475b4b",
+      "final_sha256": "a6c570bc81ab39587d16dc18e5e8a4544fd024c325443784c062963f79b46e06",
+      "names": [
+        {
+          "region_id": "R102",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            486,
+            302,
+            516,
+            333
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            474,
+            292,
+            522,
+            344
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R103",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "나린",
+          "token": "봄날햇살",
+          "erase_box": [
+            587,
+            543,
+            663,
+            579
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 14,
+          "font_raster_px": 20,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            607,
+            540,
+            645,
+            582
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R104",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            485,
+            668,
+            521,
+            700
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            474,
+            658,
+            522,
+            711
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R106",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            486,
+            1040,
+            516,
+            1073
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            473,
+            1031,
+            521,
+            1083
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R108",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            485,
+            1285,
+            520,
+            1317
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            473,
+            1275,
+            521,
+            1328
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R109",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            486,
+            1540,
+            520,
+            1572
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            473,
+            1530,
+            521,
+            1583
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R110",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            487,
+            1726,
+            516,
+            1759
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            473,
+            1717,
+            521,
+            1769
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R111",
+          "class": "staff",
+          "synthetic_name": "정하람",
+          "observed_form": "정하람",
+          "token": "하늘연못",
+          "erase_box": [
+            588,
+            1786,
+            701,
+            1821
+          ],
+          "token_role": "body",
+          "token_layout": "4",
+          "font_base_px": 22,
+          "font_raster_px": 32,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            586,
+            1787,
+            702,
+            1820
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R112",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            486,
+            1911,
+            520,
+            1942
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            473,
+            1900,
+            521,
+            1953
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R113",
+          "class": "staff",
+          "synthetic_name": "차민재",
+          "observed_form": "차민재",
+          "token": "은빛물결",
+          "erase_box": [
+            588,
+            1971,
+            700,
+            2006
+          ],
+          "token_role": "body",
+          "token_layout": "4",
+          "font_base_px": 22,
+          "font_raster_px": 32,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            588,
+            1972,
+            704,
+            2005
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        }
+      ],
+      "erase_sequence": [
+        "R102",
+        "R103",
+        "R104",
+        "R106",
+        "R108",
+        "R109",
+        "R110",
+        "R111",
+        "R112",
+        "R113"
+      ],
+      "contact_boxes": [
+        [
+          1035,
+          730,
+          1328,
+          766
+        ]
+      ],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "2f2b3be2f0308ecb4b17102f9d1389d0c41b230238dcaf5a495a9993231e4e2d",
+          "mask_sha256": "1364b9b03dc73071a801b2bd003a0789d3e47f9768c3a85a272835f9ef007c54",
+          "mask_pixels": 28734
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "ebdcb858d7ab150c4bb12a27ce29676f7b83f6a88fd6e9a5906a71ef203d79bb",
+          "mask_sha256": "6272d7eb917b1b0c051b2826029cd3d0686cd69f36887dff3cd2a9c8c1d31e95",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "0acffe38047af8498b14bb8354b215ce9693f583a4c84f4c1d8d520e3d9f816b",
+          "mask_sha256": "5d6f8816da9013393ef92ca969f80017f45d68b5fcf57488502e14a5fb6a7da5",
+          "mask_pixels": 10548
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "57e8b283e39eed3ac31fc2289d5f35133c66efe8cfb0e10e4377ab4f2e932d40",
+      "final_pixel_sha256": "5f27312fd292aad61988600af652fdf94ee95a0a6c4bcfa50565b8447be3dcc0",
+      "final_decoded_pixel_sha256": "4bac3fcc742fed1cf49f2fbff09598fb268d744ad7ec8f9d5e3de35a8f496d2b",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    },
+    {
+      "filename": "p05b.webp",
+      "safe_input_sha256": "463323fc2d5ca7c5405a9a62a7fea93882a3e844afb887b03754109d0de70616",
+      "final_sha256": "1d95507b0efab242013c9ec626f3f015a35a9a2ac2ac2742d1e22bde05b0423a",
+      "names": [
+        {
+          "region_id": "R114",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            515,
+            299,
+            544,
+            330
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            501,
+            289,
+            549,
+            341
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R115",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배서우",
+          "token": "산들구름",
+          "erase_box": [
+            613,
+            358,
+            724,
+            391
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 14,
+          "font_raster_px": 20,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            649,
+            353,
+            687,
+            395
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R116",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            514,
+            481,
+            548,
+            512
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 25,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            501,
+            470,
+            549,
+            523
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R117",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고나린",
+          "token": "봄날햇살",
+          "erase_box": [
+            613,
+            541,
+            722,
+            575
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 14,
+          "font_raster_px": 20,
+          "scale_from_1684_logical_height": 1.4536817102137767,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            649,
+            537,
+            687,
+            579
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        }
+      ],
+      "erase_sequence": [
+        "R114",
+        "R115",
+        "R116",
+        "R117"
+      ],
+      "contact_boxes": [],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "2f3a3b64c039bddd9e0bced3f6ad36ea4a61f9a40a88e04adba8f40eb8226242",
+          "mask_sha256": "311bcac5f421b5b2dff4ca26358c01a8f1452b2faa54e62c9bdeb3f616a5a712",
+          "mask_pixels": 13055
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "913793350a0d7b936b9482c91dd7d671bedbad5ae64a1681df68b1bb28adea52",
+          "mask_sha256": "fcb0d873fc40331ac4c508575c4ab0f2dd68fcded67b2e82f0d284f5de82a02a",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "913793350a0d7b936b9482c91dd7d671bedbad5ae64a1681df68b1bb28adea52",
+          "mask_sha256": "fcb0d873fc40331ac4c508575c4ab0f2dd68fcded67b2e82f0d284f5de82a02a",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "38b56b1d111dd07776ed04e6e8dfee2b40dbc8c251abd3e5afcd2e851a07567c",
+      "final_pixel_sha256": "06615e066fbc45daa1fbdfb0495fd4a462d2d1442929185c4274d047ebbce0e6",
+      "final_decoded_pixel_sha256": "e1faf326e69cc3b67e72a4714018cb6fe488ab25393709efe92269a246247fa7",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    },
+    {
+      "filename": "p06.webp",
+      "safe_input_sha256": "2d02a79a47bbb78e594c371f5ab37a4de6bda64e38cce5dd837a3fbdc07e5a95",
+      "final_sha256": "95fce74b3fff1a2adfae8d5987db8e663118bdcd851457888da42b50a0c204ce",
+      "names": [
+        {
+          "region_id": "R118",
+          "class": "staff",
+          "synthetic_name": "정하람",
+          "observed_form": "정하람",
+          "token": "하늘연못",
+          "erase_box": [
+            1834,
+            688,
+            1963,
+            736
+          ],
+          "token_role": "crew",
+          "token_layout": "4",
+          "font_base_px": 16,
+          "font_raster_px": 33,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1838,
+            695,
+            1958,
+            729
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R119",
+          "class": "staff",
+          "synthetic_name": "차민재",
+          "observed_form": "차민재",
+          "token": "은빛물결",
+          "erase_box": [
+            1837,
+            758,
+            1971,
+            809
+          ],
+          "token_role": "crew",
+          "token_layout": "4",
+          "font_base_px": 16,
+          "font_raster_px": 33,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1847,
+            766,
+            1967,
+            800
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R120",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고나린",
+          "token": "봄날햇살",
+          "erase_box": [
+            1790,
+            830,
+            1968,
+            886
+          ],
+          "token_role": "crew",
+          "token_layout": "4",
+          "font_base_px": 16,
+          "font_raster_px": 33,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1819,
+            840,
+            1939,
+            874
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R121",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배서우",
+          "token": "산들구름",
+          "erase_box": [
+            1974,
+            832,
+            2115,
+            883
+          ],
+          "token_role": "crew",
+          "token_layout": "4",
+          "font_base_px": 16,
+          "font_raster_px": 33,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1984,
+            840,
+            2104,
+            874
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R122",
+          "class": "staff",
+          "synthetic_name": "김도현",
+          "observed_form": "김도현",
+          "token": "작은우주",
+          "erase_box": [
+            1743,
+            1657,
+            1896,
+            1739
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1783,
+            1663,
+            1847,
+            1733
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R124",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            580,
+            1734,
+            626,
+            1780
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            564,
+            1722,
+            628,
+            1792
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R123",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고나린",
+          "token": "봄날햇살",
+          "erase_box": [
+            1719,
+            1718,
+            1906,
+            1786
+          ],
+          "token_role": "body",
+          "token_layout": "4",
+          "font_base_px": 22,
+          "font_raster_px": 46,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1736,
+            1737,
+            1900,
+            1782
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": true,
+          "cancellation_lines": [
+            [
+              1739,
+              1759,
+              1897,
+              1760
+            ]
+          ]
+        },
+        {
+          "region_id": "R125",
+          "class": "staff",
+          "synthetic_name": "한예솔",
+          "observed_form": "한예솔",
+          "token": "맑은수풀",
+          "erase_box": [
+            1817,
+            1839,
+            1978,
+            1911
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1863,
+            1840,
+            1927,
+            1910
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R126",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배서우",
+          "token": "산들구름",
+          "erase_box": [
+            1803,
+            1892,
+            1994,
+            1958
+          ],
+          "token_role": "body",
+          "token_layout": "4",
+          "font_base_px": 22,
+          "font_raster_px": 46,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1822,
+            1906,
+            1986,
+            1951
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": true,
+          "cancellation_lines": [
+            [
+              1825,
+              1928,
+              1983,
+              1929
+            ]
+          ]
+        },
+        {
+          "region_id": "R127",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            580,
+            1914,
+            620,
+            1958
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            564,
+            1901,
+            628,
+            1971
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R128",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            580,
+            2089,
+            626,
+            2135
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            564,
+            2077,
+            628,
+            2147
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "M007",
+          "class": "staff",
+          "synthetic_name": "김도현",
+          "observed_form": "도현",
+          "token": "작은우주",
+          "erase_box": [
+            710,
+            2266,
+            806,
+            2352
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            726,
+            2274,
+            790,
+            2344
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R129",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "나린",
+          "token": "봄날햇살",
+          "erase_box": [
+            703,
+            2344,
+            820,
+            2399
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 14,
+          "font_raster_px": 29,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            735,
+            2342,
+            789,
+            2402
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": true,
+          "cancellation_lines": [
+            [
+              738,
+              2356,
+              787,
+              2357
+            ],
+            [
+              737,
+              2386,
+              787,
+              2387
+            ]
+          ]
+        },
+        {
+          "region_id": "R130",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            581,
+            2355,
+            620,
+            2399
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            564,
+            2342,
+            628,
+            2412
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R131",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            581,
+            2617,
+            627,
+            2663
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            565,
+            2605,
+            629,
+            2675
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        }
+      ],
+      "erase_sequence": [
+        "R118",
+        "R119",
+        "R120",
+        "R121",
+        "R122",
+        "R123",
+        "R124",
+        "R125",
+        "R126",
+        "R127",
+        "R128",
+        "R129",
+        "R130",
+        "R131",
+        "M007"
+      ],
+      "contact_boxes": [],
+      "approval_cells": [
+        {
+          "cell": 3,
+          "box": [
+            1400,
+            453,
+            1736,
+            606
+          ]
+        },
+        {
+          "cell": 5,
+          "box": [
+            1816,
+            453,
+            1982,
+            606
+          ]
+        },
+        {
+          "cell": 7,
+          "box": [
+            2053,
+            453,
+            2216,
+            606
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "8c957811dfb83f874f856975b8169c6c994ca3c7b420bbc27ea706d9d7132567",
+          "mask_sha256": "508bcd5eb447f2129f10eb0c173626f125de85cf894004fda37f489a2c3a7202",
+          "mask_pixels": 109858
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "3317902c407521d33e86c4138bd3faa9e3a915b2bb891641bc0ccef680b554d3",
+          "mask_sha256": "65796ee34f0740dbe95f82dcffdd86b29c0e14c2a25559275eb84311efe374ce",
+          "mask_pixels": 101745
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "a38a4e958ce986f461fb6fe126c6dd70c31b3c809c267cf40eeafd8940e45575",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false,
+        "cancellation_stroke_width_px": 1,
+        "cancellation_lines_survive_composition": true,
+        "outside_cancellation_lines_changed_pixels_before_encoding": 0
+      },
+      "safe_input_pixel_sha256": "6924d46830109a4b763a6ca67215f8c5210b2fb87fb174d56871666d65ff7e13",
+      "final_pixel_sha256": "deda8de5a08f2984168eba60ed042df5ddc15b74835fb72f5c6559cdb542b08c",
+      "final_decoded_pixel_sha256": "9afadd91aa8dbc8d5edf4e070f3d8e066010b70e64f3ff5da20f00405c19d25d",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      },
+      "current_layers": [
+        {
+          "layer": "names",
+          "image_pixel_sha256": "85ae6aa7cb8194ea2b4ea6f8a74ec0296b0f11942c7a317422ee5a258f322e40",
+          "mask_pixel_sha256": "d360170c0d43dbef2c7b7a11a78f4de978a6442c8562ab2b0cf383d88f4547ad",
+          "mask_pixels": 109858
+        },
+        {
+          "layer": "approval",
+          "image_pixel_sha256": "a76a93575c161488d9ea006eb8f369abc956af06da136c8bb502364d4828be30",
+          "mask_pixel_sha256": "da46386ae81c9659dbce0f9f8e49f28e1c895ebc90928a15fed307fb61672609",
+          "mask_pixels": 101745
+        },
+        {
+          "layer": "contacts",
+          "image_pixel_sha256": "6924d46830109a4b763a6ca67215f8c5210b2fb87fb174d56871666d65ff7e13",
+          "mask_pixel_sha256": "0230b1dce0d2dd273468462d0f1d145307492dbfa76771c39eb7da60dd24dce3",
+          "mask_pixels": 0
+        }
+      ]
+    },
+    {
+      "filename": "p07.webp",
+      "safe_input_sha256": "bce98728bd47c3c8b8b7f28f957b923f5be2b7c02f54a2863283ff976b8f27c3",
+      "final_sha256": "e6b42d4a4e972d43c6d85d89a896701539648ebd57a6ca6f98d6b87ea2695749",
+      "names": [
+        {
+          "region_id": "R132",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            735,
+            455,
+            775,
+            499
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            719,
+            442,
+            783,
+            512
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R133",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            735,
+            628,
+            780,
+            674
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            718,
+            616,
+            782,
+            686
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R136",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            734,
+            1328,
+            774,
+            1374
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            718,
+            1316,
+            782,
+            1386
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R137",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            735,
+            1679,
+            781,
+            1726
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            719,
+            1668,
+            783,
+            1738
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        }
+      ],
+      "erase_sequence": [
+        "R132",
+        "R133",
+        "R136",
+        "R137"
+      ],
+      "contact_boxes": [
+        [
+          1010,
+          980,
+          1435,
+          1050
+        ],
+        [
+          1046,
+          1040,
+          1501,
+          1089
+        ]
+      ],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "c8f0c00a2db9b93f63dd502996cb21785c661d571064d33517395981485022b1",
+          "mask_sha256": "c74eea148734fa74a4a1710db896016da293c550bba051855f70ec0ead45e2cc",
+          "mask_pixels": 17920
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "36197cc33b3d9ea94485629a9f8a4e94943121891b9df984d5f7a4d814cdf2e3",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "25fddec426b16de39b9d453a48cfdb4b30c88791d3bbda7cf2d237bd49e5500f",
+          "mask_sha256": "0e94a8c312fd608b03289d989e3a9d65bcaf1ef8ee30251bec218e11a7c49e0c",
+          "mask_pixels": 48155
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "78c5931df32f8cbe6f0245ff5181acdfd641d383f005c3b4eb1daa2794cfc71f",
+      "final_pixel_sha256": "3726ab655274a6fbff283cefa1a4afe41b01f42bb92340d88f5bd6df13769698",
+      "final_decoded_pixel_sha256": "7ee52434dc90757b09231cb8f6ea2794060ed5d48dab4d3182c2c4e0bc5cf530",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    },
+    {
+      "filename": "p08.webp",
+      "safe_input_sha256": "a6c1aeb809fd71b0c2f1bdf273f5828a68737768a76de92e89d4903a6d13d6d1",
+      "final_sha256": "90e8c53defd9be802f838a542abef023f70317567948b14c9d05aba959d97e19",
+      "names": [
+        {
+          "region_id": "R138",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            731,
+            792,
+            777,
+            838
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            715,
+            780,
+            779,
+            850
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R139",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            730,
+            1143,
+            770,
+            1187
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            714,
+            1130,
+            778,
+            1200
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R140",
+          "class": "staff",
+          "synthetic_name": "한예솔",
+          "observed_form": "예솔",
+          "token": "맑은수풀",
+          "erase_box": [
+            877,
+            1248,
+            981,
+            1322
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            897,
+            1251,
+            961,
+            1321
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R141",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "서우",
+          "token": "산들구름",
+          "erase_box": [
+            847,
+            1305,
+            972,
+            1362
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 15,
+          "font_raster_px": 31,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            886,
+            1318,
+            944,
+            1380
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": true,
+          "cancellation_lines": [
+            [
+              888,
+              1333,
+              941,
+              1334
+            ],
+            [
+              889,
+              1364,
+              941,
+              1365
+            ]
+          ]
+        },
+        {
+          "region_id": "R142",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            730,
+            1316,
+            776,
+            1362
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            714,
+            1304,
+            778,
+            1374
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R143",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            730,
+            1582,
+            770,
+            1626
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            714,
+            1569,
+            778,
+            1639
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "M008",
+          "class": "staff",
+          "synthetic_name": "한예솔",
+          "observed_form": "예솔",
+          "token": "맑은수풀",
+          "erase_box": [
+            890,
+            1700,
+            987,
+            1755
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 14,
+          "font_raster_px": 29,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            916,
+            1698,
+            970,
+            1758
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R144",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "서우",
+          "token": "산들구름",
+          "erase_box": [
+            845,
+            1744,
+            969,
+            1803
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 15,
+          "font_raster_px": 31,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            876,
+            1743,
+            934,
+            1805
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": true,
+          "cancellation_lines": [
+            [
+              878,
+              1758,
+              931,
+              1759
+            ],
+            [
+              879,
+              1789,
+              931,
+              1790
+            ]
+          ]
+        },
+        {
+          "region_id": "R145",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            729,
+            1756,
+            775,
+            1802
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            713,
+            1744,
+            777,
+            1814
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R146",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            730,
+            1933,
+            769,
+            1979
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            713,
+            1921,
+            777,
+            1991
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R147",
+          "class": "staff",
+          "synthetic_name": "김도현",
+          "observed_form": "도현",
+          "token": "작은우주",
+          "erase_box": [
+            775,
+            2020,
+            864,
+            2080
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 15,
+          "font_raster_px": 31,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            791,
+            2018,
+            849,
+            2080
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "M009",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "나린",
+          "token": "봄날햇살",
+          "erase_box": [
+            858,
+            2021,
+            980,
+            2070
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 14,
+          "font_raster_px": 29,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            893,
+            2015,
+            947,
+            2075
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": true,
+          "cancellation_lines": [
+            [
+              896,
+              2029,
+              945,
+              2030
+            ],
+            [
+              895,
+              2059,
+              945,
+              2060
+            ]
+          ]
+        },
+        {
+          "region_id": "R148",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            729,
+            2286,
+            775,
+            2332
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            713,
+            2274,
+            777,
+            2344
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R149",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            729,
+            2551,
+            769,
+            2597
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            713,
+            2539,
+            777,
+            2609
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R150",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            729,
+            2729,
+            775,
+            2773
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            713,
+            2716,
+            777,
+            2786
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "M010",
+          "class": "staff",
+          "synthetic_name": "한예솔",
+          "observed_form": "예솔",
+          "token": "맑은수풀",
+          "erase_box": [
+            1127,
+            2839,
+            1215,
+            2894
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 14,
+          "font_raster_px": 29,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1145,
+            2836,
+            1199,
+            2896
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R151",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "서우",
+          "token": "산들구름",
+          "erase_box": [
+            1042,
+            2903,
+            1173,
+            2950
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 14,
+          "font_raster_px": 29,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1091,
+            2897,
+            1145,
+            2957
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": true,
+          "cancellation_lines": [
+            [
+              1093,
+              2911,
+              1142,
+              2912
+            ],
+            [
+              1094,
+              2941,
+              1142,
+              2942
+            ]
+          ]
+        }
+      ],
+      "erase_sequence": [
+        "R138",
+        "R139",
+        "R140",
+        "R141",
+        "R142",
+        "R143",
+        "R144",
+        "R145",
+        "R146",
+        "R147",
+        "R148",
+        "R149",
+        "R150",
+        "R151",
+        "M008",
+        "M009",
+        "M010"
+      ],
+      "contact_boxes": [],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "ebee51202eca0a678315909f3239d278ae88bc0ac65f600f36f6d208b97ba21f",
+          "mask_sha256": "cf6011b8858b8f63f6949b6e7a0c2e342dd6f3247627a18e7910b7fe001c40a0",
+          "mask_pixels": 90296
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "df219eee74fbba7e236c35e58025bf9b3530067c71e81d2c5d546fa85f2db62c",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "df219eee74fbba7e236c35e58025bf9b3530067c71e81d2c5d546fa85f2db62c",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false,
+        "cancellation_stroke_width_px": 1,
+        "cancellation_lines_survive_composition": true,
+        "outside_cancellation_lines_changed_pixels_before_encoding": 0
+      },
+      "safe_input_pixel_sha256": "f49fed3f78f7e922aacbb47a309395e91ba607ae7647d590c5ff4947ab2e6573",
+      "final_pixel_sha256": "918da737427fabefa24fd6f3ca4e442fe61eced256c4c6f53163441e663555c5",
+      "final_decoded_pixel_sha256": "df95610875944336d86fb83dd493c4033a567c4cf524ad598e864dbad03ef473",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      },
+      "current_layers": [
+        {
+          "layer": "names",
+          "image_pixel_sha256": "918da737427fabefa24fd6f3ca4e442fe61eced256c4c6f53163441e663555c5",
+          "mask_pixel_sha256": "d99ba8adb5277ebc2eaa5f408a7110fdb1d48d9a2146b9b9166d80faf712e25c",
+          "mask_pixels": 90296
+        },
+        {
+          "layer": "approval",
+          "image_pixel_sha256": "f49fed3f78f7e922aacbb47a309395e91ba607ae7647d590c5ff4947ab2e6573",
+          "mask_pixel_sha256": "0230b1dce0d2dd273468462d0f1d145307492dbfa76771c39eb7da60dd24dce3",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_pixel_sha256": "f49fed3f78f7e922aacbb47a309395e91ba607ae7647d590c5ff4947ab2e6573",
+          "mask_pixel_sha256": "0230b1dce0d2dd273468462d0f1d145307492dbfa76771c39eb7da60dd24dce3",
+          "mask_pixels": 0
+        }
+      ]
+    },
+    {
+      "filename": "p09.webp",
+      "safe_input_sha256": "1074926ffbc78df75c93ff1d164ec6881b32a8008fd917fc80ef30670ffca33f",
+      "final_sha256": "d2db5c5ad1f23cdefe197f95861f8531d9938c2061641d9a6bd16d443e4b711b",
+      "names": [
+        {
+          "region_id": "R152",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            730,
+            481,
+            770,
+            525
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            714,
+            468,
+            778,
+            538
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R153",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            729,
+            830,
+            775,
+            874
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            713,
+            817,
+            777,
+            887
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R154",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            729,
+            1092,
+            769,
+            1138
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            713,
+            1080,
+            777,
+            1150
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R155",
+          "class": "staff",
+          "synthetic_name": "한예솔",
+          "observed_form": "예솔",
+          "token": "맑은수풀",
+          "erase_box": [
+            869,
+            1198,
+            978,
+            1270
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            892,
+            1199,
+            956,
+            1269
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R156",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "서우",
+          "token": "산들구름",
+          "erase_box": [
+            847,
+            1254,
+            972,
+            1314
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 16,
+          "font_raster_px": 33,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            884,
+            1267,
+            946,
+            1333
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": true,
+          "cancellation_lines": [
+            [
+              886,
+              1283,
+              943,
+              1284
+            ],
+            [
+              887,
+              1316,
+              943,
+              1317
+            ]
+          ]
+        },
+        {
+          "region_id": "R157",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            729,
+            1267,
+            776,
+            1312
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            714,
+            1254,
+            778,
+            1324
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R158",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            730,
+            1530,
+            770,
+            1576
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            714,
+            1518,
+            778,
+            1588
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R159",
+          "class": "staff",
+          "synthetic_name": "김도현",
+          "observed_form": "도현",
+          "token": "작은우주",
+          "erase_box": [
+            891,
+            1618,
+            991,
+            1688
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            909,
+            1617,
+            973,
+            1687
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "M011",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "나린",
+          "token": "봄날햇살",
+          "erase_box": [
+            863,
+            1706,
+            977,
+            1755
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 14,
+          "font_raster_px": 29,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            895,
+            1700,
+            949,
+            1760
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": true,
+          "cancellation_lines": [
+            [
+              898,
+              1714,
+              947,
+              1715
+            ],
+            [
+              897,
+              1744,
+              947,
+              1745
+            ]
+          ]
+        },
+        {
+          "region_id": "R160",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            730,
+            1971,
+            776,
+            2018
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            714,
+            1960,
+            778,
+            2030
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R161",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            730,
+            2148,
+            776,
+            2194
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            714,
+            2136,
+            778,
+            2206
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "M012",
+          "class": "staff",
+          "synthetic_name": "한예솔",
+          "observed_form": "예솔",
+          "token": "맑은수풀",
+          "erase_box": [
+            893,
+            2524,
+            997,
+            2590
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            913,
+            2522,
+            977,
+            2592
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R162",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "서우",
+          "token": "산들구름",
+          "erase_box": [
+            841,
+            2579,
+            975,
+            2636
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 15,
+          "font_raster_px": 31,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            888,
+            2587,
+            946,
+            2649
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": true,
+          "cancellation_lines": [
+            [
+              890,
+              2602,
+              943,
+              2603
+            ],
+            [
+              891,
+              2633,
+              943,
+              2634
+            ]
+          ]
+        },
+        {
+          "region_id": "R163",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            731,
+            2590,
+            777,
+            2636
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            715,
+            2578,
+            779,
+            2648
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        }
+      ],
+      "erase_sequence": [
+        "R152",
+        "R153",
+        "R154",
+        "R155",
+        "R156",
+        "R157",
+        "R158",
+        "R159",
+        "R160",
+        "R161",
+        "R162",
+        "R163",
+        "M011",
+        "M012"
+      ],
+      "contact_boxes": [],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "48009dca6deaeb5fa0d6547198c2ab04ca6516ddc0087e5a383a0665aef2669e",
+          "mask_sha256": "8e6de9657f15ede0be5087fd5b0e7853f787e64dc68ff05da022623de45ef166",
+          "mask_pixels": 78448
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "34517723fc92de7a1e5438d80a68e08f5b5d7b6648f27f56fd0cfdb399214cee",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "34517723fc92de7a1e5438d80a68e08f5b5d7b6648f27f56fd0cfdb399214cee",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false,
+        "cancellation_stroke_width_px": 1,
+        "cancellation_lines_survive_composition": true,
+        "outside_cancellation_lines_changed_pixels_before_encoding": 0
+      },
+      "safe_input_pixel_sha256": "47e1c9c630f211551604b782dfdb83c12c1efc9a932d66ed3f9654d185c56469",
+      "final_pixel_sha256": "99eff9ccdeb8c400ae23230ee25c03ae43683518eae3cdc83db3d9580c79da5b",
+      "final_decoded_pixel_sha256": "f0aace368f71a1e09b19ce2f5a20510d63ab1e176661f5fd577701842a9940d9",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      },
+      "current_layers": [
+        {
+          "layer": "names",
+          "image_pixel_sha256": "99eff9ccdeb8c400ae23230ee25c03ae43683518eae3cdc83db3d9580c79da5b",
+          "mask_pixel_sha256": "982c00eb4c056a975ec1b2cb44ff00699e52cf69de21d5b79cfa6ed792cb46c2",
+          "mask_pixels": 78448
+        },
+        {
+          "layer": "approval",
+          "image_pixel_sha256": "47e1c9c630f211551604b782dfdb83c12c1efc9a932d66ed3f9654d185c56469",
+          "mask_pixel_sha256": "0230b1dce0d2dd273468462d0f1d145307492dbfa76771c39eb7da60dd24dce3",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_pixel_sha256": "47e1c9c630f211551604b782dfdb83c12c1efc9a932d66ed3f9654d185c56469",
+          "mask_pixel_sha256": "0230b1dce0d2dd273468462d0f1d145307492dbfa76771c39eb7da60dd24dce3",
+          "mask_pixels": 0
+        }
+      ]
+    },
+    {
+      "filename": "p10.webp",
+      "safe_input_sha256": "81b91f8f5b4bb7a70b99d359e95f855baec0356300240034a0bcc8ab15c3d990",
+      "final_sha256": "d3cb0cd68e6da022d8954aa7ed57b6e452694fdce298b9d1e569d69bf18a45c7",
+      "names": [
+        {
+          "region_id": "R164",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            730,
+            416,
+            770,
+            460
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            714,
+            403,
+            778,
+            473
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "M013",
+          "class": "staff",
+          "synthetic_name": "김도현",
+          "observed_form": "도현",
+          "token": "작은우주",
+          "erase_box": [
+            838,
+            458,
+            925,
+            512
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 15,
+          "font_raster_px": 31,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            853,
+            457,
+            911,
+            519
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R165",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "나린",
+          "token": "봄날햇살",
+          "erase_box": [
+            867,
+            484,
+            979,
+            548
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 16,
+          "font_raster_px": 33,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            905,
+            483,
+            967,
+            549
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": true,
+          "cancellation_lines": [
+            [
+              912,
+              499,
+              964,
+              500
+            ],
+            [
+              908,
+              531,
+              964,
+              532
+            ]
+          ]
+        },
+        {
+          "region_id": "R166",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            728,
+            764,
+            774,
+            808
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            712,
+            751,
+            776,
+            821
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R167",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            720,
+            2428,
+            766,
+            2474
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            704,
+            2416,
+            768,
+            2486
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R168",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            720,
+            2782,
+            760,
+            2827
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            704,
+            2769,
+            768,
+            2839
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R169",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            719,
+            2956,
+            766,
+            3002
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            704,
+            2944,
+            768,
+            3014
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        }
+      ],
+      "erase_sequence": [
+        "R164",
+        "R165",
+        "R166",
+        "R167",
+        "R168",
+        "R169",
+        "M013"
+      ],
+      "contact_boxes": [],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "8976220d906e465a7f119ce9db10b305669d495e6c48aa7e9c7d22de4ba69885",
+          "mask_sha256": "4d51cf5568a0e2f11d4b9a6749ed313134d7cb072acbe6f59bee7bca7ab42b1a",
+          "mask_pixels": 32902
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "c47e42e26b4590288aba63864b7bd0b5fd12e312cbf1876d1ce87fa776ed854f",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "c47e42e26b4590288aba63864b7bd0b5fd12e312cbf1876d1ce87fa776ed854f",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false,
+        "cancellation_stroke_width_px": 1,
+        "cancellation_lines_survive_composition": true,
+        "outside_cancellation_lines_changed_pixels_before_encoding": 0
+      },
+      "safe_input_pixel_sha256": "d018d15b1c740038088c64bcd662c7d6a0ef0ba9e664689d07c9d0cf5c665587",
+      "final_pixel_sha256": "33b9c0239a321d4f9ccb40dd5ea97fac9b93cdf274b834f86b68f92c94277286",
+      "final_decoded_pixel_sha256": "e7a9aa304f67e57f1415dad1562a07e587ea5c3b7d938fbe87099380fa223729",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      },
+      "current_layers": [
+        {
+          "layer": "names",
+          "image_pixel_sha256": "33b9c0239a321d4f9ccb40dd5ea97fac9b93cdf274b834f86b68f92c94277286",
+          "mask_pixel_sha256": "9f4526f6b092a5a014170cc326b0d99d96cd2c775d685003a191614c40104462",
+          "mask_pixels": 32902
+        },
+        {
+          "layer": "approval",
+          "image_pixel_sha256": "d018d15b1c740038088c64bcd662c7d6a0ef0ba9e664689d07c9d0cf5c665587",
+          "mask_pixel_sha256": "0230b1dce0d2dd273468462d0f1d145307492dbfa76771c39eb7da60dd24dce3",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_pixel_sha256": "d018d15b1c740038088c64bcd662c7d6a0ef0ba9e664689d07c9d0cf5c665587",
+          "mask_pixel_sha256": "0230b1dce0d2dd273468462d0f1d145307492dbfa76771c39eb7da60dd24dce3",
+          "mask_pixels": 0
+        }
+      ]
+    },
+    {
+      "filename": "p11.webp",
+      "safe_input_sha256": "74ce238dd7a36b88a6b6ba6b6140e9efa775821f8b9145eda3b39f36d38f8d1c",
+      "final_sha256": "45b2f49844238b1b98662c54ae75ab49000fec6002006445fa73cf3f443e1439",
+      "names": [
+        {
+          "region_id": "R170",
+          "class": "staff",
+          "synthetic_name": "한예솔",
+          "observed_form": "예솔",
+          "token": "맑은수풀",
+          "erase_box": [
+            852,
+            533,
+            979,
+            612
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            883,
+            538,
+            947,
+            608
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R171",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "서우",
+          "token": "산들구름",
+          "erase_box": [
+            845,
+            602,
+            975,
+            665
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 16,
+          "font_raster_px": 33,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            886,
+            604,
+            948,
+            670
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": true,
+          "cancellation_lines": [
+            [
+              888,
+              620,
+              945,
+              621
+            ],
+            [
+              889,
+              653,
+              945,
+              654
+            ]
+          ]
+        },
+        {
+          "region_id": "R172",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            729,
+            612,
+            775,
+            658
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            713,
+            600,
+            777,
+            670
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R173",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            729,
+            877,
+            769,
+            921
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            713,
+            864,
+            777,
+            934
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "M014",
+          "class": "staff",
+          "synthetic_name": "김도현",
+          "observed_form": "도현",
+          "token": "작은우주",
+          "erase_box": [
+            892,
+            1156,
+            981,
+            1219
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            905,
+            1152,
+            969,
+            1222
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R174",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "나린",
+          "token": "봄날햇살",
+          "erase_box": [
+            863,
+            1225,
+            982,
+            1273
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 14,
+          "font_raster_px": 29,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            897,
+            1218,
+            951,
+            1278
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": true,
+          "cancellation_lines": [
+            [
+              900,
+              1232,
+              949,
+              1233
+            ],
+            [
+              899,
+              1262,
+              949,
+              1263
+            ]
+          ]
+        },
+        {
+          "region_id": "M015",
+          "class": "staff",
+          "synthetic_name": "한예솔",
+          "observed_form": "예솔",
+          "token": "맑은수풀",
+          "erase_box": [
+            1012,
+            1331,
+            1149,
+            1406
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1049,
+            1334,
+            1113,
+            1404
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R175",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "서우",
+          "token": "산들구름",
+          "erase_box": [
+            983,
+            1385,
+            1114,
+            1447
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 16,
+          "font_raster_px": 33,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1026,
+            1399,
+            1088,
+            1465
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": true,
+          "cancellation_lines": [
+            [
+              1028,
+              1415,
+              1085,
+              1416
+            ],
+            [
+              1029,
+              1448,
+              1085,
+              1449
+            ]
+          ]
+        },
+        {
+          "region_id": "R176",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            729,
+            1402,
+            776,
+            1447
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            714,
+            1389,
+            778,
+            1459
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R177",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            730,
+            2112,
+            769,
+            2158
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            713,
+            2100,
+            777,
+            2170
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R178",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            729,
+            2377,
+            775,
+            2424
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            713,
+            2366,
+            777,
+            2436
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R179",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            728,
+            2822,
+            774,
+            2869
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            712,
+            2811,
+            776,
+            2881
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        }
+      ],
+      "erase_sequence": [
+        "R170",
+        "R171",
+        "R172",
+        "R173",
+        "R174",
+        "R175",
+        "R176",
+        "R177",
+        "R178",
+        "R179",
+        "M014",
+        "M015"
+      ],
+      "contact_boxes": [],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "6f5bf5f46bc89ed24bdb7d3130da1d218c8d597af9b99d4d926b3197fa92fe1c",
+          "mask_sha256": "08e226b409e8ee3f43cdb7fa8a51ea66429d847c8854d8dd38e986936b1ee1f1",
+          "mask_pixels": 73777
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "9f3bbb8c544c41e8f2a564d543a2e0836d812af16f9dec02976f041aa02d70e1",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "9f3bbb8c544c41e8f2a564d543a2e0836d812af16f9dec02976f041aa02d70e1",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false,
+        "cancellation_stroke_width_px": 1,
+        "cancellation_lines_survive_composition": true,
+        "outside_cancellation_lines_changed_pixels_before_encoding": 0
+      },
+      "safe_input_pixel_sha256": "0e3894993b68fd0b6ebb5b517f49bc9dd7c1f2aebbbd4efac8afc800c359e4c0",
+      "final_pixel_sha256": "e1d862dc525d8d8a20c6bce75b79edc449c454a693ef8669fe7d4e862801d26f",
+      "final_decoded_pixel_sha256": "b656de298a9294f3d5ad983526a16015eb909054c8cafa5a0a300871cd22870b",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      },
+      "current_layers": [
+        {
+          "layer": "names",
+          "image_pixel_sha256": "e1d862dc525d8d8a20c6bce75b79edc449c454a693ef8669fe7d4e862801d26f",
+          "mask_pixel_sha256": "b04d5c2b514fd5dd4f22e0907b673a5f2310d7b59d9e4998825373c8a07bee9c",
+          "mask_pixels": 73777
+        },
+        {
+          "layer": "approval",
+          "image_pixel_sha256": "0e3894993b68fd0b6ebb5b517f49bc9dd7c1f2aebbbd4efac8afc800c359e4c0",
+          "mask_pixel_sha256": "0230b1dce0d2dd273468462d0f1d145307492dbfa76771c39eb7da60dd24dce3",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_pixel_sha256": "0e3894993b68fd0b6ebb5b517f49bc9dd7c1f2aebbbd4efac8afc800c359e4c0",
+          "mask_pixel_sha256": "0230b1dce0d2dd273468462d0f1d145307492dbfa76771c39eb7da60dd24dce3",
+          "mask_pixels": 0
+        }
+      ]
+    },
+    {
+      "filename": "p12.webp",
+      "safe_input_sha256": "ddd2d6cf866eafc05996b05377594d07966a048fab44a2cac34abadf55fedaab",
+      "final_sha256": "a837205f2a254a2394c59ef102fffa755c191a6b943094325d4dd4e602c599b1",
+      "names": [
+        {
+          "region_id": "R180",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            732,
+            431,
+            772,
+            475
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            716,
+            418,
+            780,
+            488
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R181",
+          "class": "staff",
+          "synthetic_name": "김도현",
+          "observed_form": "도현",
+          "token": "작은우주",
+          "erase_box": [
+            893,
+            695,
+            1020,
+            780
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            925,
+            703,
+            989,
+            773
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R182",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "나린",
+          "token": "봄날햇살",
+          "erase_box": [
+            864,
+            775,
+            977,
+            826
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 14,
+          "font_raster_px": 29,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            896,
+            772,
+            950,
+            832
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": true,
+          "cancellation_lines": [
+            [
+              899,
+              786,
+              948,
+              787
+            ],
+            [
+              898,
+              816,
+              948,
+              817
+            ]
+          ]
+        },
+        {
+          "region_id": "R183",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            731,
+            952,
+            777,
+            998
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            715,
+            940,
+            779,
+            1010
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R186",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            731,
+            1478,
+            771,
+            1524
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            715,
+            1466,
+            779,
+            1536
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R188",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            731,
+            1830,
+            777,
+            1877
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            715,
+            1819,
+            779,
+            1889
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R189",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            731,
+            2196,
+            777,
+            2242
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            715,
+            2184,
+            779,
+            2254
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R190",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            732,
+            2464,
+            771,
+            2510
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            715,
+            2452,
+            779,
+            2522
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R191",
+          "class": "staff",
+          "synthetic_name": "정하람",
+          "observed_form": "정하람",
+          "token": "하늘연못",
+          "erase_box": [
+            869,
+            2550,
+            1025,
+            2599
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 14,
+          "font_raster_px": 29,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            920,
+            2544,
+            974,
+            2603
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R192",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            731,
+            2728,
+            777,
+            2772
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            715,
+            2715,
+            779,
+            2785
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R193",
+          "class": "staff",
+          "synthetic_name": "차민재",
+          "observed_form": "차민재",
+          "token": "은빛물결",
+          "erase_box": [
+            861,
+            2813,
+            1051,
+            2866
+          ],
+          "token_role": "body",
+          "token_layout": "4",
+          "font_base_px": 22,
+          "font_raster_px": 46,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            874,
+            2817,
+            1038,
+            2862
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": true,
+          "cancellation_lines": [
+            [
+              877,
+              2839,
+              1033,
+              2840
+            ]
+          ]
+        },
+        {
+          "region_id": "R194",
+          "class": "staff",
+          "synthetic_name": "오채린",
+          "observed_form": "오채린",
+          "token": "달빛정원",
+          "erase_box": [
+            900,
+            2866,
+            1045,
+            2926
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 16,
+          "font_raster_px": 33,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            941,
+            2862,
+            1003,
+            2928
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        }
+      ],
+      "erase_sequence": [
+        "R180",
+        "R181",
+        "R182",
+        "R183",
+        "R186",
+        "R188",
+        "R189",
+        "R190",
+        "R191",
+        "R192",
+        "R193",
+        "R194"
+      ],
+      "contact_boxes": [
+        [
+          1498,
+          1050,
+          1917,
+          1105
+        ],
+        [
+          1604,
+          1079,
+          1972,
+          1195
+        ]
+      ],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "c91131593349fee80e776724b2e47e08d7fcc1d9d8b49cada7aec03a2c5724e3",
+          "mask_sha256": "e34aa6abcf956aff3935bcd87f4675d3c56ade1fa2417af1fe5a8222c80af9ab",
+          "mask_pixels": 74900
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "e5d4b13ed12b585ae107cf4d0744b6059d0e61222c3ecf501ec6b4284cc1ad0d",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "3a91bb3dc3b2c7bd57f2bf6c33631fadcd0da632b15f5c1fa29c5952d2a7504e",
+          "mask_sha256": "175cf7562e9ca4682565c61e424e20b8fbf449d31fdb9ade8e5eacbaec7d6aaf",
+          "mask_pixels": 57595
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false,
+        "cancellation_stroke_width_px": 1,
+        "cancellation_lines_survive_composition": true,
+        "outside_cancellation_lines_changed_pixels_before_encoding": 0
+      },
+      "safe_input_pixel_sha256": "c0cf9190f553b22d2a3b149058614932461e4e116fdee7829361709ea612fc24",
+      "final_pixel_sha256": "0eb321d2b4324e4d4bf2aab399b224ae8bb20317d2943f58afa7b902c6da63f5",
+      "final_decoded_pixel_sha256": "9ed0d52c88d7c90bc8c4207cbb76adb7aab78989b00c0ab889b79199ff625f7c",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      },
+      "current_layers": [
+        {
+          "layer": "names",
+          "image_pixel_sha256": "7049738964babbcf7df86db59a206dbc06b503fe58ee287374976ad22e258bd2",
+          "mask_pixel_sha256": "175ead038822527052ed7355a4d08ad841e9e8043af65c2994d2f1198fc0a4f1",
+          "mask_pixels": 74900
+        },
+        {
+          "layer": "approval",
+          "image_pixel_sha256": "c0cf9190f553b22d2a3b149058614932461e4e116fdee7829361709ea612fc24",
+          "mask_pixel_sha256": "0230b1dce0d2dd273468462d0f1d145307492dbfa76771c39eb7da60dd24dce3",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_pixel_sha256": "327c0f2927ab7bb2c192fa182d0a5104c6b7116a2da2aa9775866bf3eb694165",
+          "mask_pixel_sha256": "30c7dcb1b524c40995d79d95f58230fc2d88f28c52a6781b855c169532467e69",
+          "mask_pixels": 57595
+        }
+      ]
+    },
+    {
+      "filename": "p13.webp",
+      "safe_input_sha256": "481af44c0fd8c640203b0d0fed03cbc75f7c34ad17b4c20c9591bb9e17122eb6",
+      "final_sha256": "7a7dfc3d8e34b5b147a3ca237ce81c5538db667e308e6ea832e2fdcd93f77f53",
+      "names": [
+        {
+          "region_id": "M016",
+          "class": "staff",
+          "synthetic_name": "한예솔",
+          "observed_form": "한예솔",
+          "token": "맑은수풀",
+          "erase_box": [
+            1422,
+            297,
+            1707,
+            391
+          ],
+          "token_role": "body",
+          "token_layout": "4",
+          "font_base_px": 22,
+          "font_raster_px": 46,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1482,
+            322,
+            1646,
+            367
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": true,
+          "cancellation_lines": [
+            [
+              1487,
+              344,
+              1643,
+              345
+            ]
+          ]
+        },
+        {
+          "region_id": "R195",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배",
+          "token": "산들구름",
+          "erase_box": [
+            717,
+            433,
+            756,
+            477
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            700,
+            420,
+            764,
+            490
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R196",
+          "class": "staff",
+          "synthetic_name": "배서우",
+          "observed_form": "배서우",
+          "token": "산들구름",
+          "erase_box": [
+            845,
+            500,
+            1029,
+            566
+          ],
+          "token_role": "body",
+          "token_layout": "4",
+          "font_base_px": 22,
+          "font_raster_px": 46,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            853,
+            508,
+            1017,
+            553
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": true,
+          "cancellation_lines": [
+            [
+              856,
+              530,
+              1014,
+              531
+            ]
+          ]
+        },
+        {
+          "region_id": "R197",
+          "class": "staff",
+          "synthetic_name": "한예솔",
+          "observed_form": "한예솔",
+          "token": "맑은수풀",
+          "erase_box": [
+            866,
+            562,
+            1061,
+            637
+          ],
+          "token_role": "body",
+          "token_layout": "4",
+          "font_base_px": 22,
+          "font_raster_px": 46,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            881,
+            577,
+            1045,
+            622
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R198",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고",
+          "token": "봄날햇살",
+          "erase_box": [
+            716,
+            694,
+            762,
+            737
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            700,
+            680,
+            764,
+            750
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R199",
+          "class": "staff",
+          "synthetic_name": "고나린",
+          "observed_form": "고나린",
+          "token": "봄날햇살",
+          "erase_box": [
+            854,
+            779,
+            1040,
+            846
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            900,
+            776,
+            964,
+            846
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": true,
+          "cancellation_lines": [
+            [
+              903,
+              793,
+              962,
+              794
+            ],
+            [
+              903,
+              827,
+              962,
+              828
+            ]
+          ]
+        },
+        {
+          "region_id": "M017",
+          "class": "staff",
+          "synthetic_name": "김도현",
+          "observed_form": "도현",
+          "token": "작은우주",
+          "erase_box": [
+            847,
+            840,
+            971,
+            917
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            870,
+            843,
+            934,
+            913
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": true,
+          "cancellation_lines": [
+            [
+              872,
+              860,
+              931,
+              861
+            ],
+            [
+              873,
+              895,
+              931,
+              896
+            ]
+          ]
+        }
+      ],
+      "erase_sequence": [
+        "R195",
+        "R196",
+        "R197",
+        "R198",
+        "R199",
+        "M016",
+        "M017"
+      ],
+      "contact_boxes": [],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "1b3485751ca70ae87f94f3de87269c3b9c4cbba9220837f32248c74abd3c6921",
+          "mask_sha256": "86b9eb38bec19479dbe53399ac5611923e8e6bd64f52610f23ae47012c57e9cb",
+          "mask_pixels": 83367
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "7d06540eea23cd09871b7b8cd192c2d3ae730bb4a5286b512c55d426e0cd424a",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "7d06540eea23cd09871b7b8cd192c2d3ae730bb4a5286b512c55d426e0cd424a",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false,
+        "cancellation_stroke_width_px": 1,
+        "cancellation_lines_survive_composition": true,
+        "outside_cancellation_lines_changed_pixels_before_encoding": 0
+      },
+      "safe_input_pixel_sha256": "84520c60ab0e061650c2681a3b981edcf0f4931fdca025c61bfce477fddac019",
+      "final_pixel_sha256": "b99c5548a31d87ffe8db73f2187eaa56887c738a4cd089803e3f3d37776a219c",
+      "final_decoded_pixel_sha256": "88abb35ef582927439eb91a63d8491ce541955d44b59b3106788af6f79596878",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      },
+      "current_layers": [
+        {
+          "layer": "names",
+          "image_pixel_sha256": "b99c5548a31d87ffe8db73f2187eaa56887c738a4cd089803e3f3d37776a219c",
+          "mask_pixel_sha256": "0ba56f9a6b720d9d50bab1ead4daf0e5dbadc2649da93814df480ba8110118b2",
+          "mask_pixels": 83367
+        },
+        {
+          "layer": "approval",
+          "image_pixel_sha256": "84520c60ab0e061650c2681a3b981edcf0f4931fdca025c61bfce477fddac019",
+          "mask_pixel_sha256": "0230b1dce0d2dd273468462d0f1d145307492dbfa76771c39eb7da60dd24dce3",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_pixel_sha256": "84520c60ab0e061650c2681a3b981edcf0f4931fdca025c61bfce477fddac019",
+          "mask_pixel_sha256": "0230b1dce0d2dd273468462d0f1d145307492dbfa76771c39eb7da60dd24dce3",
+          "mask_pixels": 0
+        }
+      ]
+    }
+  ],
+  "delivery_encoding": {
+    "format": "WebP",
+    "lossless": false,
+    "quality": 90,
+    "method": 6,
+    "exact": true,
+    "pillow": "12.3.0",
+    "libwebp": "1.6.0"
+  },
+  "layer_hashes_encoding": "Historical run-v4 PNG intermediate layer hashes; compact-input replay is separately verified before delivery encoding.",
+  "cancellation_rule": {
+    "input_flag": "input_cancelled",
+    "applicable_class": "staff",
+    "width_px": 1,
+    "placement": "one straight horizontal line inside each displayed token row; clip at neighboring token with 1 px gap",
+    "coordinate_system": "pixel xyxy with exclusive right/bottom",
+    "order": "erase all names, place all tokens, draw cancellation in name layer, compose names then approval then contacts",
+    "source_ink_restoration": false
+  }
+}

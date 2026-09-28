@@ -1,0 +1,211 @@
+{
+  "source": "user guides carried through preparation, then checked against the current safe image",
+  "staff": [
+    {
+      "episode": "1994",
+      "synthetic_name": "김하린",
+      "token": "구름바다"
+    },
+    {
+      "episode": "1994",
+      "synthetic_name": "오서윤",
+      "token": "푸른나무"
+    },
+    {
+      "episode": "1994",
+      "synthetic_name": "한도겸",
+      "token": "노란달빛"
+    },
+    {
+      "episode": "2003",
+      "synthetic_name": "이해준",
+      "token": "여름바람"
+    },
+    {
+      "episode": "2003",
+      "synthetic_name": "김소린",
+      "token": "새벽노을"
+    },
+    {
+      "episode": "2003",
+      "synthetic_name": "문지호",
+      "token": "초록별빛"
+    },
+    {
+      "episode": "2017",
+      "synthetic_name": "정하람",
+      "token": "하늘연못"
+    },
+    {
+      "episode": "2017",
+      "synthetic_name": "차민재",
+      "token": "은빛물결"
+    },
+    {
+      "episode": "2017",
+      "synthetic_name": "고나린",
+      "token": "봄날햇살"
+    },
+    {
+      "episode": "2017",
+      "synthetic_name": "배서우",
+      "token": "산들구름"
+    },
+    {
+      "episode": "2017",
+      "synthetic_name": "한예솔",
+      "token": "맑은수풀"
+    },
+    {
+      "episode": "2017",
+      "synthetic_name": "김도현",
+      "token": "작은우주"
+    },
+    {
+      "episode": "2017",
+      "synthetic_name": "오채린",
+      "token": "달빛정원"
+    }
+  ],
+  "ordinary_people": {
+    "decision": "white mask, thin black outline, no staff token",
+    "persons": 6,
+    "name_occurrences": 11,
+    "basis": "four user-specified candidate identities plus two ordinary people found by agent reading"
+  },
+  "keep_examples": [
+    {
+      "text": "권영길 의원",
+      "basis": "explicit user instruction"
+    },
+    {
+      "text": "전결",
+      "basis": "approval term, not an individual identity; retained in safe preparation, included in final approval-cell operation"
+    },
+    {
+      "text": "학과 / 입학년도",
+      "basis": "explicit user exemption; preserved pixels in the shown 2017 p13 region"
+    }
+  ],
+  "replacement_examples": [
+    {
+      "printed": "고나린",
+      "printed_alias": "고",
+      "handwritten_replacement": "김도현",
+      "same_person": false
+    },
+    {
+      "printed": "배서우",
+      "printed_alias": "배",
+      "handwritten_replacement": "한예솔",
+      "same_person": false
+    }
+  ],
+  "privacy_preparation": "Handwriting style enlarged crops were shown to the requested gpt-6-luna subagent with max reasoning. It called ImageGen for small patches; ImageGen does not expose a separately verified model name.",
+  "work_process": {
+    "record_kind": "Evidence-linked editorial summary of this three-episode demo; not a transcript or a complete chronological execution log.",
+    "inherited": [
+      {
+        "episode": "1994",
+        "judgment": "crew and self-introduction name refer to the same staff member",
+        "basis": "existing user guide; retained synthetic identity and token"
+      },
+      {
+        "episode": "2003",
+        "judgment": "full-name / short-alias pairs, four designated ordinary people, and the public-figure keep exception",
+        "basis": "existing user guide and explicit instruction"
+      },
+      {
+        "episode": "2017",
+        "judgment": "printed and replacement handwritten names are different identities",
+        "basis": "existing replacement_examples, carried guides, and safe image context"
+      }
+    ],
+    "new_demo_reading": [
+      {
+        "episode": "2003",
+        "finding": "two additional ordinary people",
+        "basis": "existing ordinary_people record; agent reading",
+        "result": "combined with four designated people, six people and 11 private-name occurrences"
+      },
+      {
+        "episode": "2017",
+        "finding": "ambiguous handwriting resolved with the user reply; departments and entry years exempted by user instruction",
+        "result": "name operations retained; academic information outside their scope"
+      }
+    ],
+    "token_order_repair": {
+      "reported_discovery": "Agent review, as stated in the pre-existing demo description and execution summary.",
+      "evidence_image": "2017/token-repair.webp",
+      "image_status": "Frozen earlier/corrected comparison from the prior order repair; predates the current cancellation fix.",
+      "symptom": "A later name erasure clipped a previously placed token.",
+      "maintained": [
+        "person bindings",
+        "classifications",
+        "token strings"
+      ],
+      "changed": "Erase all confirmed name regions before placing any tokens.",
+      "current_code": "replay.py:render_layers",
+      "current_operations": "2017/complete/operations.json",
+      "current_geometry_intersections": [
+        {
+          "token_region": "R122",
+          "later_erase_region": "R123",
+          "intersection_xyxy": [
+            1783,
+            1718,
+            1847,
+            1733
+          ],
+          "token": "작은우주"
+        },
+        {
+          "token_region": "R125",
+          "later_erase_region": "R126",
+          "intersection_xyxy": [
+            1863,
+            1892,
+            1927,
+            1910
+          ],
+          "token": "맑은수풀"
+        },
+        {
+          "token_region": "R129",
+          "later_erase_region": "M007",
+          "intersection_xyxy": [
+            735,
+            2342,
+            789,
+            2352
+          ],
+          "token": "봄날햇살"
+        }
+      ],
+      "evidence_limit": "Current geometry corroborates the overlap mechanism; these intersection calculations are not a reconstruction of missing historical logs."
+    },
+    "cancellation_repair": {
+      "trigger": "Current user review identified input_cancelled flags that the replay renderer ignored.",
+      "checked": "20 cancelled staff-name occurrences on seven 2017 pages.",
+      "maintained": [
+        "demo-source-safe image bytes",
+        "identity bindings",
+        "token strings",
+        "font sizes",
+        "token boxes",
+        "one-line / 2+2 layouts",
+        "erase-before-token sequence"
+      ],
+      "changed": "35 new 1 px straight strokes, one per displayed token row, within the name layer and mask.",
+      "bounded_adjustment": {
+        "page": "p10.webp",
+        "target": "R165",
+        "neighbor": "M013",
+        "line_start_shift_px": 4,
+        "reason": "Keep a 1 px gap from the adjacent non-cancelled token; neither token moved."
+      },
+      "verification": "revision-verification.json"
+    },
+    "historical_archive_scope": "History documents earlier whole-archive work. Only the three demo episodes were replayed here."
+  }
+}

@@ -1,0 +1,1630 @@
+{
+  "version": "run-v4-webp-q90",
+  "font_sha256": "f2fe69e39644d04a9484802044836ba9d4a950aed2e32b006a3e16d5df5f49f1",
+  "pages": [
+    {
+      "filename": "p01.webp",
+      "safe_input_sha256": "d5ddaaad31c49386d5f15dfb56b2abb06e783c20bba6c4e731038bcfc8b38d64",
+      "final_sha256": "e32c7cbba9467b708ed5dc3fd0cc1076b84d14c94956c97f981dac99d58c9e3f",
+      "names": [
+        {
+          "region_id": "R010",
+          "class": "staff",
+          "synthetic_name": "김소린",
+          "observed_form": "김소린",
+          "token": "새벽노을",
+          "erase_box": [
+            1211,
+            1014,
+            1397,
+            1078
+          ],
+          "token_role": "crew",
+          "token_layout": "4",
+          "font_base_px": 16,
+          "font_raster_px": 33,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1244,
+            1029,
+            1364,
+            1063
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R009",
+          "class": "staff",
+          "synthetic_name": "이해준",
+          "observed_form": "이해준",
+          "token": "여름바람",
+          "erase_box": [
+            1063,
+            1022,
+            1205,
+            1078
+          ],
+          "token_role": "crew",
+          "token_layout": "4",
+          "font_base_px": 16,
+          "font_raster_px": 33,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1074,
+            1033,
+            1194,
+            1067
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R011",
+          "class": "staff",
+          "synthetic_name": "문지호",
+          "observed_form": "문지호",
+          "token": "초록별빛",
+          "erase_box": [
+            1609,
+            1022,
+            1795,
+            1078
+          ],
+          "token_role": "crew",
+          "token_layout": "4",
+          "font_base_px": 16,
+          "font_raster_px": 33,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1642,
+            1033,
+            1762,
+            1067
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        }
+      ],
+      "erase_sequence": [
+        "R009",
+        "R010",
+        "R011"
+      ],
+      "contact_boxes": [],
+      "approval_cells": [
+        {
+          "cell": 3,
+          "box": [
+            1490,
+            760,
+            1643,
+            912
+          ]
+        },
+        {
+          "cell": 5,
+          "box": [
+            1706,
+            760,
+            1848,
+            912
+          ]
+        },
+        {
+          "cell": 7,
+          "box": [
+            1912,
+            760,
+            2070,
+            912
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "06581423360f4be77f2a595a26c40838dfc7c9307a3a9d6e4340d7be59220134",
+          "mask_sha256": "d30f3188a25862e666943da83a407e9af776a7ba3d8ab3d2c752b5d7154d8635",
+          "mask_pixels": 30272
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "bae847297c1d8519d66ee4e6697e01223ab79f0c0c37d7ebcb7a033993359e64",
+          "mask_sha256": "4f703816fc02f9ad79749d855f35aa4db4ceb1fca49c5ec5ac3ba539df8a7899",
+          "mask_pixels": 68856
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "6a6d06d7729194b8dd61ba12fb2579daa26ba6964709fecf84b86f7096547b02",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "00f06b3dde7d810519c70d037e98afab5dde35f239169cac5a1ba1629909f79d",
+      "final_pixel_sha256": "a968876ea95e2f4d709047f75bddfdbc24e4a3c049f1153995424291534bc0e8",
+      "final_decoded_pixel_sha256": "4ed0f02c963c68de64001ade0bdd870ee998d4cdb2ec97ee1a1071443eebbf34",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    },
+    {
+      "filename": "p02.webp",
+      "safe_input_sha256": "c18d3e815a20d4d8bcbb80d961c2eace2b1894f24ece1b1623346cebb01994e7",
+      "final_sha256": "6db248827ed28d8aacdb44630733e75b2e12acfe321e03f37297873e00002824",
+      "names": [],
+      "erase_sequence": [],
+      "contact_boxes": [],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "92600661f641a736f0cf0fe7bcc28361f5488450771ce1fb384620fb1f8e29e0",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "92600661f641a736f0cf0fe7bcc28361f5488450771ce1fb384620fb1f8e29e0",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "92600661f641a736f0cf0fe7bcc28361f5488450771ce1fb384620fb1f8e29e0",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "26807fef41e716cd5220fe7eb9f98a1dc52959ff170e8a532a1f141563bc3b81",
+      "final_pixel_sha256": "26807fef41e716cd5220fe7eb9f98a1dc52959ff170e8a532a1f141563bc3b81",
+      "final_decoded_pixel_sha256": "ecfb9d021238dc7ead34469547f2264d3604bf40ac8a4d3c1c195dad8b1d45ef",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    },
+    {
+      "filename": "p03.webp",
+      "safe_input_sha256": "972dc7db304b7824f5a4462dd25c78e71e5ad468c148681fdb5d024e38feac10",
+      "final_sha256": "7f4921be8d24d18412fdfae4b24d1de96db3423344dc7d034bad816fa4b2c1fd",
+      "names": [],
+      "erase_sequence": [],
+      "contact_boxes": [],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "2dd8fe6a649caf13ed14f6ecdcf8eeb4ff05b7df54b2edd98c89c3e1bcc3e030",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "2dd8fe6a649caf13ed14f6ecdcf8eeb4ff05b7df54b2edd98c89c3e1bcc3e030",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "2dd8fe6a649caf13ed14f6ecdcf8eeb4ff05b7df54b2edd98c89c3e1bcc3e030",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "fbf824a3956fb4a837bf9a2a82b14cdd8fc062c651f3f931ea6016a0280ac55f",
+      "final_pixel_sha256": "fbf824a3956fb4a837bf9a2a82b14cdd8fc062c651f3f931ea6016a0280ac55f",
+      "final_decoded_pixel_sha256": "2bf4a596ed6362d2ee843708138660191a5ca7597da8d2e4dca75dca97a7be65",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    },
+    {
+      "filename": "p04.webp",
+      "safe_input_sha256": "fc40ce7429cece493386c0a661ed602b8c7c3cede76984aefd35119cc344b817",
+      "final_sha256": "d65b424d2e1e96675fa56c279a30aebc7c72d3a3be2b489a11f5a65a4d849ab0",
+      "names": [],
+      "erase_sequence": [],
+      "contact_boxes": [],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "7105a3ba3205fd43af5c8a461558979a4cb47c92d3902a94177697b8eb74a8c8",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "7105a3ba3205fd43af5c8a461558979a4cb47c92d3902a94177697b8eb74a8c8",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "7105a3ba3205fd43af5c8a461558979a4cb47c92d3902a94177697b8eb74a8c8",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "d886e852842595e15bd15af715156c9f7fabb6fe665948a34eebd76b653d2bc7",
+      "final_pixel_sha256": "d886e852842595e15bd15af715156c9f7fabb6fe665948a34eebd76b653d2bc7",
+      "final_decoded_pixel_sha256": "8c6c5c21346d71a52c83c1dce1855a5dadf5b0d6a60d22a099f123cbc11da8be",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    },
+    {
+      "filename": "p05.webp",
+      "safe_input_sha256": "cac0511f045aeb5e6fff0a62ed98f38255f408a8fe65e9a8472cd7ffe196192e",
+      "final_sha256": "35ba315217cd0f3ca616ea362803590bbd36bbe72be29970051c8e78977ac557",
+      "names": [
+        {
+          "region_id": "R012",
+          "class": "staff",
+          "synthetic_name": "이해준",
+          "observed_form": "이해준",
+          "token": "여름바람",
+          "erase_box": [
+            1697,
+            881,
+            1844,
+            942
+          ],
+          "token_role": "crew",
+          "token_layout": "4",
+          "font_base_px": 16,
+          "font_raster_px": 33,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1710,
+            893,
+            1830,
+            927
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R013",
+          "class": "staff",
+          "synthetic_name": "김소린",
+          "observed_form": "김소린",
+          "token": "새벽노을",
+          "erase_box": [
+            1864,
+            881,
+            2011,
+            942
+          ],
+          "token_role": "crew",
+          "token_layout": "4",
+          "font_base_px": 16,
+          "font_raster_px": 33,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1877,
+            892,
+            1997,
+            926
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R014",
+          "class": "staff",
+          "synthetic_name": "문지호",
+          "observed_form": "문지호",
+          "token": "초록별빛",
+          "erase_box": [
+            1737,
+            936,
+            1910,
+            996
+          ],
+          "token_role": "crew",
+          "token_layout": "4",
+          "font_base_px": 16,
+          "font_raster_px": 33,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1763,
+            950,
+            1883,
+            984
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R015",
+          "class": "staff",
+          "synthetic_name": "김소린",
+          "observed_form": "소린",
+          "token": "새벽노을",
+          "erase_box": [
+            545,
+            1250,
+            620,
+            1325
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            555,
+            1252,
+            619,
+            1322
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R016",
+          "class": "private",
+          "erase_box": [
+            1108,
+            2049,
+            1241,
+            2093
+          ],
+          "token": null,
+          "source": "agent_reading_of_safe_image_with_user_guides"
+        }
+      ],
+      "erase_sequence": [
+        "R012",
+        "R013",
+        "R014",
+        "R015",
+        "R016"
+      ],
+      "contact_boxes": [],
+      "approval_cells": [
+        {
+          "cell": 3,
+          "box": [
+            1514,
+            578,
+            1659,
+            734
+          ]
+        },
+        {
+          "cell": 5,
+          "box": [
+            1730,
+            578,
+            1888,
+            734
+          ]
+        },
+        {
+          "cell": 7,
+          "box": [
+            1965,
+            578,
+            2110,
+            734
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "2abe2d7483e8e8321a283d225823d48e8ccec532e37582082cbfed344225a58f",
+          "mask_sha256": "901004160416b1fe4ebd5bddebc5679be30084787527f99543303f9853d52863",
+          "mask_pixels": 38873
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "4d98c226b68e948dc06a509ac7ac0971bf474ddd9e19cbdea3394f5a9a867ca8",
+          "mask_sha256": "0ffdcf18132010229191efeb2a0cd92dd7b3cad6228c0a6f4175cfe60298edff",
+          "mask_pixels": 69888
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "597bf26cc09cc85bbe9b63f22567968abf8779adb6c1bb3d9254de730001e523",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "66121b3f66cccbc67a4ad0199eca7ddbd132733ee580c6b5e442231e64b07d28",
+      "final_pixel_sha256": "dd5612aa8d40813d31b286659df3bf0fd3ab97cc52a0dff647f8db9e2ead5e09",
+      "final_decoded_pixel_sha256": "fa44520a24f4a3e8f82c6da01e432ddf53ef06f6f105b46372749785435c443a",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    },
+    {
+      "filename": "p06.webp",
+      "safe_input_sha256": "b7c88ea219ef731e85c544a944f94eb139b3ab46503ef1506bd1f2b8651b72ca",
+      "final_sha256": "f1343297ee486e52f62976cbc576be15357d701391cf714c9d46b30f71d31d00",
+      "names": [
+        {
+          "region_id": "R017",
+          "class": "private",
+          "erase_box": [
+            1746,
+            1034,
+            1797,
+            1075
+          ],
+          "token": null,
+          "source": "agent_reading_of_safe_image_with_user_guides"
+        },
+        {
+          "region_id": "R018",
+          "class": "staff",
+          "synthetic_name": "이해준",
+          "observed_form": "해준",
+          "token": "여름바람",
+          "erase_box": [
+            661,
+            1854,
+            731,
+            1911
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            666,
+            1847,
+            730,
+            1917
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        }
+      ],
+      "erase_sequence": [
+        "R017",
+        "R018"
+      ],
+      "contact_boxes": [],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "d377a2dbbab353efce145a055e82da3eed095eb2c383ada27b94718b7179a57b",
+          "mask_sha256": "65494d1873063bb43044389e9c7f162d9a45e7441ca10cfcc527f881399cc0cb",
+          "mask_pixels": 6913
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "3b39d898b333a2ab575cb8060097bffbb69672106e2e119eae62751a19dfe5ab",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "3b39d898b333a2ab575cb8060097bffbb69672106e2e119eae62751a19dfe5ab",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "4c8d07acd6220937893d1cbb74e5c3cc2298ce86e2db095971a4167341d43ac1",
+      "final_pixel_sha256": "8c9959b38bc0fd15b06b7a2aaf8592bcf609e22081d0e6054830dfccecbbab65",
+      "final_decoded_pixel_sha256": "4ac04adbf13f6f4513523762775fb7c4d1c1d1119721c589f184c0647b0b5bc7",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    },
+    {
+      "filename": "p07.webp",
+      "safe_input_sha256": "91bb1f1147db0e6ea039005436b6eb1b1fea0192f3295b5ee553f011281470c2",
+      "final_sha256": "bfcf06531ccb619228878a459a2a65236322563b3919eb2beac27c32d509b43a",
+      "names": [
+        {
+          "region_id": "R019",
+          "class": "staff",
+          "synthetic_name": "이해준",
+          "observed_form": "해준",
+          "token": "여름바람",
+          "erase_box": [
+            663,
+            584,
+            749,
+            643
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            684,
+            578,
+            748,
+            648
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R020",
+          "class": "staff",
+          "synthetic_name": "김소린",
+          "observed_form": "소린",
+          "token": "새벽노을",
+          "erase_box": [
+            650,
+            1027,
+            736,
+            1082
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            672,
+            1019,
+            736,
+            1089
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R021",
+          "class": "staff",
+          "synthetic_name": "이해준",
+          "observed_form": "해준",
+          "token": "여름바람",
+          "erase_box": [
+            658,
+            1256,
+            731,
+            1308
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            666,
+            1247,
+            730,
+            1317
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R022",
+          "class": "staff",
+          "synthetic_name": "김소린",
+          "observed_form": "소린",
+          "token": "새벽노을",
+          "erase_box": [
+            645,
+            1604,
+            736,
+            1667
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            672,
+            1600,
+            736,
+            1670
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R023",
+          "class": "staff",
+          "synthetic_name": "이해준",
+          "observed_form": "해준",
+          "token": "여름바람",
+          "erase_box": [
+            651,
+            1830,
+            728,
+            1888
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            663,
+            1824,
+            727,
+            1894
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R024",
+          "class": "staff",
+          "synthetic_name": "김소린",
+          "observed_form": "소린",
+          "token": "새벽노을",
+          "erase_box": [
+            649,
+            2169,
+            734,
+            2222
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            670,
+            2160,
+            734,
+            2230
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R025",
+          "class": "staff",
+          "synthetic_name": "이해준",
+          "observed_form": "해준",
+          "token": "여름바람",
+          "erase_box": [
+            668,
+            2392,
+            749,
+            2467
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            685,
+            2395,
+            749,
+            2465
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        }
+      ],
+      "erase_sequence": [
+        "R019",
+        "R020",
+        "R021",
+        "R022",
+        "R023",
+        "R024",
+        "R025"
+      ],
+      "contact_boxes": [],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "53ee99b804328eb929167cf34c61e059f4b857cd15836282622f59f98ac6d8bd",
+          "mask_sha256": "0861ef3403254c2e8ac8b0a5b2a7566709c400ad07b0305b02b57dd459c3ec57",
+          "mask_pixels": 39499
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "b53a525f32ce5c6bbd07521c4742578785787fd4563c51f2e4faa4ef7b60beb5",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "b53a525f32ce5c6bbd07521c4742578785787fd4563c51f2e4faa4ef7b60beb5",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "b9a43612b5cc20b689fd09047d9fd3ceea86d2fdcf68ea3001d1c3dd586c9ce0",
+      "final_pixel_sha256": "d9dcdd4609dc54185c87a0af061cf308ae5bd712a8bc302f8fd3e10da1ae9a48",
+      "final_decoded_pixel_sha256": "113080fdcc95a83e97dfd1c608b0f3ce06a8f735eac6dd80f74f536c54acddbe",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    },
+    {
+      "filename": "p08.webp",
+      "safe_input_sha256": "2ceaa8bb2843bd5f8bf0faa7a4526fb37c0ea4b802b24b36f3fb6922f3f5b898",
+      "final_sha256": "c92f900dba1b1df95894e8cae1b3fda7f7b89041ab7b8e5833cb5f7b6196c1bf",
+      "names": [
+        {
+          "region_id": "R026",
+          "class": "staff",
+          "synthetic_name": "이해준",
+          "observed_form": "해준",
+          "token": "여름바람",
+          "erase_box": [
+            656,
+            593,
+            722,
+            639
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            657,
+            581,
+            721,
+            651
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        }
+      ],
+      "erase_sequence": [
+        "R026"
+      ],
+      "contact_boxes": [],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "75e48dd92ed5e99d72f9796d9d3389435eb76c5d77fc93d1a2a946d7f0548572",
+          "mask_sha256": "1724d173536091d8f30bedc9481caa87a45f4bc3a4debcaab648e927cd6d3dbc",
+          "mask_pixels": 4572
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "8ffcdc1e9be0543fd61f9883e5e5b5af7fc9bcf9c7fdf173024b21818c80bde4",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "8ffcdc1e9be0543fd61f9883e5e5b5af7fc9bcf9c7fdf173024b21818c80bde4",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "33eaab783f2adfc29d77d6a0d05f2bcc8da4f6fcb16fb30d5f027581be1c2cab",
+      "final_pixel_sha256": "1752a027a08131264c828ac885e93064486d347eac36b3c57555d576f3553cbd",
+      "final_decoded_pixel_sha256": "9559e5474ddeabc3475b31bdb3e471d7f19bdb4350966c29ab027cbb7c97a447",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    },
+    {
+      "filename": "p09.webp",
+      "safe_input_sha256": "cabce65daeb72f4d506d756b2cdaff399db82dbadb40f574979701b5b1705f86",
+      "final_sha256": "cb6dd140effdec311149d27be637146587aa051f0328591ff0a8154eb7212afa",
+      "names": [
+        {
+          "region_id": "M004",
+          "class": "staff",
+          "synthetic_name": "김소린",
+          "observed_form": "소린",
+          "token": "새벽노을",
+          "erase_box": [
+            635,
+            2048,
+            714,
+            2100
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            649,
+            2039,
+            713,
+            2109
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R027",
+          "class": "private",
+          "erase_box": [
+            1436,
+            2619,
+            1571,
+            2664
+          ],
+          "token": null,
+          "source": "agent_reading_of_safe_image_with_user_guides"
+        },
+        {
+          "region_id": "R028",
+          "class": "private",
+          "erase_box": [
+            1626,
+            2620,
+            1776,
+            2666
+          ],
+          "token": null,
+          "source": "agent_reading_of_safe_image_with_user_guides"
+        },
+        {
+          "region_id": "R029",
+          "class": "private",
+          "erase_box": [
+            961,
+            2733,
+            1089,
+            2778
+          ],
+          "token": null,
+          "source": "agent_reading_of_safe_image_with_user_guides"
+        },
+        {
+          "region_id": "R030",
+          "class": "private",
+          "erase_box": [
+            1148,
+            2733,
+            1278,
+            2778
+          ],
+          "token": null,
+          "source": "agent_reading_of_safe_image_with_user_guides"
+        }
+      ],
+      "erase_sequence": [
+        "R027",
+        "R028",
+        "R029",
+        "R030",
+        "M004"
+      ],
+      "contact_boxes": [],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "7295fe99ae2af5a6289f3c048445a679d8953ec42737d3ebbff8c476683f7af9",
+          "mask_sha256": "da1ef7fd37ae9c0da26bd4d096f5a4f3da1fcfcef894aa3798c9a9ad0c4feb1d",
+          "mask_pixels": 29845
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "e55ef62ec7d79668f18f6f7faf4a34de5c8867e04b4225e4d3800468ba5d6370",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "e55ef62ec7d79668f18f6f7faf4a34de5c8867e04b4225e4d3800468ba5d6370",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "4d499ccf33ec38e06a7ca25146eae535e5ea399a6eac78828b07a58cbf0258b3",
+      "final_pixel_sha256": "8172ff112be4145c0238b1e705f3ff16293eef353c4d7faaadce3a08ee50b0ef",
+      "final_decoded_pixel_sha256": "f474b9dfc2c0df75106e8a9d0c93323ce5303915c2dd8b490c297dacb5cce1f4",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    },
+    {
+      "filename": "p10.webp",
+      "safe_input_sha256": "044276131870d833a01efd054c311f08c61d12aa70a3a9fa308c9b4ab0de3fb7",
+      "final_sha256": "7e1697e659c1adf43d322d37224a5ed3ca8c79439b1f0df2a9ed99f30d8fc0b7",
+      "names": [
+        {
+          "region_id": "R031",
+          "class": "private",
+          "erase_box": [
+            1579,
+            1257,
+            1723,
+            1305
+          ],
+          "token": null,
+          "source": "agent_reading_of_safe_image_with_user_guides"
+        },
+        {
+          "region_id": "R032",
+          "class": "private",
+          "erase_box": [
+            1000,
+            1598,
+            1131,
+            1644
+          ],
+          "token": null,
+          "source": "agent_reading_of_safe_image_with_user_guides"
+        },
+        {
+          "region_id": "R033",
+          "class": "private",
+          "erase_box": [
+            1165,
+            1597,
+            1300,
+            1643
+          ],
+          "token": null,
+          "source": "agent_reading_of_safe_image_with_user_guides"
+        }
+      ],
+      "erase_sequence": [
+        "R031",
+        "R032",
+        "R033"
+      ],
+      "contact_boxes": [],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "a3fcb0e9d2f7d14001d6cb3504e2bff3862cff269b7851ac0bf92b517b914b9c",
+          "mask_sha256": "93bf060269c33a93795f9649f44a3c583cd0fd1c50117c753bb702399ff308da",
+          "mask_pixels": 19148
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "e07c044d1d7e415e9399584640ab4d46942f0cd1397282a73cca838bdfd4f5eb",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "e07c044d1d7e415e9399584640ab4d46942f0cd1397282a73cca838bdfd4f5eb",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "3a97feae24ee38a3aadbf54e56cbfcd5b4fb699d7f028698e2487a40e59231ca",
+      "final_pixel_sha256": "d9eec6e06b51ece45c2a5538964c8613926970329da9b238b06317efb214481a",
+      "final_decoded_pixel_sha256": "942344199262c383fa1863af1932d0928aa87365d377ffd0bf46c4fc7ed85be9",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    },
+    {
+      "filename": "p11.webp",
+      "safe_input_sha256": "8f170e9aec53752b684cea6fa8e28cf1a5c370548ff6ab5aecc18a47135d9963",
+      "final_sha256": "440aa827d6af6b8c4c10e12e565959555e6f63fb0cdd9a7b7e5a600035bfc121",
+      "names": [
+        {
+          "region_id": "R034",
+          "class": "staff",
+          "synthetic_name": "이해준",
+          "observed_form": "해준",
+          "token": "여름바람",
+          "erase_box": [
+            657,
+            603,
+            732,
+            654
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            667,
+            594,
+            731,
+            664
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        }
+      ],
+      "erase_sequence": [
+        "R034"
+      ],
+      "contact_boxes": [],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "36c3f5f948bdeb728ec9b91d7adfead05806317c1755e325ee34986e22de5c25",
+          "mask_sha256": "afd841ea575270410bc35389da79efbcb1d998eea3012574832dae573604fbbe",
+          "mask_pixels": 5041
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "b53dde98422f8793d150bb15e7a38d73080dfbb1b707f01a72c26de1724f7e34",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "b53dde98422f8793d150bb15e7a38d73080dfbb1b707f01a72c26de1724f7e34",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "2bde075edbaf5a33527cfadc6f6e6f7d0667072e6fb86a4d9a8778fa4bbc9aa0",
+      "final_pixel_sha256": "2f7263399ad72f5c6cfece65d53214e4b8e5dad6c145c34532417624db67b1cf",
+      "final_decoded_pixel_sha256": "88f22462bfa7b58ffd5223d87f7b8e8b2b7760d3281677d50146332e9bfed93d",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    },
+    {
+      "filename": "p12.webp",
+      "safe_input_sha256": "f123e3bafdca9d7bfefce829def787ac39b652b36de0b170fe761d85dbb30041",
+      "final_sha256": "a4fc9d8af34cfbb9fea2f020c249b4bf3523f5333055c83101e2701e0f2278e1",
+      "names": [],
+      "erase_sequence": [],
+      "contact_boxes": [],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "23d7398ef154e714256870658a325438c656a00dc6789781bd9c6548740ee106",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "23d7398ef154e714256870658a325438c656a00dc6789781bd9c6548740ee106",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "23d7398ef154e714256870658a325438c656a00dc6789781bd9c6548740ee106",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "0c1d7eae9c0053354d0fad53995c0bc2123308faeeedd1a637af542170a58d39",
+      "final_pixel_sha256": "0c1d7eae9c0053354d0fad53995c0bc2123308faeeedd1a637af542170a58d39",
+      "final_decoded_pixel_sha256": "45d7ea89c609fc3cd99f40b8d7a3a0b6506b61136a3c65ceb7dfc99e96d57bf7",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    },
+    {
+      "filename": "p13.webp",
+      "safe_input_sha256": "a2da72e4c7ff70a1c797dac8857889e6895a9c0680896b0e5393b44bc8a2f33e",
+      "final_sha256": "a17dcd20f9fd944eba63ee4575fad35aaaf923fa54214eda6facae6f291f8ff6",
+      "names": [
+        {
+          "region_id": "R035",
+          "class": "staff",
+          "synthetic_name": "김소린",
+          "observed_form": "소린",
+          "token": "새벽노을",
+          "erase_box": [
+            642,
+            578,
+            727,
+            633
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            663,
+            570,
+            727,
+            640
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R036",
+          "class": "private",
+          "erase_box": [
+            1220,
+            2393,
+            1362,
+            2437
+          ],
+          "token": null,
+          "source": "agent_reading_of_safe_image_with_user_guides"
+        },
+        {
+          "region_id": "R037",
+          "class": "private",
+          "erase_box": [
+            766,
+            2733,
+            914,
+            2778
+          ],
+          "token": null,
+          "source": "agent_reading_of_safe_image_with_user_guides"
+        }
+      ],
+      "erase_sequence": [
+        "R035",
+        "R036",
+        "R037"
+      ],
+      "contact_boxes": [],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "6ae7c39ac59f8f548ca3c67e1495d765f02d27129c721f5050879f5bbaaef6e2",
+          "mask_sha256": "3b94f27b60cdd28fbe4610d50bb21dc9d0f158ec67d0c8b005196ad197e51b1c",
+          "mask_pixels": 18543
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "b7a15c5b0de336273ac7cb178d7db2984fadae11a8332bd705f2dc61793d2b24",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "b7a15c5b0de336273ac7cb178d7db2984fadae11a8332bd705f2dc61793d2b24",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "66ad8fcd32e45cadc0082bf3c5506915669ca4e56194f3a5ef5a7b9abe7ddaf8",
+      "final_pixel_sha256": "a5bc1af923d7afeadf75d8eeaddfd453a75070a2311a378d845350be4b76a789",
+      "final_decoded_pixel_sha256": "74ebadc34fc4ce94a69cdc8417b699f143fd4c050587fba367690b8048e67121",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    },
+    {
+      "filename": "p14.webp",
+      "safe_input_sha256": "46eef3e82a5abea42f812b7e44a68e729756044449848309a58ffb466eb8257f",
+      "final_sha256": "92610123f77d9d3c90b8cf39266446a6811fce79d4b46e108eb8f7311f5fc4a2",
+      "names": [
+        {
+          "region_id": "R038",
+          "class": "staff",
+          "synthetic_name": "이해준",
+          "observed_form": "해준",
+          "token": "여름바람",
+          "erase_box": [
+            643,
+            679,
+            725,
+            732
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            660,
+            671,
+            724,
+            741
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        }
+      ],
+      "erase_sequence": [
+        "R038"
+      ],
+      "contact_boxes": [],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "b1a4300b98f26c818f66d3664c263a485cb702c230b295b897a3d20e396ae7a1",
+          "mask_sha256": "7f518e92aea2e9282bd9680f37a19377c21650829da83c7ca57c33d1c4270e32",
+          "mask_pixels": 5434
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "f4e591d7ac3e1ab57cc57e2ec040e4874b96ed52b57da7a8c6f1b3f5aeb70db0",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "f4e591d7ac3e1ab57cc57e2ec040e4874b96ed52b57da7a8c6f1b3f5aeb70db0",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "325a3394a1b7ba1f7e2fb2ddb2fffccd188ad9e46d8bdc5b5565d84eca777058",
+      "final_pixel_sha256": "f3d5779f6ee687c9a9998e738e210bed38ddbe7510c2f7a27c3931a45351860e",
+      "final_decoded_pixel_sha256": "a7b68395249c05774a27c4fd1895be2d759eae785c906d51b16212a0bd34ca28",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    },
+    {
+      "filename": "p15.webp",
+      "safe_input_sha256": "c3fc78028134350350ebfa4a803d625703d65d8c6e8b092fc6da734714ec4ab2",
+      "final_sha256": "09aeb3144cb4a9d4704204e1654d9e714b2af6c44d637e3d142e1ddef6b647ff",
+      "names": [],
+      "erase_sequence": [],
+      "contact_boxes": [],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "ec21240d5750126107ee1222c9c2e718bbce0c035ef97c386b61d42276fc99ba",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "ec21240d5750126107ee1222c9c2e718bbce0c035ef97c386b61d42276fc99ba",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "ec21240d5750126107ee1222c9c2e718bbce0c035ef97c386b61d42276fc99ba",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "c0483ab9889157571cf2aa165c86aa6c880934d65d570216eb2e54dc3d12a38b",
+      "final_pixel_sha256": "c0483ab9889157571cf2aa165c86aa6c880934d65d570216eb2e54dc3d12a38b",
+      "final_decoded_pixel_sha256": "f0bc5e48ddf1ce1ca77f8a1e51509c5825b8687c8b382c243269d6d2e8bd1e6a",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    },
+    {
+      "filename": "p16.webp",
+      "safe_input_sha256": "c766634182b09bf9612c8e1c2a26819d18353350f5e2eb2f2d09e934d5659343",
+      "final_sha256": "dd76a5b4eb3586a47d22ee8aed3bc4b7697c5c0539a1d48145d155020219e891",
+      "names": [
+        {
+          "region_id": "R039",
+          "class": "staff",
+          "synthetic_name": "김소린",
+          "observed_form": "소린",
+          "token": "새벽노을",
+          "erase_box": [
+            680,
+            700,
+            770,
+            747
+          ],
+          "token_role": "header",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            694,
+            688,
+            758,
+            758
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "R040",
+          "class": "staff",
+          "synthetic_name": "문지호",
+          "observed_form": "문지호",
+          "token": "초록별빛",
+          "erase_box": [
+            1850,
+            2730,
+            1998,
+            2781
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 14,
+          "font_raster_px": 29,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1897,
+            2726,
+            1951,
+            2785
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "M005",
+          "class": "staff",
+          "synthetic_name": "김소린",
+          "observed_form": "김소린",
+          "token": "새벽노을",
+          "erase_box": [
+            1946,
+            2889,
+            2094,
+            2963
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            1988,
+            2891,
+            2052,
+            2961
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        },
+        {
+          "region_id": "M006",
+          "class": "staff",
+          "synthetic_name": "이해준",
+          "observed_form": "이해준",
+          "token": "여름바람",
+          "erase_box": [
+            1967,
+            2954,
+            2114,
+            3030
+          ],
+          "token_role": "body",
+          "token_layout": "2+2",
+          "font_base_px": 17,
+          "font_raster_px": 35,
+          "scale_from_1684_logical_height": 2.082541567695962,
+          "horizontal_glyph_compression": false,
+          "non_target_ink_overlap_pixels": 0,
+          "token_box": [
+            2010,
+            2957,
+            2074,
+            3027
+          ],
+          "geometry_source": "current_safe_image_ink_inside_carried_guide",
+          "input_cancelled": false
+        }
+      ],
+      "erase_sequence": [
+        "R039",
+        "R040",
+        "M005",
+        "M006"
+      ],
+      "contact_boxes": [],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "e977bb996366aa63e1f0d34df819ac9dd0118bdc646b4f9b83aff1b141955581",
+          "mask_sha256": "a5397e01b4c0530c67f8bb31c193c03f5f82e11097e278036f192b1c024ad688",
+          "mask_pixels": 34663
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "194e33631f0cbb8904c5fe3c0843d977a4abbab02b415287d8692534be368b61",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "194e33631f0cbb8904c5fe3c0843d977a4abbab02b415287d8692534be368b61",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "14255c9a06ece3d1da7d2c16ce2e06b9d97601dc6c1e837ef51bd44a9ae4b9c2",
+      "final_pixel_sha256": "5b03ca9d6f936f28290725382baf4fc564671b469c4ef766f084c83a903fa9e1",
+      "final_decoded_pixel_sha256": "3b1511052b8afce4f87451c02df4ce94d904f49661a3991a547619e31864e827",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    },
+    {
+      "filename": "p17.webp",
+      "safe_input_sha256": "b8bde71bc288494ac0fe09b124cbeb714daf6f1c7955bedb379ceb76f8b57d70",
+      "final_sha256": "24d759a464017799fc06e271c505c3c7205e771e79d59ea9cc57dcb6fe0ee321",
+      "names": [],
+      "erase_sequence": [],
+      "contact_boxes": [],
+      "approval_cells": [],
+      "layers": [
+        {
+          "layer": "names",
+          "image_sha256": "290d10b6cfb4de9cd42ccb0e6aa42907b4a3301dc0a32f1f1985fa2866d87683",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "approval",
+          "image_sha256": "290d10b6cfb4de9cd42ccb0e6aa42907b4a3301dc0a32f1f1985fa2866d87683",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_sha256": "290d10b6cfb4de9cd42ccb0e6aa42907b4a3301dc0a32f1f1985fa2866d87683",
+          "mask_sha256": "e80623ba5705e7d46ae32fd83b1abad0ad88c0355edcfc9e372e009a53d03cfc",
+          "mask_pixels": 0
+        }
+      ],
+      "verification": {
+        "composition_before_delivery_encoding_outside_pixels": 0,
+        "delivery_encoding_lossless": false
+      },
+      "safe_input_pixel_sha256": "3fddb837180710fd2fc3c0f2d29fd06be8104ef4aa4345b61cd7274798093f85",
+      "final_pixel_sha256": "3fddb837180710fd2fc3c0f2d29fd06be8104ef4aa4345b61cd7274798093f85",
+      "final_decoded_pixel_sha256": "915c2e60d8771b588f8608c1721fd3d467f7c663a569265df7e25f2389a43042",
+      "historical_run_v4_verification": {
+        "independent_pillow_numpy_equal": true,
+        "outside_declared_regions_changed_pixels": 0,
+        "lossless_roundtrip": true
+      }
+    }
+  ],
+  "delivery_encoding": {
+    "format": "WebP",
+    "lossless": false,
+    "quality": 90,
+    "method": 6,
+    "exact": true,
+    "pillow": "12.3.0",
+    "libwebp": "1.6.0"
+  },
+  "layer_hashes_encoding": "Historical run-v4 PNG intermediate layer hashes; compact-input replay is separately verified before delivery encoding."
+}

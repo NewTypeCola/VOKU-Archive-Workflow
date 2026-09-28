@@ -1,0 +1,1195 @@
+{
+  "schema_version": 1,
+  "revision": "cancelled-token-fix-1",
+  "status": "verified",
+  "scope": {
+    "episode": "2017",
+    "changed_pages": [
+      "p06.webp",
+      "p08.webp",
+      "p09.webp",
+      "p10.webp",
+      "p11.webp",
+      "p12.webp",
+      "p13.webp"
+    ],
+    "cancelled_tokens": 20,
+    "stroke_count": 35,
+    "stroke_width_before_encoding_px": 1
+  },
+  "maintained": {
+    "safe_input_files_unchanged": 53,
+    "unaffected_final_files_unchanged": 46,
+    "2017_name_records_preserved_except_new_line_coordinates": 161,
+    "token_strings_font_boxes_layouts_erase_order_preserved": true,
+    "reference_files_unchanged": 128,
+    "frozen_evidence_assets": [
+      "2017/token-repair.webp",
+      "2017/input-review.webp",
+      "2017/replacement-names-safe.webp",
+      "2017/credits-safe.webp",
+      "2017/replacement-names-regions.webp",
+      "overview.webp",
+      "2017/final-ocr-excerpt.json",
+      "2017/final-ocr-excerpt.txt"
+    ],
+    "other_episode_images_ocr_operations_manifests_byte_unchanged": [
+      "1994",
+      "2003"
+    ],
+    "existing_decision_records_unchanged": true
+  },
+  "pixel_checks": {
+    "before_delivery_encoding_only_new_strokes_changed": true,
+    "outside_stroke_change_count": 0,
+    "neighbor_token_overlap": 0,
+    "strokes_survive_name_layer_composition": true,
+    "delivery_encoding": "Existing quality-90 WebP encoding retained; re-encoding can alter nearby decoded pixels. Zero outside-stroke changes refers to pre-encoding rasters.",
+    "decoded_stroke_checks": [
+      {
+        "page": "p06.webp",
+        "region_id": "R123",
+        "box_xyxy": [
+          1739,
+          1759,
+          1897,
+          1760
+        ],
+        "mean_luma_after_webp": 22.171,
+        "max_luma_after_webp": 28.0
+      },
+      {
+        "page": "p06.webp",
+        "region_id": "R126",
+        "box_xyxy": [
+          1825,
+          1928,
+          1983,
+          1929
+        ],
+        "mean_luma_after_webp": 21.747,
+        "max_luma_after_webp": 26.0
+      },
+      {
+        "page": "p06.webp",
+        "region_id": "R129",
+        "box_xyxy": [
+          738,
+          2356,
+          787,
+          2357
+        ],
+        "mean_luma_after_webp": 21.469,
+        "max_luma_after_webp": 24.0
+      },
+      {
+        "page": "p06.webp",
+        "region_id": "R129",
+        "box_xyxy": [
+          737,
+          2386,
+          787,
+          2387
+        ],
+        "mean_luma_after_webp": 21.06,
+        "max_luma_after_webp": 27.0
+      },
+      {
+        "page": "p08.webp",
+        "region_id": "R141",
+        "box_xyxy": [
+          888,
+          1333,
+          941,
+          1334
+        ],
+        "mean_luma_after_webp": 23.34,
+        "max_luma_after_webp": 28.0
+      },
+      {
+        "page": "p08.webp",
+        "region_id": "R141",
+        "box_xyxy": [
+          889,
+          1364,
+          941,
+          1365
+        ],
+        "mean_luma_after_webp": 21.308,
+        "max_luma_after_webp": 24.0
+      },
+      {
+        "page": "p08.webp",
+        "region_id": "R144",
+        "box_xyxy": [
+          878,
+          1758,
+          931,
+          1759
+        ],
+        "mean_luma_after_webp": 22.396,
+        "max_luma_after_webp": 27.0
+      },
+      {
+        "page": "p08.webp",
+        "region_id": "R144",
+        "box_xyxy": [
+          879,
+          1789,
+          931,
+          1790
+        ],
+        "mean_luma_after_webp": 21.385,
+        "max_luma_after_webp": 29.0
+      },
+      {
+        "page": "p08.webp",
+        "region_id": "M009",
+        "box_xyxy": [
+          896,
+          2029,
+          945,
+          2030
+        ],
+        "mean_luma_after_webp": 21.959,
+        "max_luma_after_webp": 28.0
+      },
+      {
+        "page": "p08.webp",
+        "region_id": "M009",
+        "box_xyxy": [
+          895,
+          2059,
+          945,
+          2060
+        ],
+        "mean_luma_after_webp": 21.84,
+        "max_luma_after_webp": 28.0
+      },
+      {
+        "page": "p08.webp",
+        "region_id": "R151",
+        "box_xyxy": [
+          1093,
+          2911,
+          1142,
+          2912
+        ],
+        "mean_luma_after_webp": 21.857,
+        "max_luma_after_webp": 27.0
+      },
+      {
+        "page": "p08.webp",
+        "region_id": "R151",
+        "box_xyxy": [
+          1094,
+          2941,
+          1142,
+          2942
+        ],
+        "mean_luma_after_webp": 21.583,
+        "max_luma_after_webp": 28.0
+      },
+      {
+        "page": "p09.webp",
+        "region_id": "R156",
+        "box_xyxy": [
+          886,
+          1283,
+          943,
+          1284
+        ],
+        "mean_luma_after_webp": 21.912,
+        "max_luma_after_webp": 26.0
+      },
+      {
+        "page": "p09.webp",
+        "region_id": "R156",
+        "box_xyxy": [
+          887,
+          1316,
+          943,
+          1317
+        ],
+        "mean_luma_after_webp": 22.714,
+        "max_luma_after_webp": 27.0
+      },
+      {
+        "page": "p09.webp",
+        "region_id": "M011",
+        "box_xyxy": [
+          898,
+          1714,
+          947,
+          1715
+        ],
+        "mean_luma_after_webp": 22.673,
+        "max_luma_after_webp": 27.0
+      },
+      {
+        "page": "p09.webp",
+        "region_id": "M011",
+        "box_xyxy": [
+          897,
+          1744,
+          947,
+          1745
+        ],
+        "mean_luma_after_webp": 22.26,
+        "max_luma_after_webp": 28.0
+      },
+      {
+        "page": "p09.webp",
+        "region_id": "R162",
+        "box_xyxy": [
+          890,
+          2602,
+          943,
+          2603
+        ],
+        "mean_luma_after_webp": 22.075,
+        "max_luma_after_webp": 28.0
+      },
+      {
+        "page": "p09.webp",
+        "region_id": "R162",
+        "box_xyxy": [
+          891,
+          2633,
+          943,
+          2634
+        ],
+        "mean_luma_after_webp": 21.058,
+        "max_luma_after_webp": 29.0
+      },
+      {
+        "page": "p10.webp",
+        "region_id": "R165",
+        "box_xyxy": [
+          912,
+          499,
+          964,
+          500
+        ],
+        "mean_luma_after_webp": 22.231,
+        "max_luma_after_webp": 27.0
+      },
+      {
+        "page": "p10.webp",
+        "region_id": "R165",
+        "box_xyxy": [
+          908,
+          531,
+          964,
+          532
+        ],
+        "mean_luma_after_webp": 22.143,
+        "max_luma_after_webp": 29.0
+      },
+      {
+        "page": "p11.webp",
+        "region_id": "R171",
+        "box_xyxy": [
+          888,
+          620,
+          945,
+          621
+        ],
+        "mean_luma_after_webp": 21.737,
+        "max_luma_after_webp": 26.0
+      },
+      {
+        "page": "p11.webp",
+        "region_id": "R171",
+        "box_xyxy": [
+          889,
+          653,
+          945,
+          654
+        ],
+        "mean_luma_after_webp": 21.661,
+        "max_luma_after_webp": 27.0
+      },
+      {
+        "page": "p11.webp",
+        "region_id": "R174",
+        "box_xyxy": [
+          900,
+          1232,
+          949,
+          1233
+        ],
+        "mean_luma_after_webp": 22.122,
+        "max_luma_after_webp": 27.0
+      },
+      {
+        "page": "p11.webp",
+        "region_id": "R174",
+        "box_xyxy": [
+          899,
+          1262,
+          949,
+          1263
+        ],
+        "mean_luma_after_webp": 22.18,
+        "max_luma_after_webp": 28.0
+      },
+      {
+        "page": "p11.webp",
+        "region_id": "R175",
+        "box_xyxy": [
+          1028,
+          1415,
+          1085,
+          1416
+        ],
+        "mean_luma_after_webp": 21.965,
+        "max_luma_after_webp": 28.0
+      },
+      {
+        "page": "p11.webp",
+        "region_id": "R175",
+        "box_xyxy": [
+          1029,
+          1448,
+          1085,
+          1449
+        ],
+        "mean_luma_after_webp": 21.143,
+        "max_luma_after_webp": 27.0
+      },
+      {
+        "page": "p12.webp",
+        "region_id": "R182",
+        "box_xyxy": [
+          899,
+          786,
+          948,
+          787
+        ],
+        "mean_luma_after_webp": 21.898,
+        "max_luma_after_webp": 28.0
+      },
+      {
+        "page": "p12.webp",
+        "region_id": "R182",
+        "box_xyxy": [
+          898,
+          816,
+          948,
+          817
+        ],
+        "mean_luma_after_webp": 22.38,
+        "max_luma_after_webp": 27.0
+      },
+      {
+        "page": "p12.webp",
+        "region_id": "R193",
+        "box_xyxy": [
+          877,
+          2839,
+          1033,
+          2840
+        ],
+        "mean_luma_after_webp": 21.923,
+        "max_luma_after_webp": 29.0
+      },
+      {
+        "page": "p13.webp",
+        "region_id": "M016",
+        "box_xyxy": [
+          1487,
+          344,
+          1643,
+          345
+        ],
+        "mean_luma_after_webp": 21.955,
+        "max_luma_after_webp": 28.0
+      },
+      {
+        "page": "p13.webp",
+        "region_id": "R196",
+        "box_xyxy": [
+          856,
+          530,
+          1014,
+          531
+        ],
+        "mean_luma_after_webp": 21.949,
+        "max_luma_after_webp": 27.0
+      },
+      {
+        "page": "p13.webp",
+        "region_id": "R199",
+        "box_xyxy": [
+          903,
+          793,
+          962,
+          794
+        ],
+        "mean_luma_after_webp": 22.712,
+        "max_luma_after_webp": 28.0
+      },
+      {
+        "page": "p13.webp",
+        "region_id": "R199",
+        "box_xyxy": [
+          903,
+          827,
+          962,
+          828
+        ],
+        "mean_luma_after_webp": 22.22,
+        "max_luma_after_webp": 29.0
+      },
+      {
+        "page": "p13.webp",
+        "region_id": "M017",
+        "box_xyxy": [
+          872,
+          860,
+          931,
+          861
+        ],
+        "mean_luma_after_webp": 21.627,
+        "max_luma_after_webp": 28.0
+      },
+      {
+        "page": "p13.webp",
+        "region_id": "M017",
+        "box_xyxy": [
+          873,
+          895,
+          931,
+          896
+        ],
+        "mean_luma_after_webp": 22.207,
+        "max_luma_after_webp": 28.0
+      }
+    ],
+    "baseline_render_pixel_hashes_matched": 7
+  },
+  "pages": [
+    {
+      "filename": "p06.webp",
+      "cancelled_tokens": 3,
+      "lines": [
+        {
+          "region_id": "R123",
+          "lines": [
+            [
+              1739,
+              1759,
+              1897,
+              1760
+            ]
+          ]
+        },
+        {
+          "region_id": "R126",
+          "lines": [
+            [
+              1825,
+              1928,
+              1983,
+              1929
+            ]
+          ]
+        },
+        {
+          "region_id": "R129",
+          "lines": [
+            [
+              738,
+              2356,
+              787,
+              2357
+            ],
+            [
+              737,
+              2386,
+              787,
+              2387
+            ]
+          ]
+        }
+      ],
+      "line_count": 4,
+      "changed_pixels_before_encoding": 386,
+      "outside_stroke_pixels_changed_before_encoding": 0,
+      "previous_final_sha256": "f1bf6698d56d260cfef848b7ecadb3f4ec8366c3522a865976f2ccd66be26c45",
+      "final_sha256": "95fce74b3fff1a2adfae8d5987db8e663118bdcd851457888da42b50a0c204ce",
+      "final_pixel_sha256": "deda8de5a08f2984168eba60ed042df5ddc15b74835fb72f5c6559cdb542b08c",
+      "final_decoded_pixel_sha256": "9afadd91aa8dbc8d5edf4e070f3d8e066010b70e64f3ff5da20f00405c19d25d",
+      "current_layers": [
+        {
+          "layer": "names",
+          "image_pixel_sha256": "85ae6aa7cb8194ea2b4ea6f8a74ec0296b0f11942c7a317422ee5a258f322e40",
+          "mask_pixel_sha256": "d360170c0d43dbef2c7b7a11a78f4de978a6442c8562ab2b0cf383d88f4547ad",
+          "mask_pixels": 109858
+        },
+        {
+          "layer": "approval",
+          "image_pixel_sha256": "a76a93575c161488d9ea006eb8f369abc956af06da136c8bb502364d4828be30",
+          "mask_pixel_sha256": "da46386ae81c9659dbce0f9f8e49f28e1c895ebc90928a15fed307fb61672609",
+          "mask_pixels": 101745
+        },
+        {
+          "layer": "contacts",
+          "image_pixel_sha256": "6924d46830109a4b763a6ca67215f8c5210b2fb87fb174d56871666d65ff7e13",
+          "mask_pixel_sha256": "0230b1dce0d2dd273468462d0f1d145307492dbfa76771c39eb7da60dd24dce3",
+          "mask_pixels": 0
+        }
+      ]
+    },
+    {
+      "filename": "p08.webp",
+      "cancelled_tokens": 4,
+      "lines": [
+        {
+          "region_id": "R141",
+          "lines": [
+            [
+              888,
+              1333,
+              941,
+              1334
+            ],
+            [
+              889,
+              1364,
+              941,
+              1365
+            ]
+          ]
+        },
+        {
+          "region_id": "R144",
+          "lines": [
+            [
+              878,
+              1758,
+              931,
+              1759
+            ],
+            [
+              879,
+              1789,
+              931,
+              1790
+            ]
+          ]
+        },
+        {
+          "region_id": "M009",
+          "lines": [
+            [
+              896,
+              2029,
+              945,
+              2030
+            ],
+            [
+              895,
+              2059,
+              945,
+              2060
+            ]
+          ]
+        },
+        {
+          "region_id": "R151",
+          "lines": [
+            [
+              1093,
+              2911,
+              1142,
+              2912
+            ],
+            [
+              1094,
+              2941,
+              1142,
+              2942
+            ]
+          ]
+        }
+      ],
+      "line_count": 8,
+      "changed_pixels_before_encoding": 360,
+      "outside_stroke_pixels_changed_before_encoding": 0,
+      "previous_final_sha256": "8579486a1f6838e8bc045509c055da873fb189ffbe64ab1e0b34c239b9fba3b9",
+      "final_sha256": "90e8c53defd9be802f838a542abef023f70317567948b14c9d05aba959d97e19",
+      "final_pixel_sha256": "918da737427fabefa24fd6f3ca4e442fe61eced256c4c6f53163441e663555c5",
+      "final_decoded_pixel_sha256": "df95610875944336d86fb83dd493c4033a567c4cf524ad598e864dbad03ef473",
+      "current_layers": [
+        {
+          "layer": "names",
+          "image_pixel_sha256": "918da737427fabefa24fd6f3ca4e442fe61eced256c4c6f53163441e663555c5",
+          "mask_pixel_sha256": "d99ba8adb5277ebc2eaa5f408a7110fdb1d48d9a2146b9b9166d80faf712e25c",
+          "mask_pixels": 90296
+        },
+        {
+          "layer": "approval",
+          "image_pixel_sha256": "f49fed3f78f7e922aacbb47a309395e91ba607ae7647d590c5ff4947ab2e6573",
+          "mask_pixel_sha256": "0230b1dce0d2dd273468462d0f1d145307492dbfa76771c39eb7da60dd24dce3",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_pixel_sha256": "f49fed3f78f7e922aacbb47a309395e91ba607ae7647d590c5ff4947ab2e6573",
+          "mask_pixel_sha256": "0230b1dce0d2dd273468462d0f1d145307492dbfa76771c39eb7da60dd24dce3",
+          "mask_pixels": 0
+        }
+      ]
+    },
+    {
+      "filename": "p09.webp",
+      "cancelled_tokens": 3,
+      "lines": [
+        {
+          "region_id": "R156",
+          "lines": [
+            [
+              886,
+              1283,
+              943,
+              1284
+            ],
+            [
+              887,
+              1316,
+              943,
+              1317
+            ]
+          ]
+        },
+        {
+          "region_id": "M011",
+          "lines": [
+            [
+              898,
+              1714,
+              947,
+              1715
+            ],
+            [
+              897,
+              1744,
+              947,
+              1745
+            ]
+          ]
+        },
+        {
+          "region_id": "R162",
+          "lines": [
+            [
+              890,
+              2602,
+              943,
+              2603
+            ],
+            [
+              891,
+              2633,
+              943,
+              2634
+            ]
+          ]
+        }
+      ],
+      "line_count": 6,
+      "changed_pixels_before_encoding": 297,
+      "outside_stroke_pixels_changed_before_encoding": 0,
+      "previous_final_sha256": "0fb09664d69d66bd51adb9b32c2ce9de8b0b1d656980f30c8df04ce4d5fddf1b",
+      "final_sha256": "d2db5c5ad1f23cdefe197f95861f8531d9938c2061641d9a6bd16d443e4b711b",
+      "final_pixel_sha256": "99eff9ccdeb8c400ae23230ee25c03ae43683518eae3cdc83db3d9580c79da5b",
+      "final_decoded_pixel_sha256": "f0aace368f71a1e09b19ce2f5a20510d63ab1e176661f5fd577701842a9940d9",
+      "current_layers": [
+        {
+          "layer": "names",
+          "image_pixel_sha256": "99eff9ccdeb8c400ae23230ee25c03ae43683518eae3cdc83db3d9580c79da5b",
+          "mask_pixel_sha256": "982c00eb4c056a975ec1b2cb44ff00699e52cf69de21d5b79cfa6ed792cb46c2",
+          "mask_pixels": 78448
+        },
+        {
+          "layer": "approval",
+          "image_pixel_sha256": "47e1c9c630f211551604b782dfdb83c12c1efc9a932d66ed3f9654d185c56469",
+          "mask_pixel_sha256": "0230b1dce0d2dd273468462d0f1d145307492dbfa76771c39eb7da60dd24dce3",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_pixel_sha256": "47e1c9c630f211551604b782dfdb83c12c1efc9a932d66ed3f9654d185c56469",
+          "mask_pixel_sha256": "0230b1dce0d2dd273468462d0f1d145307492dbfa76771c39eb7da60dd24dce3",
+          "mask_pixels": 0
+        }
+      ]
+    },
+    {
+      "filename": "p10.webp",
+      "cancelled_tokens": 1,
+      "lines": [
+        {
+          "region_id": "R165",
+          "lines": [
+            [
+              912,
+              499,
+              964,
+              500
+            ],
+            [
+              908,
+              531,
+              964,
+              532
+            ]
+          ]
+        }
+      ],
+      "line_count": 2,
+      "changed_pixels_before_encoding": 100,
+      "outside_stroke_pixels_changed_before_encoding": 0,
+      "previous_final_sha256": "4d220ca379819395200e7a6f47a5fb5140b38d7dc45149218d9550722bb73d8d",
+      "final_sha256": "d3cb0cd68e6da022d8954aa7ed57b6e452694fdce298b9d1e569d69bf18a45c7",
+      "final_pixel_sha256": "33b9c0239a321d4f9ccb40dd5ea97fac9b93cdf274b834f86b68f92c94277286",
+      "final_decoded_pixel_sha256": "e7a9aa304f67e57f1415dad1562a07e587ea5c3b7d938fbe87099380fa223729",
+      "current_layers": [
+        {
+          "layer": "names",
+          "image_pixel_sha256": "33b9c0239a321d4f9ccb40dd5ea97fac9b93cdf274b834f86b68f92c94277286",
+          "mask_pixel_sha256": "9f4526f6b092a5a014170cc326b0d99d96cd2c775d685003a191614c40104462",
+          "mask_pixels": 32902
+        },
+        {
+          "layer": "approval",
+          "image_pixel_sha256": "d018d15b1c740038088c64bcd662c7d6a0ef0ba9e664689d07c9d0cf5c665587",
+          "mask_pixel_sha256": "0230b1dce0d2dd273468462d0f1d145307492dbfa76771c39eb7da60dd24dce3",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_pixel_sha256": "d018d15b1c740038088c64bcd662c7d6a0ef0ba9e664689d07c9d0cf5c665587",
+          "mask_pixel_sha256": "0230b1dce0d2dd273468462d0f1d145307492dbfa76771c39eb7da60dd24dce3",
+          "mask_pixels": 0
+        }
+      ]
+    },
+    {
+      "filename": "p11.webp",
+      "cancelled_tokens": 3,
+      "lines": [
+        {
+          "region_id": "R171",
+          "lines": [
+            [
+              888,
+              620,
+              945,
+              621
+            ],
+            [
+              889,
+              653,
+              945,
+              654
+            ]
+          ]
+        },
+        {
+          "region_id": "R174",
+          "lines": [
+            [
+              900,
+              1232,
+              949,
+              1233
+            ],
+            [
+              899,
+              1262,
+              949,
+              1263
+            ]
+          ]
+        },
+        {
+          "region_id": "R175",
+          "lines": [
+            [
+              1028,
+              1415,
+              1085,
+              1416
+            ],
+            [
+              1029,
+              1448,
+              1085,
+              1449
+            ]
+          ]
+        }
+      ],
+      "line_count": 6,
+      "changed_pixels_before_encoding": 305,
+      "outside_stroke_pixels_changed_before_encoding": 0,
+      "previous_final_sha256": "66a979704d8804449761c4c2528c07fc63ccbf4b21b12a40fb110c14786acb93",
+      "final_sha256": "45b2f49844238b1b98662c54ae75ab49000fec6002006445fa73cf3f443e1439",
+      "final_pixel_sha256": "e1d862dc525d8d8a20c6bce75b79edc449c454a693ef8669fe7d4e862801d26f",
+      "final_decoded_pixel_sha256": "b656de298a9294f3d5ad983526a16015eb909054c8cafa5a0a300871cd22870b",
+      "current_layers": [
+        {
+          "layer": "names",
+          "image_pixel_sha256": "e1d862dc525d8d8a20c6bce75b79edc449c454a693ef8669fe7d4e862801d26f",
+          "mask_pixel_sha256": "b04d5c2b514fd5dd4f22e0907b673a5f2310d7b59d9e4998825373c8a07bee9c",
+          "mask_pixels": 73777
+        },
+        {
+          "layer": "approval",
+          "image_pixel_sha256": "0e3894993b68fd0b6ebb5b517f49bc9dd7c1f2aebbbd4efac8afc800c359e4c0",
+          "mask_pixel_sha256": "0230b1dce0d2dd273468462d0f1d145307492dbfa76771c39eb7da60dd24dce3",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_pixel_sha256": "0e3894993b68fd0b6ebb5b517f49bc9dd7c1f2aebbbd4efac8afc800c359e4c0",
+          "mask_pixel_sha256": "0230b1dce0d2dd273468462d0f1d145307492dbfa76771c39eb7da60dd24dce3",
+          "mask_pixels": 0
+        }
+      ]
+    },
+    {
+      "filename": "p12.webp",
+      "cancelled_tokens": 2,
+      "lines": [
+        {
+          "region_id": "R182",
+          "lines": [
+            [
+              899,
+              786,
+              948,
+              787
+            ],
+            [
+              898,
+              816,
+              948,
+              817
+            ]
+          ]
+        },
+        {
+          "region_id": "R193",
+          "lines": [
+            [
+              877,
+              2839,
+              1033,
+              2840
+            ]
+          ]
+        }
+      ],
+      "line_count": 3,
+      "changed_pixels_before_encoding": 242,
+      "outside_stroke_pixels_changed_before_encoding": 0,
+      "previous_final_sha256": "a99ebae14ff45be0cdfe44df2a15729ed42ec4037cd6cd1ce339a860a6a58a6c",
+      "final_sha256": "a837205f2a254a2394c59ef102fffa755c191a6b943094325d4dd4e602c599b1",
+      "final_pixel_sha256": "0eb321d2b4324e4d4bf2aab399b224ae8bb20317d2943f58afa7b902c6da63f5",
+      "final_decoded_pixel_sha256": "9ed0d52c88d7c90bc8c4207cbb76adb7aab78989b00c0ab889b79199ff625f7c",
+      "current_layers": [
+        {
+          "layer": "names",
+          "image_pixel_sha256": "7049738964babbcf7df86db59a206dbc06b503fe58ee287374976ad22e258bd2",
+          "mask_pixel_sha256": "175ead038822527052ed7355a4d08ad841e9e8043af65c2994d2f1198fc0a4f1",
+          "mask_pixels": 74900
+        },
+        {
+          "layer": "approval",
+          "image_pixel_sha256": "c0cf9190f553b22d2a3b149058614932461e4e116fdee7829361709ea612fc24",
+          "mask_pixel_sha256": "0230b1dce0d2dd273468462d0f1d145307492dbfa76771c39eb7da60dd24dce3",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_pixel_sha256": "327c0f2927ab7bb2c192fa182d0a5104c6b7116a2da2aa9775866bf3eb694165",
+          "mask_pixel_sha256": "30c7dcb1b524c40995d79d95f58230fc2d88f28c52a6781b855c169532467e69",
+          "mask_pixels": 57595
+        }
+      ]
+    },
+    {
+      "filename": "p13.webp",
+      "cancelled_tokens": 4,
+      "lines": [
+        {
+          "region_id": "M016",
+          "lines": [
+            [
+              1487,
+              344,
+              1643,
+              345
+            ]
+          ]
+        },
+        {
+          "region_id": "R196",
+          "lines": [
+            [
+              856,
+              530,
+              1014,
+              531
+            ]
+          ]
+        },
+        {
+          "region_id": "R199",
+          "lines": [
+            [
+              903,
+              793,
+              962,
+              794
+            ],
+            [
+              903,
+              827,
+              962,
+              828
+            ]
+          ]
+        },
+        {
+          "region_id": "M017",
+          "lines": [
+            [
+              872,
+              860,
+              931,
+              861
+            ],
+            [
+              873,
+              895,
+              931,
+              896
+            ]
+          ]
+        }
+      ],
+      "line_count": 6,
+      "changed_pixels_before_encoding": 483,
+      "outside_stroke_pixels_changed_before_encoding": 0,
+      "previous_final_sha256": "bb8b217e2c96aed944a8d6de53164a89b889bb46df3fdbdfc451fd3186f89e74",
+      "final_sha256": "7a7dfc3d8e34b5b147a3ca237ce81c5538db667e308e6ea832e2fdcd93f77f53",
+      "final_pixel_sha256": "b99c5548a31d87ffe8db73f2187eaa56887c738a4cd089803e3f3d37776a219c",
+      "final_decoded_pixel_sha256": "88abb35ef582927439eb91a63d8491ce541955d44b59b3106788af6f79596878",
+      "current_layers": [
+        {
+          "layer": "names",
+          "image_pixel_sha256": "b99c5548a31d87ffe8db73f2187eaa56887c738a4cd089803e3f3d37776a219c",
+          "mask_pixel_sha256": "0ba56f9a6b720d9d50bab1ead4daf0e5dbadc2649da93814df480ba8110118b2",
+          "mask_pixels": 83367
+        },
+        {
+          "layer": "approval",
+          "image_pixel_sha256": "84520c60ab0e061650c2681a3b981edcf0f4931fdca025c61bfce477fddac019",
+          "mask_pixel_sha256": "0230b1dce0d2dd273468462d0f1d145307492dbfa76771c39eb7da60dd24dce3",
+          "mask_pixels": 0
+        },
+        {
+          "layer": "contacts",
+          "image_pixel_sha256": "84520c60ab0e061650c2681a3b981edcf0f4931fdca025c61bfce477fddac019",
+          "mask_pixel_sha256": "0230b1dce0d2dd273468462d0f1d145307492dbfa76771c39eb7da60dd24dce3",
+          "mask_pixels": 0
+        }
+      ]
+    }
+  ],
+  "representative_figures": [
+    {
+      "assets": [
+        "2017/replacement-names-final.webp",
+        "2017/replacement-names.webp"
+      ],
+      "source_image": "2017/complete/final/p06.webp",
+      "source_sha256": "95fce74b3fff1a2adfae8d5987db8e663118bdcd851457888da42b50a0c204ce",
+      "crop_xyxy": [
+        1570,
+        1570,
+        2300,
+        2040
+      ],
+      "comparison_final_panel_xy": [
+        955,
+        165
+      ],
+      "comparison_final_panel_size": [
+        610,
+        393
+      ]
+    },
+    {
+      "assets": [
+        "2017/credits-final.webp",
+        "2017/credits.webp"
+      ],
+      "source_image": "2017/complete/final/p13.webp",
+      "source_sha256": "7a7dfc3d8e34b5b147a3ca237ce81c5538db667e308e6ea832e2fdcd93f77f53",
+      "crop_xyxy": [
+        640,
+        180,
+        2210,
+        980
+      ],
+      "comparison_final_panel_xy": [
+        955,
+        165
+      ],
+      "comparison_final_panel_size": [
+        610,
+        311
+      ]
+    },
+    {
+      "assets": [
+        "2017/composition-frame-0.webp",
+        "2017/composition-frame-1.webp",
+        "2017/composition-frame-2.webp",
+        "2017/composition-frame-3.webp",
+        "2017/composition.gif"
+      ],
+      "input_image": "2017/complete/demo-source-safe/p06.webp",
+      "input_sha256": "2d02a79a47bbb78e594c371f5ab37a4de6bda64e38cce5dd837a3fbdc07e5a95",
+      "scene_crop_xyxy": [
+        1570,
+        1600,
+        2300,
+        2038
+      ],
+      "scene_panel_xy": [
+        35,
+        582
+      ],
+      "scene_panel_size": [
+        610,
+        366
+      ],
+      "stages": [
+        "safe",
+        "names",
+        "names+approval",
+        "names+approval+contacts"
+      ],
+      "unchanged_panels": "PDF-6 approval/crew and PDF-7 contacts retain existing actual-stage pixels"
+    }
+  ],
+  "visual_review": {
+    "agent_checked": "All 20 cancelled token crops before/after, the updated replacement-name and credits comparisons, and the final composition frame.",
+    "human_final_approval": false
+  },
+  "ocr": {
+    "engine": {
+      "boundingBoxCoordinateSystem": "normalized_top_left_xywh",
+      "macOS": "Version 27.0 (Build 26A428)",
+      "name": "Apple Vision VNRecognizeTextRequest",
+      "recognitionLanguages": [
+        "ko-KR",
+        "en-US"
+      ],
+      "recognitionLevel": "accurate",
+      "revision": 3,
+      "usesLanguageCorrection": true
+    },
+    "raw_update_result": "2017/complete/ocr/updates/cancelled-token-fix-1.json",
+    "raw_update_sha256": "ca9c970c600615a2ac65d13127bc0b400c21753fcd93ecf74d71483951116330",
+    "updated_pages": 7,
+    "retained_page_objects": 99,
+    "current_image_hashes_matched": 106,
+    "text_or_coordinates_manually_rewritten": false
+  },
+  "replay": {
+    "exact_final_webp_hash_matches": 53,
+    "per_episode": {
+      "1994": 19,
+      "2003": 17,
+      "2017": 17
+    },
+    "pillow": "12.3.0",
+    "libwebp": "1.6.0"
+  },
+  "limits": [
+    "The historical token-order comparison is retained as recorded evidence; missing historical logs were not reconstructed.",
+    "Existing safe preparation and identity decisions were reused; original PDFs and private identity mappings were not reread.",
+    "No full historical archive rerun and no human final-approval claim.",
+    "OCR source provenance and preservation were checked; full transcription accuracy and human final approval were not certified."
+  ],
+  "removed_temporary_artifacts": [
+    "assets/demo/__pycache__/replay.cpython-312.pyc",
+    ".DS_Store",
+    "assets/.DS_Store",
+    "assets/demo/.DS_Store",
+    "assets/demo/1994/.DS_Store",
+    "assets/demo/2017/.DS_Store",
+    "assets/demo/2003/.DS_Store",
+    "assets/demo/1994/complete/.DS_Store",
+    "assets/demo/2017/complete/.DS_Store",
+    "assets/demo/2017/complete/physical-two-up/.DS_Store",
+    "assets/demo/2003/complete/.DS_Store"
+  ],
+  "consistency": {
+    "markdown_links_checked": 257,
+    "json_and_python_syntax_valid": true,
+    "episode_manifests_match_files": true,
+    "conversion_records_match_all_158_images": true,
+    "all_ocr_sources_match_current_images": true,
+    "gif_distinct_frames": 4,
+    "public_absolute_path_leaks": 0,
+    "public_cache_entries": 0,
+    "narrative_basis_reviewed": "Existing public decisions and execution summary, frozen token-repair comparison, current operations and replay, selected read-only history and folder notes; no invented dialogue or reconstructed missing log.",
+    "temporary_work_files_removed": true
+  },
+  "changed_delivery_files": [
+    "README.md",
+    "assets/demo/2017/complete/final/p06.webp",
+    "assets/demo/2017/complete/final/p08.webp",
+    "assets/demo/2017/complete/final/p09.webp",
+    "assets/demo/2017/complete/final/p10.webp",
+    "assets/demo/2017/complete/final/p11.webp",
+    "assets/demo/2017/complete/final/p12.webp",
+    "assets/demo/2017/complete/final/p13.webp",
+    "assets/demo/2017/complete/manifest.json",
+    "assets/demo/2017/complete/ocr/final.json",
+    "assets/demo/2017/complete/operations.json",
+    "assets/demo/2017/complete/page-map.json",
+    "assets/demo/2017/composition-frame-0.webp",
+    "assets/demo/2017/composition-frame-1.webp",
+    "assets/demo/2017/composition-frame-2.webp",
+    "assets/demo/2017/composition-frame-3.webp",
+    "assets/demo/2017/composition.gif",
+    "assets/demo/2017/credits-final.webp",
+    "assets/demo/2017/credits.webp",
+    "assets/demo/2017/final-ocr.json",
+    "assets/demo/2017/replacement-names-final.webp",
+    "assets/demo/2017/replacement-names.webp",
+    "assets/demo/README.md",
+    "assets/demo/decisions.json",
+    "assets/demo/execution-summary.json",
+    "assets/demo/format-conversion.json",
+    "assets/demo/replay.py",
+    "demo.md",
+    "human-agent-workflow.md",
+    "pipeline.md",
+    "assets/demo/asset-manifest.json"
+  ],
+  "added_delivery_files": [
+    "assets/demo/2017/complete/ocr/updates/cancelled-token-fix-1.json",
+    "assets/demo/revision-verification.json"
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "status": "complete_local_demo",
+  "physical_pdf_pages": 49,
+  "logical_images": 53,
+  "episodes": [
+    {
+      "year": "1994",
+      "physical_pdf_pages": 19,
+      "logical_images": 19,
+      "staff_name_occurrences": 11,
+      "private_name_occurrences": 0,
+      "contact_regions": 0,
+      "approval_cells": 6,
+      "folder": "1994/complete",
+      "index": "1994/complete/README.md",
+      "manifest": "1994/complete/manifest.json",
+      "manifest_sha256": "e49aed496014a11dfc60a7b7a07996c45a69523a48f2ae64113c5dd3a0fe1a58",
+      "folder_bytes": 11382826
+    },
+    {
+      "year": "2003",
+      "physical_pdf_pages": 17,
+      "logical_images": 17,
+      "staff_name_occurrences": 24,
+      "private_name_occurrences": 11,
+      "contact_regions": 0,
+      "approval_cells": 6,
+      "folder": "2003/complete",
+      "index": "2003/complete/README.md",
+      "manifest": "2003/complete/manifest.json",
+      "manifest_sha256": "433dc1827351be2171938cc23769b4594ca5b56c60ff30c9d91d581022c1f287",
+      "folder_bytes": 9330465
+    },
+    {
+      "year": "2017",
+      "physical_pdf_pages": 13,
+      "logical_images": 17,
+      "staff_name_occurrences": 161,
+      "private_name_occurrences": 0,
+      "contact_regions": 6,
+      "approval_cells": 9,
+      "folder": "2017/complete",
+      "index": "2017/complete/README.md",
+      "manifest": "2017/complete/manifest.json",
+      "manifest_sha256": "666660dc69a3be75d1898233c0ef70d58b6b5cf6035dd098e6045534c1eeefa1",
+      "folder_bytes": 9015332
+    }
+  ],
+  "stages": {
+    "safe_version": "safe-v4-webp-q90",
+    "final_version": "run-v4-webp-q90; 2017 cancelled-token-fix-1",
+    "image_generation": "Only synthetic handwriting, fictional stamp/signature and strike-through ink patches in input preparation. No generated pages or final protection images.",
+    "protection_inputs": "demo-source-safe images plus carried identity/location guides; not a blind detection benchmark.",
+    "composition_order": [
+      "names",
+      "approval",
+      "contacts"
+    ],
+    "final_ocr": "Actual Apple Vision accurate ko-KR/en-US revision 3. Seven changed 2017 final pages refreshed after cancellation repair; unchanged raw page objects retained by matching source hashes."
+  },
+  "review": {
+    "user": "handwriting style feedback, ambiguous handwriting reading, department/entry-year preservation, token size reference, cancellation/number proportion feedback",
+    "agent": "all prepared regions as enlarged crops; selected page context, token collision checks, layer/pixel/hash verification",
+    "human_final_approval": false,
+    "known_unresolved_items": [],
+    "final_synthetic_input_adjustments": [
+      "style-matched v2 handwriting patches from enlarged source crops",
+      "new stroke-only cancellation patches, avoiding original glyph-bearing bands",
+      "natural number proportions and line placement",
+      "remove artificial print glyph thickening",
+      "separate adjacent 2003 crew regions"
+    ],
+    "latest_revision": {
+      "source": "current user review; agent code/geometry/visual verification",
+      "record": "revision-verification.json",
+      "human_final_approval": false
+    }
+  },
+  "code_reuse": {
+    "historical_contact_painter": "exact paint_union.py",
+    "historical_composition": "exact put_rect function extracted; independent Pillow vs NumPy composition comparison",
+    "historical_ocr": "exact Swift OCR source copied privately and executed",
+    "demo_adaptations": [
+      "source-safe input preparation",
+      "verified guide transfer and current safe ink checks",
+      "Pillow Gaussian blur in confirmed cells 3,5,7, with 5 px guard",
+      "token typography from the requested rules, at logical-height scale",
+      "two-phase name erasure then token rendering",
+      "safe-only replay adapter"
+    ]
+  },
+  "typography": {
+    "source_rule": "TOKEN_SIZE_RULES_20260925.md",
+    "original_rule_scope": "2000–2019 portrait; 2008–2019 landscape",
+    "demo_extension": "1994 uses the same portrait role categories as an explicit demo adaptation",
+    "coordinate_basis": "upright logical panel",
+    "reference_logical_height_px": 1684,
+    "basis": "read-only source report plus sampled final reference raster dimensions (height 1684)",
+    "crew_base_px": {
+      "1994": 20,
+      "2003": 16,
+      "2017": 16
+    },
+    "narrow_crew_reason": "adjacent ANN names and shallow cells; one base size per episode",
+    "header_base_px": 17,
+    "body_default_base_px": 22,
+    "narrow_body_base_range_px": [
+      14,
+      17
+    ],
+    "glyph_horizontal_compression": false,
+    "policy_user_requested": true
+  },
+  "verification": {
+    "source_pdfs_unchanged": true,
+    "reference_files_unchanged_before_readme_link": true,
+    "source_preparation_outside_authorized_pixels": 0,
+    "composition_outside_declared_pixels": 0,
+    "ocr_input_sha256_all_match": true,
+    "safe_ocr_lines": 1518,
+    "final_ocr_lines": 1530,
+    "token_non_target_ink_overlap_pixels": 0,
+    "original_identifier_ocr_candidates_resolved": "Historical run-v4 privacy review retained. Current revision uses only existing public synthetic inputs; it does not claim a new original-PII audit.",
+    "public_text_privacy_scan_passed": true,
+    "markdown_links_verified": true,
+    "academic_example_pixels_preserved_safe_and_final": "Lossless representative figure; full delivery images use lossy encoding.",
+    "logical_split_inverse_lossless": "Reassembly before delivery encoding; delivered two-up sheets are encoded at quality 90.",
+    "original_reference_files_verified": 136,
+    "publicly_published": false,
+    "public_replay_exact_webp_hash_matches": 53,
+    "webp_images_verified": 158,
+    "lossless_webp_figures_verified": 44,
+    "compact_webp_images_verified": 114,
+    "public_folder_entries_verified": 130,
+    "fresh_webp_ocr_pages": 106,
+    "ocr_texts_unchanged_from_png_run": false,
+    "composition_pixel_verification_basis": "Before quality-90 delivery encoding; encoding affects full-image pixels.",
+    "source_preparation_pixel_verification_basis": "Historical safe-v4 preparation before delivery encoding.",
+    "historical_run_v4_independent_composition_equal_all_pages": true,
+    "latest_cancellation_revision": {
+      "pages": 7,
+      "cancelled_tokens": 20,
+      "new_straight_lines": 35,
+      "safe_inputs_unchanged": 53,
+      "unchanged_final_images": 46,
+      "raw_ocr_pages_refreshed": 7,
+      "all_53_final_images_replayed": true,
+      "report": "revision-verification.json"
+    },
+    "historical_checks_not_rerun_in_this_revision": [
+      "source_pdfs_unchanged",
+      "source_preparation_outside_authorized_pixels",
+      "original_reference_files_verified",
+      "public_text_privacy_scan_passed",
+      "historical_run_v4_independent_composition_equal_all_pages"
+    ]
+  },
+  "delivery": {
+    "layout": "ordinary episode folders",
+    "image_format": "WebP: quality 90 for complete episodes; lossless for figures",
+    "image_count": 158,
+    "image_bytes": 30891474,
+    "previous_png_bytes": 185672932,
+    "image_reduction_percent": 83.4,
+    "resolution_changed": false,
+    "complete_quality": 90,
+    "complete_image_count": 114,
+    "lossless_figure_count": 44,
+    "complete_previous_lossless_bytes": 81997984,
+    "complete_compact_bytes": 28290050,
+    "complete_additional_reduction_percent": 65.5,
+    "conversion_record": "format-conversion.json"
+  }
+}

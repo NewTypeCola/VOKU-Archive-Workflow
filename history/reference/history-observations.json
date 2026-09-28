@@ -1,0 +1,89 @@
+{
+  "as_of": "2026-09-26",
+  "method": "Read-only SQLite, saved checkpoint comparison, receipt aggregates, physical output checks",
+  "observations": {
+    "read_next": {
+      "submitted_documents": 7,
+      "new_pages": 82,
+      "page_states": {
+        "verified": 11,
+        "no_changes": 64,
+        "partial": 7
+      },
+      "new_output_files": 18,
+      "session_commits": 1,
+      "db_program_status": "running"
+    },
+    "read_v2": {
+      "pages_by_text_state": {
+        "inherited": 4009,
+        "pending": 61916,
+        "read": 85
+      },
+      "packets": {
+        "open": 1,
+        "submitted": 3
+      },
+      "new_output_images": 0
+    },
+    "ocr_readonly": {
+      "documents": 40,
+      "total_documents": 5095,
+      "pages": 485,
+      "total_pages": 63311,
+      "rendered_pages": 153,
+      "flagged_pages": 156,
+      "physical_webp": 210,
+      "receipt_documents": 59,
+      "receipt_pages": 644,
+      "receipt_output_bindings": 210,
+      "output_hash_errors": 0,
+      "line_bbox_applications": 538
+    },
+    "name_repair": {
+      "visible_output_files": 279,
+      "current_production_files": 0,
+      "status_report_programs": 51,
+      "status_report_total_programs": 457,
+      "status_report_ocr_compared": 52,
+      "status_report": "saved STATUS.md; runtime state no longer present"
+    },
+    "tmptest_promotion": {
+      "status": "verified",
+      "test_execution_rounds": 7,
+      "operating_data_merged": false,
+      "parent_validation_passed": true,
+      "input_files_verified": 5333,
+      "operating_document_states": {
+        "pending": 5330
+      },
+      "operating_page_states": {
+        "pending": 66010
+      }
+    },
+    "tri_force_gumsu": {
+      "scope_pages": 12194,
+      "machine_screened_ocr_lines": 637316,
+      "machine_screened_ocr_alternatives": 1677721,
+      "visually_reviewed_candidates": 1684,
+      "candidate_review_pages": 1337,
+      "confirmed_candidates": 1420,
+      "confirmed_pages": 1137,
+      "pending_candidates": 20,
+      "pending_pages": 20,
+      "pending_only_pages": 18,
+      "confirmed_and_pending_overlap_pages": 2,
+      "confirmed_no_name_layer_pages": 104,
+      "confirmed_with_name_layer_pages": 1033,
+      "scope_no_name_layer_pages": 554,
+      "confirmed_private_context_candidates": 2,
+      "staff_context_confirmed_pages": 1136,
+      "all_confirmed_lines_absent_from_effective_targets": true,
+      "final_merge_loss_evidence_found": false,
+      "exhaustive_name_recall_claimed": false,
+      "human_approved": false,
+      "source_updated": false,
+      "repair_performed": false
+    }
+  }
+}

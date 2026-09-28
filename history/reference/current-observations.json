@@ -1,0 +1,43 @@
+{
+  "as_of": "2026-09-26",
+  "method": "Read-only current aggregates, not archive reprocessing",
+  "main_queue": {
+    "pages": {
+      "hold": 105,
+      "no_changes": 40714,
+      "partial": 4182,
+      "verified": 21009
+    },
+    "documents": {
+      "complete": 3264,
+      "hold": 2066
+    },
+    "submitted": {
+      "1": 5330
+    },
+    "sessions": {
+      "paused": 2
+    }
+  },
+  "output_review": {
+    "states": {
+      "issue": 321,
+      "needs_review": 3646,
+      "ok": 17042
+    }
+  },
+  "final_image_files": 66010,
+  "final_ocr": {
+    "groups": 5330,
+    "pages": 66010,
+    "lines": 1992165,
+    "empty_pages": 7
+  },
+  "late_hold_artifact_history_rows": 58,
+  "late_hold_distinct_artifact_pages": 18,
+  "limits": [
+    "Image count and OCR object counts were recomputed; full final image hash matching was not repeated.",
+    "No semantic accuracy or human approval is implied.",
+    "Late-hold distinct pages are not the entire 2230-page target."
+  ]
+}

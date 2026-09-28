@@ -1,0 +1,55 @@
+{
+  "source_image": "2017/complete/final/p07.webp",
+  "source_sha256": "e6b42d4a4e972d43c6d85d89a896701539648ebd57a6ca6f98d6b87ea2695749",
+  "crop_xyxy": [
+    845,
+    936,
+    2240,
+    1260
+  ],
+  "engine": {
+    "boundingBoxCoordinateSystem": "normalized_top_left_xywh",
+    "macOS": "Version 27.0 (Build 26A428)",
+    "name": "Apple Vision VNRecognizeTextRequest",
+    "recognitionLanguages": [
+      "ko-KR",
+      "en-US"
+    ],
+    "recognitionLevel": "accurate",
+    "revision": 3,
+    "usesLanguageCorrection": true
+  },
+  "raw_lines": [
+    {
+      "boundingBox": {
+        "height": 0.018895348230272835,
+        "width": 0.0541666691599329,
+        "x": 0.35624999862605206,
+        "y": 0.27906976769284164
+      },
+      "confidence": 1,
+      "text": "둘째,"
+    },
+    {
+      "boundingBox": {
+        "height": 0.019001039702916778,
+        "width": 0.21094021766014348,
+        "x": 0.6205833262662945,
+        "y": 0.27761671012085654
+      },
+      "confidence": 1,
+      "text": "문자를 보내주세요."
+    },
+    {
+      "boundingBox": {
+        "height": 0.01909920182440139,
+        "width": 0.2666666616801343,
+        "x": 0.3541666690566131,
+        "y": 0.3269669328186746
+      },
+      "confidence": 1,
+      "text": "어때요? 정말 간단하죠?"
+    }
+  ],
+  "human_corrected": false
+}

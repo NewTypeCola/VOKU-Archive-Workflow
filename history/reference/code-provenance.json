@@ -1,0 +1,262 @@
+[
+  {
+    "artifact": "identity/global_identity_v3.py",
+    "source": "staff-identity/p0-4.5v2/pipeline/src/global_identity_v3.py",
+    "source_sha256": "3cf52d72fad0ea4f1e37b938586b4d63828413100f22723cec49a53998c00884",
+    "source_lines": [
+      [
+        1,
+        479
+      ]
+    ],
+    "form": "complete file",
+    "added_imports": null,
+    "edits": [],
+    "export_sha256": "3cf52d72fad0ea4f1e37b938586b4d63828413100f22723cec49a53998c00884",
+    "status": "executed reconstruction; image masking not authorized",
+    "application_basis": "attempt_008 aggregate_summary and independent verification",
+    "dependencies": "Original v2_io, v2_member_rules, v2_assembly_rules; not bundled"
+  },
+  {
+    "artifact": "names/spatial.py",
+    "source": "voku-read-only-masking/src/spatial.py",
+    "source_sha256": "6a5948de1741665df45182288337838088c34694b480e7c4af49c70436024034",
+    "source_lines": [
+      [
+        1,
+        54
+      ]
+    ],
+    "form": "complete file",
+    "added_imports": null,
+    "edits": [],
+    "export_sha256": "6a5948de1741665df45182288337838088c34694b480e7c4af49c70436024034",
+    "status": "production",
+    "application_basis": "Main masking package current source and submitted/geometry/export records",
+    "dependencies": "NumPy"
+  },
+  {
+    "artifact": "names/measured_characters.py",
+    "source": "voku-read-only-masking/src/geometry.py",
+    "source_sha256": "39c550d6f49b607b58f5a6c3f26ff52c33ab267834c8a2e85d2f5481667212b3",
+    "source_lines": [
+      [
+        19,
+        21
+      ],
+      [
+        179,
+        201
+      ]
+    ],
+    "form": "function excerpt",
+    "added_imports": "import json\nimport numpy as np",
+    "edits": [],
+    "export_sha256": "6e4f382c3f533bb24394de4a81d8533c1e52491a81be1773584e24584d44149d",
+    "status": "production",
+    "application_basis": "Main geometry-stage receipts; conservative segmentation can hold a page",
+    "dependencies": "NumPy"
+  },
+  {
+    "artifact": "names/program_submission.py",
+    "source": "voku-read-only-masking/src/text_stage.py",
+    "source_sha256": "160e7839aec39f4516f7f8645fb08612a93adcf3de47147649bc5bd0b6c80df8",
+    "source_lines": [
+      [
+        251,
+        267
+      ],
+      [
+        274,
+        337
+      ]
+    ],
+    "form": "function excerpt",
+    "added_imports": null,
+    "edits": [],
+    "export_sha256": "27c97f174d417dfbc8c9161a43d1637724751c03716f1eebe744aad59ed2ca87",
+    "status": "production",
+    "application_basis": "Whole-program patch and real 47-document submission",
+    "dependencies": "Original core, orchestration, validate_doc, bindings and SQLite context; excerpt only"
+  },
+  {
+    "artifact": "names/session_ownership.py",
+    "source": "voku-read-only-masking/src/orchestration.py",
+    "source_sha256": "1dd0925791d6c67ed7ecb6f8b0ce8bb0e0c655c2322d0f48f6b978723e7578a1",
+    "source_lines": [
+      [
+        1,
+        310
+      ]
+    ],
+    "form": "complete file",
+    "added_imports": null,
+    "edits": [],
+    "export_sha256": "1dd0925791d6c67ed7ecb6f8b0ce8bb0e0c655c2322d0f48f6b978723e7578a1",
+    "status": "production",
+    "application_basis": "Dual-session patch, current reading_sessions DB and actual main/reverse records",
+    "dependencies": "Original core/workflow/engine modules; not bundled"
+  },
+  {
+    "artifact": "names/short_alias.py",
+    "source": "VOKU_Execution_Plan/repair.py",
+    "source_sha256": "64e5cdae8e466ef433ca2f333bd24b79e04b4e7858b52e1b02d96dde4d25fc46",
+    "source_lines": [
+      [
+        209,
+        218
+      ],
+      [
+        259,
+        261
+      ],
+      [
+        264,
+        332
+      ]
+    ],
+    "form": "function excerpt",
+    "added_imports": "import re, math\nimport numpy as np",
+    "edits": [
+      "Generalized one example syllable in a comment; executable statements unchanged"
+    ],
+    "export_sha256": "1471f97d7427c61a1135acfcef743f6a673350c3c193ff5d0dc787881421eaa8",
+    "status": "production",
+    "application_basis": "Bounded 28-page pilot; 10 occurrences on 9 pages",
+    "dependencies": "NumPy; Pillow image input"
+  },
+  {
+    "artifact": "repair/render_contract.py",
+    "source": "boriu-hold-2000-2019/src/render_contract.py",
+    "source_sha256": "afbaa0478d46650b6740eb1ecf3578646aaa3655a7339f790750718687451424",
+    "source_lines": [
+      [
+        1,
+        86
+      ]
+    ],
+    "form": "complete file",
+    "added_imports": null,
+    "edits": [],
+    "export_sha256": "afbaa0478d46650b6740eb1ecf3578646aaa3655a7339f790750718687451424",
+    "status": "implemented and partly applied; not full 2230-page completion",
+    "application_basis": "Current artifact history: 58 rows / 18 distinct pages; separate from later new-boryu completion",
+    "dependencies": "Original storage and engine files named in render_engine(); not bundled"
+  },
+  {
+    "artifact": "review/geometry.js",
+    "source": "human-review/static/geometry.js",
+    "source_sha256": "ae1797445d8e82f03f8ac01cc32d357c9553c2ba2ce20feaa797476046f39aaa",
+    "source_lines": [
+      [
+        1,
+        23
+      ]
+    ],
+    "form": "complete file",
+    "added_imports": null,
+    "edits": [],
+    "export_sha256": "ae1797445d8e82f03f8ac01cc32d357c9553c2ba2ce20feaa797476046f39aaa",
+    "status": "production",
+    "application_basis": "Review app with 21009 current image records",
+    "dependencies": "Browser or Node.js; standalone pure module"
+  },
+  {
+    "artifact": "approval/masking.py",
+    "source": "seal-sign-masking/src/masking.py",
+    "source_sha256": "f879df6f0d3a2d311b2a82190d602530a4ba3eb23f97c4024ad8a441813faf17",
+    "source_lines": [
+      [
+        1,
+        30
+      ]
+    ],
+    "form": "complete file",
+    "added_imports": null,
+    "edits": [],
+    "export_sha256": "f879df6f0d3a2d311b2a82190d602530a4ba3eb23f97c4024ad8a441813faf17",
+    "status": "production",
+    "application_basis": "Fixed-cell production masking; caller config later supplies cells 3,5,7",
+    "dependencies": "OpenCV and NumPy; confirmed grid input required"
+  },
+  {
+    "artifact": "contacts/paint_union.py",
+    "source": "game/phone_mail_masking_webp/tools/refit_contacts_20260922.py",
+    "source_sha256": "0c1ec3bf3ab9aeea9380de6155dd800127495a4e39a0106f94ae9f190b7dad2e",
+    "source_lines": [
+      [
+        15,
+        15
+      ],
+      [
+        200,
+        203
+      ],
+      [
+        205,
+        214
+      ]
+    ],
+    "form": "function excerpt",
+    "added_imports": "from PIL import Image, ImageDraw",
+    "edits": [],
+    "export_sha256": "9f81aae073210e9cb10199b74b30baebc3329fca3994261bf6f36549771c1e91",
+    "status": "production",
+    "application_basis": "3518-page refit and later approved 76-page gap cohort",
+    "dependencies": "Pillow, NumPy; approved exclusive rectangles required"
+  },
+  {
+    "artifact": "contacts/recover_components.py",
+    "source": "game/phone_mail_masking_webp/tools/refit_recover_components_20260922.py",
+    "source_sha256": "4e9ab6ecfd167964c97fdeba9da0851af3b6836c36547e0694995f270129f6c8",
+    "source_lines": [
+      [
+        4,
+        25
+      ]
+    ],
+    "form": "function excerpt",
+    "added_imports": "import numpy as np\nfrom paint_union import union\n\ndef area(r):return max(0,r[2]-r[0])*max(0,r[3]-r[1])",
+    "edits": [],
+    "export_sha256": "799600414334ab23600170ed763d98e0ad592492e685d93765d88a4c618d11da",
+    "status": "production",
+    "application_basis": "Refit reconciled discovery rows against actual changed-pixel components",
+    "dependencies": "NumPy and paint_union; area helper copied from refit source"
+  },
+  {
+    "artifact": "composition/compose.py",
+    "source": "final-tri-force/src/compose.py",
+    "source_sha256": "e61d9cf5ddc0e3cba9fb4745e32fa95d30a39f40a1ba50e0d6527393530f4cc4",
+    "source_lines": [
+      [
+        1,
+        272
+      ]
+    ],
+    "form": "complete file",
+    "added_imports": null,
+    "edits": [],
+    "export_sha256": "e61d9cf5ddc0e3cba9fb4745e32fa95d30a39f40a1ba50e0d6527393530f4cc4",
+    "status": "production",
+    "application_basis": "Initial 66010-page composition and later integration receipts",
+    "dependencies": "Pillow, NumPy, original plan and workspace layout; do not run against a final archive"
+  },
+  {
+    "artifact": "ocr/vision_ocr_multiprocess.swift",
+    "source": "final-tri-force/ocr/_tools/vision_ocr_multiprocess.swift",
+    "source_sha256": "ef60c36988fc1055eb28bb3e1815b98ec1a2be1c6a457eed2e425f95cbfb5c71",
+    "source_lines": [
+      [
+        1,
+        242
+      ]
+    ],
+    "form": "complete file",
+    "added_imports": null,
+    "edits": [],
+    "export_sha256": "ef60c36988fc1055eb28bb3e1815b98ec1a2be1c6a457eed2e425f95cbfb5c71",
+    "status": "production",
+    "application_basis": "Final-image fresh OCR: full runs and selected refreshes; source/image hash binding",
+    "dependencies": "macOS Apple Vision, AppKit, ImageIO, CryptoKit, prepared plan; no archived input included"
+  }
+]

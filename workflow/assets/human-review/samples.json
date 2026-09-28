@@ -1,0 +1,1730 @@
+{
+  "schema_version": 1,
+  "dataset_id": "voku-public-review-v1",
+  "sample": true,
+  "description": "Safe inputs and final outputs selected from the existing public execution demo. No records from the private review database are included.",
+  "pages": [
+    {
+      "page_id": "demo-1994-p01",
+      "filename": "1994 · Page 1 · Fixed tokens in production credits and approval-cell processing",
+      "year": "1994",
+      "document": "1994 public demo",
+      "width": 2448,
+      "height": 3507,
+      "sha256": "a51886048f9ed17fb2413de884aba255116541ae3696eb5b84f56732184d5283",
+      "safe_sha256": "3c3b0a6caa1d65264c6461e74a74a9f3c723c935f4425fa365c3df73400dfd90",
+      "fingerprint": "0a89dcbd079be08f216531a67b241bda9c0b86981781149b51f61d9f0145c992",
+      "images": {
+        "before": "../demo/1994/complete/demo-source-safe/p01.webp",
+        "after": "../demo/1994/complete/final/p01.webp"
+      },
+      "metadata": {
+        "version": "public-demo-2026-09-26",
+        "sample": true,
+        "physical_pdf_page": 1,
+        "logical_panel": "full"
+      },
+      "context": "Fixed tokens in production credits and approval-cell processing",
+      "evidence": {
+        "operations": "../demo/1994/complete/operations.json",
+        "page_map": "../demo/1994/complete/page-map.json",
+        "decisions": "../demo/decisions.json",
+        "demo": "../../demo.md#decisions-to-repair"
+      },
+      "operations": {
+        "filename": "p01.webp",
+        "names": [
+          {
+            "region_id": "R001",
+            "class": "staff",
+            "synthetic_name": "김하린",
+            "observed_form": "김하린",
+            "token": "구름바다",
+            "erase_box": [
+              491,
+              963,
+              729,
+              1037
+            ],
+            "token_role": "crew",
+            "token_layout": "4",
+            "font_base_px": 20,
+            "font_raster_px": 42,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              535,
+              980,
+              683,
+              1021
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R003",
+            "class": "staff",
+            "synthetic_name": "한도겸",
+            "observed_form": "한도겸",
+            "token": "노란달빛",
+            "erase_box": [
+              1728,
+              965,
+              2023,
+              1038
+            ],
+            "token_role": "crew",
+            "token_layout": "4",
+            "font_base_px": 20,
+            "font_raster_px": 42,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              1802,
+              981,
+              1950,
+              1023
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R002",
+            "class": "staff",
+            "synthetic_name": "오서윤",
+            "observed_form": "오서윤",
+            "token": "푸른나무",
+            "erase_box": [
+              1117,
+              970,
+              1373,
+              1018
+            ],
+            "token_role": "crew",
+            "token_layout": "4",
+            "font_base_px": 20,
+            "font_raster_px": 42,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              1171,
+              974,
+              1319,
+              1015
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          }
+        ],
+        "contact_boxes": [],
+        "approval_cells": [
+          {
+            "cell": 3,
+            "box": [
+              1525,
+              602,
+              1686,
+              819
+            ]
+          },
+          {
+            "cell": 5,
+            "box": [
+              1778,
+              602,
+              1942,
+              819
+            ]
+          },
+          {
+            "cell": 7,
+            "box": [
+              2040,
+              602,
+              2211,
+              819
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "page_id": "demo-1994-p08",
+      "filename": "1994 · Page 8 · Linking a small body-text name to the same person in the credits",
+      "year": "1994",
+      "document": "1994 public demo",
+      "width": 2448,
+      "height": 3507,
+      "sha256": "29fcf97f3ab6f636328b3558cae9ca6c641ab69ae20235b1ff004506298c41a3",
+      "safe_sha256": "698c5ca2636025817a04726240157b03787dc299b216bf1c37657647e219a847",
+      "fingerprint": "30387b6daa2d0bad118678b2b296c6ac4dce9f8ca4e5c812770a9511b5315d99",
+      "images": {
+        "before": "../demo/1994/complete/demo-source-safe/p08.webp",
+        "after": "../demo/1994/complete/final/p08.webp"
+      },
+      "metadata": {
+        "version": "public-demo-2026-09-26",
+        "sample": true,
+        "physical_pdf_page": 8,
+        "logical_panel": "full"
+      },
+      "context": "Linking a small body-text name to the same person in the credits",
+      "evidence": {
+        "operations": "../demo/1994/complete/operations.json",
+        "page_map": "../demo/1994/complete/page-map.json",
+        "decisions": "../demo/decisions.json",
+        "demo": "../../demo.md#decisions-to-repair"
+      },
+      "operations": {
+        "filename": "p08.webp",
+        "names": [
+          {
+            "region_id": "R005",
+            "class": "staff",
+            "synthetic_name": "김하린",
+            "observed_form": "김하린",
+            "token": "구름바다",
+            "erase_box": [
+              1657,
+              674,
+              1923,
+              744
+            ],
+            "token_role": "crew",
+            "token_layout": "4",
+            "font_base_px": 20,
+            "font_raster_px": 42,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              1716,
+              689,
+              1864,
+              730
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "M001",
+            "class": "staff",
+            "synthetic_name": "오서윤",
+            "observed_form": "오서윤",
+            "token": "푸른나무",
+            "erase_box": [
+              1669,
+              753,
+              1933,
+              802
+            ],
+            "token_role": "crew",
+            "token_layout": "4",
+            "font_base_px": 20,
+            "font_raster_px": 42,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              1726,
+              757,
+              1874,
+              798
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "M002",
+            "class": "staff",
+            "synthetic_name": "한도겸",
+            "observed_form": "한도겸",
+            "token": "노란달빛",
+            "erase_box": [
+              1672,
+              816,
+              1950,
+              877
+            ],
+            "token_role": "crew",
+            "token_layout": "4",
+            "font_base_px": 20,
+            "font_raster_px": 42,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              1737,
+              825,
+              1885,
+              867
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "M003",
+            "class": "staff",
+            "synthetic_name": "오서윤",
+            "observed_form": "오서윤",
+            "token": "푸른나무",
+            "erase_box": [
+              2134,
+              1133,
+              2224,
+              1190
+            ],
+            "token_role": "body",
+            "token_layout": "2+2",
+            "font_base_px": 14,
+            "font_raster_px": 29,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              2125,
+              1129,
+              2179,
+              1188
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          }
+        ],
+        "contact_boxes": [],
+        "approval_cells": [
+          {
+            "cell": 3,
+            "box": [
+              1448,
+              378,
+              1643,
+              563
+            ]
+          },
+          {
+            "cell": 5,
+            "box": [
+              1722,
+              378,
+              1912,
+              563
+            ]
+          },
+          {
+            "cell": 7,
+            "box": [
+              1994,
+              378,
+              2179,
+              563
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "page_id": "demo-2003-p05",
+      "filename": "2003 · Page 5 · Production-credit tokens and private-individual name redaction",
+      "year": "2003",
+      "document": "2003 public demo",
+      "width": 2448,
+      "height": 3507,
+      "sha256": "35ba315217cd0f3ca616ea362803590bbd36bbe72be29970051c8e78977ac557",
+      "safe_sha256": "cac0511f045aeb5e6fff0a62ed98f38255f408a8fe65e9a8472cd7ffe196192e",
+      "fingerprint": "bd6ac8334eaf190c7a9a34363b9ef43d521cefddb5a9724f59bc0b05cbda935e",
+      "images": {
+        "before": "../demo/2003/complete/demo-source-safe/p05.webp",
+        "after": "../demo/2003/complete/final/p05.webp"
+      },
+      "metadata": {
+        "version": "public-demo-2026-09-26",
+        "sample": true,
+        "physical_pdf_page": 5,
+        "logical_panel": "full"
+      },
+      "context": "Production-credit tokens and private-individual name redaction",
+      "evidence": {
+        "operations": "../demo/2003/complete/operations.json",
+        "page_map": "../demo/2003/complete/page-map.json",
+        "decisions": "../demo/decisions.json",
+        "demo": "../../demo.md#decisions-to-repair"
+      },
+      "operations": {
+        "filename": "p05.webp",
+        "names": [
+          {
+            "region_id": "R012",
+            "class": "staff",
+            "synthetic_name": "이해준",
+            "observed_form": "이해준",
+            "token": "여름바람",
+            "erase_box": [
+              1697,
+              881,
+              1844,
+              942
+            ],
+            "token_role": "crew",
+            "token_layout": "4",
+            "font_base_px": 16,
+            "font_raster_px": 33,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              1710,
+              893,
+              1830,
+              927
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R013",
+            "class": "staff",
+            "synthetic_name": "김소린",
+            "observed_form": "김소린",
+            "token": "새벽노을",
+            "erase_box": [
+              1864,
+              881,
+              2011,
+              942
+            ],
+            "token_role": "crew",
+            "token_layout": "4",
+            "font_base_px": 16,
+            "font_raster_px": 33,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              1877,
+              892,
+              1997,
+              926
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R014",
+            "class": "staff",
+            "synthetic_name": "문지호",
+            "observed_form": "문지호",
+            "token": "초록별빛",
+            "erase_box": [
+              1737,
+              936,
+              1910,
+              996
+            ],
+            "token_role": "crew",
+            "token_layout": "4",
+            "font_base_px": 16,
+            "font_raster_px": 33,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              1763,
+              950,
+              1883,
+              984
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R015",
+            "class": "staff",
+            "synthetic_name": "김소린",
+            "observed_form": "소린",
+            "token": "새벽노을",
+            "erase_box": [
+              545,
+              1250,
+              620,
+              1325
+            ],
+            "token_role": "header",
+            "token_layout": "2+2",
+            "font_base_px": 17,
+            "font_raster_px": 35,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              555,
+              1252,
+              619,
+              1322
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R016",
+            "class": "private",
+            "erase_box": [
+              1108,
+              2049,
+              1241,
+              2093
+            ],
+            "token": null,
+            "source": "agent_reading_of_safe_image_with_user_guides"
+          }
+        ],
+        "contact_boxes": [],
+        "approval_cells": [
+          {
+            "cell": 3,
+            "box": [
+              1514,
+              578,
+              1659,
+              734
+            ]
+          },
+          {
+            "cell": 5,
+            "box": [
+              1730,
+              578,
+              1888,
+              734
+            ]
+          },
+          {
+            "cell": 7,
+            "box": [
+              1965,
+              578,
+              2110,
+              734
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "page_id": "demo-2003-p07",
+      "filename": "2003 · Page 7 · Seven shortened-name occurrences for the same speakers",
+      "year": "2003",
+      "document": "2003 public demo",
+      "width": 2448,
+      "height": 3507,
+      "sha256": "bfcf06531ccb619228878a459a2a65236322563b3919eb2beac27c32d509b43a",
+      "safe_sha256": "91bb1f1147db0e6ea039005436b6eb1b1fea0192f3295b5ee553f011281470c2",
+      "fingerprint": "698acf3ffd668c35360be6d5f48d78fde4b3ae724fdf034994fad7207373fd25",
+      "images": {
+        "before": "../demo/2003/complete/demo-source-safe/p07.webp",
+        "after": "../demo/2003/complete/final/p07.webp"
+      },
+      "metadata": {
+        "version": "public-demo-2026-09-26",
+        "sample": true,
+        "physical_pdf_page": 7,
+        "logical_panel": "full"
+      },
+      "context": "Seven shortened-name occurrences for the same speakers",
+      "evidence": {
+        "operations": "../demo/2003/complete/operations.json",
+        "page_map": "../demo/2003/complete/page-map.json",
+        "decisions": "../demo/decisions.json",
+        "demo": "../../demo.md#decisions-to-repair"
+      },
+      "operations": {
+        "filename": "p07.webp",
+        "names": [
+          {
+            "region_id": "R019",
+            "class": "staff",
+            "synthetic_name": "이해준",
+            "observed_form": "해준",
+            "token": "여름바람",
+            "erase_box": [
+              663,
+              584,
+              749,
+              643
+            ],
+            "token_role": "header",
+            "token_layout": "2+2",
+            "font_base_px": 17,
+            "font_raster_px": 35,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              684,
+              578,
+              748,
+              648
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R020",
+            "class": "staff",
+            "synthetic_name": "김소린",
+            "observed_form": "소린",
+            "token": "새벽노을",
+            "erase_box": [
+              650,
+              1027,
+              736,
+              1082
+            ],
+            "token_role": "header",
+            "token_layout": "2+2",
+            "font_base_px": 17,
+            "font_raster_px": 35,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              672,
+              1019,
+              736,
+              1089
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R021",
+            "class": "staff",
+            "synthetic_name": "이해준",
+            "observed_form": "해준",
+            "token": "여름바람",
+            "erase_box": [
+              658,
+              1256,
+              731,
+              1308
+            ],
+            "token_role": "header",
+            "token_layout": "2+2",
+            "font_base_px": 17,
+            "font_raster_px": 35,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              666,
+              1247,
+              730,
+              1317
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R022",
+            "class": "staff",
+            "synthetic_name": "김소린",
+            "observed_form": "소린",
+            "token": "새벽노을",
+            "erase_box": [
+              645,
+              1604,
+              736,
+              1667
+            ],
+            "token_role": "header",
+            "token_layout": "2+2",
+            "font_base_px": 17,
+            "font_raster_px": 35,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              672,
+              1600,
+              736,
+              1670
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R023",
+            "class": "staff",
+            "synthetic_name": "이해준",
+            "observed_form": "해준",
+            "token": "여름바람",
+            "erase_box": [
+              651,
+              1830,
+              728,
+              1888
+            ],
+            "token_role": "header",
+            "token_layout": "2+2",
+            "font_base_px": 17,
+            "font_raster_px": 35,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              663,
+              1824,
+              727,
+              1894
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R024",
+            "class": "staff",
+            "synthetic_name": "김소린",
+            "observed_form": "소린",
+            "token": "새벽노을",
+            "erase_box": [
+              649,
+              2169,
+              734,
+              2222
+            ],
+            "token_role": "header",
+            "token_layout": "2+2",
+            "font_base_px": 17,
+            "font_raster_px": 35,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              670,
+              2160,
+              734,
+              2230
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R025",
+            "class": "staff",
+            "synthetic_name": "이해준",
+            "observed_form": "해준",
+            "token": "여름바람",
+            "erase_box": [
+              668,
+              2392,
+              749,
+              2467
+            ],
+            "token_role": "header",
+            "token_layout": "2+2",
+            "font_base_px": 17,
+            "font_raster_px": 35,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              685,
+              2395,
+              749,
+              2465
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          }
+        ],
+        "contact_boxes": [],
+        "approval_cells": []
+      }
+    },
+    {
+      "page_id": "demo-2003-p15",
+      "filename": "2003 · Page 15 · Person designated by the user for preservation",
+      "year": "2003",
+      "document": "2003 public demo",
+      "width": 2448,
+      "height": 3507,
+      "sha256": "09aeb3144cb4a9d4704204e1654d9e714b2af6c44d637e3d142e1ddef6b647ff",
+      "safe_sha256": "c3fc78028134350350ebfa4a803d625703d65d8c6e8b092fc6da734714ec4ab2",
+      "fingerprint": "bcdcc5cf5233315d3f5fd2f0f175dedb3783522bc6c8440598e6f6132634452e",
+      "images": {
+        "before": "../demo/2003/complete/demo-source-safe/p15.webp",
+        "after": "../demo/2003/complete/final/p15.webp"
+      },
+      "metadata": {
+        "version": "public-demo-2026-09-26",
+        "sample": true,
+        "physical_pdf_page": 15,
+        "logical_panel": "full"
+      },
+      "context": "Person designated by the user for preservation",
+      "evidence": {
+        "operations": "../demo/2003/complete/operations.json",
+        "page_map": "../demo/2003/complete/page-map.json",
+        "decisions": "../demo/decisions.json",
+        "demo": "../../demo.md#decisions-to-repair"
+      },
+      "operations": {
+        "filename": "p15.webp",
+        "names": [],
+        "contact_boxes": [],
+        "approval_cells": []
+      }
+    },
+    {
+      "page_id": "demo-2017-p06",
+      "filename": "2017 · Page 6 · Distinct identities for cancelled printed names and new handwriting",
+      "year": "2017",
+      "document": "2017 public demo",
+      "width": 2448,
+      "height": 3507,
+      "sha256": "95fce74b3fff1a2adfae8d5987db8e663118bdcd851457888da42b50a0c204ce",
+      "safe_sha256": "2d02a79a47bbb78e594c371f5ab37a4de6bda64e38cce5dd837a3fbdc07e5a95",
+      "fingerprint": "5bf731008bc9d2b86663cbd2cf06d80e2127fa2b1296aad4e2c41dbc6785a5ec",
+      "images": {
+        "before": "../demo/2017/complete/demo-source-safe/p06.webp",
+        "after": "../demo/2017/complete/final/p06.webp"
+      },
+      "metadata": {
+        "version": "public-demo-2026-09-26",
+        "sample": true,
+        "physical_pdf_page": 6,
+        "logical_panel": "full"
+      },
+      "context": "Distinct identities for cancelled printed names and new handwriting",
+      "evidence": {
+        "operations": "../demo/2017/complete/operations.json",
+        "page_map": "../demo/2017/complete/page-map.json",
+        "decisions": "../demo/decisions.json",
+        "demo": "../../demo.md#decisions-to-repair"
+      },
+      "operations": {
+        "filename": "p06.webp",
+        "names": [
+          {
+            "region_id": "R118",
+            "class": "staff",
+            "synthetic_name": "정하람",
+            "observed_form": "정하람",
+            "token": "하늘연못",
+            "erase_box": [
+              1834,
+              688,
+              1963,
+              736
+            ],
+            "token_role": "crew",
+            "token_layout": "4",
+            "font_base_px": 16,
+            "font_raster_px": 33,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              1838,
+              695,
+              1958,
+              729
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R119",
+            "class": "staff",
+            "synthetic_name": "차민재",
+            "observed_form": "차민재",
+            "token": "은빛물결",
+            "erase_box": [
+              1837,
+              758,
+              1971,
+              809
+            ],
+            "token_role": "crew",
+            "token_layout": "4",
+            "font_base_px": 16,
+            "font_raster_px": 33,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              1847,
+              766,
+              1967,
+              800
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R120",
+            "class": "staff",
+            "synthetic_name": "고나린",
+            "observed_form": "고나린",
+            "token": "봄날햇살",
+            "erase_box": [
+              1790,
+              830,
+              1968,
+              886
+            ],
+            "token_role": "crew",
+            "token_layout": "4",
+            "font_base_px": 16,
+            "font_raster_px": 33,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              1819,
+              840,
+              1939,
+              874
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R121",
+            "class": "staff",
+            "synthetic_name": "배서우",
+            "observed_form": "배서우",
+            "token": "산들구름",
+            "erase_box": [
+              1974,
+              832,
+              2115,
+              883
+            ],
+            "token_role": "crew",
+            "token_layout": "4",
+            "font_base_px": 16,
+            "font_raster_px": 33,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              1984,
+              840,
+              2104,
+              874
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R122",
+            "class": "staff",
+            "synthetic_name": "김도현",
+            "observed_form": "김도현",
+            "token": "작은우주",
+            "erase_box": [
+              1743,
+              1657,
+              1896,
+              1739
+            ],
+            "token_role": "body",
+            "token_layout": "2+2",
+            "font_base_px": 17,
+            "font_raster_px": 35,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              1783,
+              1663,
+              1847,
+              1733
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R124",
+            "class": "staff",
+            "synthetic_name": "고나린",
+            "observed_form": "고",
+            "token": "봄날햇살",
+            "erase_box": [
+              580,
+              1734,
+              626,
+              1780
+            ],
+            "token_role": "header",
+            "token_layout": "2+2",
+            "font_base_px": 17,
+            "font_raster_px": 35,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              564,
+              1722,
+              628,
+              1792
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R123",
+            "class": "staff",
+            "synthetic_name": "고나린",
+            "observed_form": "고나린",
+            "token": "봄날햇살",
+            "erase_box": [
+              1719,
+              1718,
+              1906,
+              1786
+            ],
+            "token_role": "body",
+            "token_layout": "4",
+            "font_base_px": 22,
+            "font_raster_px": 46,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              1736,
+              1737,
+              1900,
+              1782
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": true,
+            "cancellation_lines": [
+              [
+                1739,
+                1759,
+                1897,
+                1760
+              ]
+            ]
+          },
+          {
+            "region_id": "R125",
+            "class": "staff",
+            "synthetic_name": "한예솔",
+            "observed_form": "한예솔",
+            "token": "맑은수풀",
+            "erase_box": [
+              1817,
+              1839,
+              1978,
+              1911
+            ],
+            "token_role": "body",
+            "token_layout": "2+2",
+            "font_base_px": 17,
+            "font_raster_px": 35,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              1863,
+              1840,
+              1927,
+              1910
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R126",
+            "class": "staff",
+            "synthetic_name": "배서우",
+            "observed_form": "배서우",
+            "token": "산들구름",
+            "erase_box": [
+              1803,
+              1892,
+              1994,
+              1958
+            ],
+            "token_role": "body",
+            "token_layout": "4",
+            "font_base_px": 22,
+            "font_raster_px": 46,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              1822,
+              1906,
+              1986,
+              1951
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": true,
+            "cancellation_lines": [
+              [
+                1825,
+                1928,
+                1983,
+                1929
+              ]
+            ]
+          },
+          {
+            "region_id": "R127",
+            "class": "staff",
+            "synthetic_name": "배서우",
+            "observed_form": "배",
+            "token": "산들구름",
+            "erase_box": [
+              580,
+              1914,
+              620,
+              1958
+            ],
+            "token_role": "header",
+            "token_layout": "2+2",
+            "font_base_px": 17,
+            "font_raster_px": 35,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              564,
+              1901,
+              628,
+              1971
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R128",
+            "class": "staff",
+            "synthetic_name": "고나린",
+            "observed_form": "고",
+            "token": "봄날햇살",
+            "erase_box": [
+              580,
+              2089,
+              626,
+              2135
+            ],
+            "token_role": "header",
+            "token_layout": "2+2",
+            "font_base_px": 17,
+            "font_raster_px": 35,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              564,
+              2077,
+              628,
+              2147
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "M007",
+            "class": "staff",
+            "synthetic_name": "김도현",
+            "observed_form": "도현",
+            "token": "작은우주",
+            "erase_box": [
+              710,
+              2266,
+              806,
+              2352
+            ],
+            "token_role": "body",
+            "token_layout": "2+2",
+            "font_base_px": 17,
+            "font_raster_px": 35,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              726,
+              2274,
+              790,
+              2344
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R129",
+            "class": "staff",
+            "synthetic_name": "고나린",
+            "observed_form": "나린",
+            "token": "봄날햇살",
+            "erase_box": [
+              703,
+              2344,
+              820,
+              2399
+            ],
+            "token_role": "body",
+            "token_layout": "2+2",
+            "font_base_px": 14,
+            "font_raster_px": 29,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              735,
+              2342,
+              789,
+              2402
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": true,
+            "cancellation_lines": [
+              [
+                738,
+                2356,
+                787,
+                2357
+              ],
+              [
+                737,
+                2386,
+                787,
+                2387
+              ]
+            ]
+          },
+          {
+            "region_id": "R130",
+            "class": "staff",
+            "synthetic_name": "배서우",
+            "observed_form": "배",
+            "token": "산들구름",
+            "erase_box": [
+              581,
+              2355,
+              620,
+              2399
+            ],
+            "token_role": "header",
+            "token_layout": "2+2",
+            "font_base_px": 17,
+            "font_raster_px": 35,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              564,
+              2342,
+              628,
+              2412
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R131",
+            "class": "staff",
+            "synthetic_name": "고나린",
+            "observed_form": "고",
+            "token": "봄날햇살",
+            "erase_box": [
+              581,
+              2617,
+              627,
+              2663
+            ],
+            "token_role": "header",
+            "token_layout": "2+2",
+            "font_base_px": 17,
+            "font_raster_px": 35,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              565,
+              2605,
+              629,
+              2675
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          }
+        ],
+        "contact_boxes": [],
+        "approval_cells": [
+          {
+            "cell": 3,
+            "box": [
+              1400,
+              453,
+              1736,
+              606
+            ]
+          },
+          {
+            "cell": 5,
+            "box": [
+              1816,
+              453,
+              1982,
+              606
+            ]
+          },
+          {
+            "cell": 7,
+            "box": [
+              2053,
+              453,
+              2216,
+              606
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "page_id": "demo-2017-p07",
+      "filename": "2017 · Page 7 · Processing the old and revised numbers",
+      "year": "2017",
+      "document": "2017 public demo",
+      "width": 2448,
+      "height": 3507,
+      "sha256": "e6b42d4a4e972d43c6d85d89a896701539648ebd57a6ca6f98d6b87ea2695749",
+      "safe_sha256": "bce98728bd47c3c8b8b7f28f957b923f5be2b7c02f54a2863283ff976b8f27c3",
+      "fingerprint": "741796229ac43f396e5c2cd67f4db0051a60bfbf45082ddb7d79577a6f2352e8",
+      "images": {
+        "before": "../demo/2017/complete/demo-source-safe/p07.webp",
+        "after": "../demo/2017/complete/final/p07.webp"
+      },
+      "metadata": {
+        "version": "public-demo-2026-09-26",
+        "sample": true,
+        "physical_pdf_page": 7,
+        "logical_panel": "full"
+      },
+      "context": "Processing the old and revised numbers",
+      "evidence": {
+        "operations": "../demo/2017/complete/operations.json",
+        "page_map": "../demo/2017/complete/page-map.json",
+        "decisions": "../demo/decisions.json",
+        "demo": "../../demo.md#decisions-to-repair"
+      },
+      "operations": {
+        "filename": "p07.webp",
+        "names": [
+          {
+            "region_id": "R132",
+            "class": "staff",
+            "synthetic_name": "배서우",
+            "observed_form": "배",
+            "token": "산들구름",
+            "erase_box": [
+              735,
+              455,
+              775,
+              499
+            ],
+            "token_role": "header",
+            "token_layout": "2+2",
+            "font_base_px": 17,
+            "font_raster_px": 35,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              719,
+              442,
+              783,
+              512
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R133",
+            "class": "staff",
+            "synthetic_name": "고나린",
+            "observed_form": "고",
+            "token": "봄날햇살",
+            "erase_box": [
+              735,
+              628,
+              780,
+              674
+            ],
+            "token_role": "header",
+            "token_layout": "2+2",
+            "font_base_px": 17,
+            "font_raster_px": 35,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              718,
+              616,
+              782,
+              686
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R136",
+            "class": "staff",
+            "synthetic_name": "배서우",
+            "observed_form": "배",
+            "token": "산들구름",
+            "erase_box": [
+              734,
+              1328,
+              774,
+              1374
+            ],
+            "token_role": "header",
+            "token_layout": "2+2",
+            "font_base_px": 17,
+            "font_raster_px": 35,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              718,
+              1316,
+              782,
+              1386
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R137",
+            "class": "staff",
+            "synthetic_name": "고나린",
+            "observed_form": "고",
+            "token": "봄날햇살",
+            "erase_box": [
+              735,
+              1679,
+              781,
+              1726
+            ],
+            "token_role": "header",
+            "token_layout": "2+2",
+            "font_base_px": 17,
+            "font_raster_px": 35,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              719,
+              1668,
+              783,
+              1738
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          }
+        ],
+        "contact_boxes": [
+          [
+            1010,
+            980,
+            1435,
+            1050
+          ],
+          [
+            1046,
+            1040,
+            1501,
+            1089
+          ]
+        ],
+        "approval_cells": []
+      }
+    },
+    {
+      "page_id": "demo-2017-p13",
+      "filename": "2017 · Page 13 · Cancellation indicators with departments and entry years preserved",
+      "year": "2017",
+      "document": "2017 public demo",
+      "width": 2448,
+      "height": 3507,
+      "sha256": "7a7dfc3d8e34b5b147a3ca237ce81c5538db667e308e6ea832e2fdcd93f77f53",
+      "safe_sha256": "481af44c0fd8c640203b0d0fed03cbc75f7c34ad17b4c20c9591bb9e17122eb6",
+      "fingerprint": "ef7bda4a5bacb4124ea6e68594e547471af092b39eacca3963e19e02444206ae",
+      "images": {
+        "before": "../demo/2017/complete/demo-source-safe/p13.webp",
+        "after": "../demo/2017/complete/final/p13.webp"
+      },
+      "metadata": {
+        "version": "public-demo-2026-09-26",
+        "sample": true,
+        "physical_pdf_page": 13,
+        "logical_panel": "full"
+      },
+      "context": "Cancellation indicators with departments and entry years preserved",
+      "evidence": {
+        "operations": "../demo/2017/complete/operations.json",
+        "page_map": "../demo/2017/complete/page-map.json",
+        "decisions": "../demo/decisions.json",
+        "demo": "../../demo.md#decisions-to-repair"
+      },
+      "operations": {
+        "filename": "p13.webp",
+        "names": [
+          {
+            "region_id": "M016",
+            "class": "staff",
+            "synthetic_name": "한예솔",
+            "observed_form": "한예솔",
+            "token": "맑은수풀",
+            "erase_box": [
+              1422,
+              297,
+              1707,
+              391
+            ],
+            "token_role": "body",
+            "token_layout": "4",
+            "font_base_px": 22,
+            "font_raster_px": 46,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              1482,
+              322,
+              1646,
+              367
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": true,
+            "cancellation_lines": [
+              [
+                1487,
+                344,
+                1643,
+                345
+              ]
+            ]
+          },
+          {
+            "region_id": "R195",
+            "class": "staff",
+            "synthetic_name": "배서우",
+            "observed_form": "배",
+            "token": "산들구름",
+            "erase_box": [
+              717,
+              433,
+              756,
+              477
+            ],
+            "token_role": "header",
+            "token_layout": "2+2",
+            "font_base_px": 17,
+            "font_raster_px": 35,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              700,
+              420,
+              764,
+              490
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R196",
+            "class": "staff",
+            "synthetic_name": "배서우",
+            "observed_form": "배서우",
+            "token": "산들구름",
+            "erase_box": [
+              845,
+              500,
+              1029,
+              566
+            ],
+            "token_role": "body",
+            "token_layout": "4",
+            "font_base_px": 22,
+            "font_raster_px": 46,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              853,
+              508,
+              1017,
+              553
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": true,
+            "cancellation_lines": [
+              [
+                856,
+                530,
+                1014,
+                531
+              ]
+            ]
+          },
+          {
+            "region_id": "R197",
+            "class": "staff",
+            "synthetic_name": "한예솔",
+            "observed_form": "한예솔",
+            "token": "맑은수풀",
+            "erase_box": [
+              866,
+              562,
+              1061,
+              637
+            ],
+            "token_role": "body",
+            "token_layout": "4",
+            "font_base_px": 22,
+            "font_raster_px": 46,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              881,
+              577,
+              1045,
+              622
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R198",
+            "class": "staff",
+            "synthetic_name": "고나린",
+            "observed_form": "고",
+            "token": "봄날햇살",
+            "erase_box": [
+              716,
+              694,
+              762,
+              737
+            ],
+            "token_role": "header",
+            "token_layout": "2+2",
+            "font_base_px": 17,
+            "font_raster_px": 35,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              700,
+              680,
+              764,
+              750
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": false
+          },
+          {
+            "region_id": "R199",
+            "class": "staff",
+            "synthetic_name": "고나린",
+            "observed_form": "고나린",
+            "token": "봄날햇살",
+            "erase_box": [
+              854,
+              779,
+              1040,
+              846
+            ],
+            "token_role": "body",
+            "token_layout": "2+2",
+            "font_base_px": 17,
+            "font_raster_px": 35,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              900,
+              776,
+              964,
+              846
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": true,
+            "cancellation_lines": [
+              [
+                903,
+                793,
+                962,
+                794
+              ],
+              [
+                903,
+                827,
+                962,
+                828
+              ]
+            ]
+          },
+          {
+            "region_id": "M017",
+            "class": "staff",
+            "synthetic_name": "김도현",
+            "observed_form": "도현",
+            "token": "작은우주",
+            "erase_box": [
+              847,
+              840,
+              971,
+              917
+            ],
+            "token_role": "body",
+            "token_layout": "2+2",
+            "font_base_px": 17,
+            "font_raster_px": 35,
+            "scale_from_1684_logical_height": 2.082541567695962,
+            "horizontal_glyph_compression": false,
+            "non_target_ink_overlap_pixels": 0,
+            "token_box": [
+              870,
+              843,
+              934,
+              913
+            ],
+            "geometry_source": "current_safe_image_ink_inside_carried_guide",
+            "input_cancelled": true,
+            "cancellation_lines": [
+              [
+                872,
+                860,
+                931,
+                861
+              ],
+              [
+                873,
+                895,
+                931,
+                896
+              ]
+            ]
+          }
+        ],
+        "contact_boxes": [],
+        "approval_cells": []
+      }
+    }
+  ]
+}
