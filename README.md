@@ -28,6 +28,14 @@ Scanning began on February 17, 2026, and ended on June 6. After scanning and ini
 
 I paid all costs myself. I am grateful to the senior alumnus who helped carry the cue-sheet boxes. The dates and circumstances above are the creator's confirmed account; the processing supported by contemporary code and records continues in [Workflow](workflow/pipeline.md#source-and-ocr) and History.
 
+## Why I decided to publish
+
+I decided to make these materials publicly available after considering their historical value, the purpose of publication, and the privacy safeguards I implemented and the reviews I conducted. The project was not intended to generate revenue; its purpose was to enable the community and future generations to read and use records created by generations of members. The safeguards and review process are documented in the separately published workflow.
+
+Although reaching everyone connected with these historical records individually was difficult in practice, I sought to make the materials’ existence and public availability known within practical limits. I informed alumni that the archive had been made publicly available online and explained how the materials had been processed and distributed. I also created and shared VOKU On so they could access and read the materials. Returning these records to the community that created them was part of this work.
+
+Based on these preparations, I concluded that making the records publicly available with these safeguards in place, so that people could read and use them again, was consistent with the purpose of preservation. Following publication, I will continue to respond responsibly to specific feedback or concerns raised by those directly connected with the materials.
+
 ## Public scope and remaining limits
 
 This repository **does not distribute the full 66,010-page dataset.** Public files consist of explanatory documents, selected code, prepared photographs, a demo with synthetic personal identifiers, and the review web app, managed through the [public file list](public-files.txt). They do not include images or OCR of the complete real scripts, operational databases, real-name mappings, or private review records. [History's scope and counts](history/reference/status-and-counts.md) explains the processing scope and counting rules.
